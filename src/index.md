@@ -1,12 +1,12 @@
 layout: page
-title: 首页
-slug: index
+title: 产品
+slug: products
 status: publish
 author: MIKA
 
 
 ---
 
-### 这是一个首页测试也
+### 这是一个产品测试页
 
-#### this is the index test page
+#### this is the products test page
