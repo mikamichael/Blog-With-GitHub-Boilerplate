@@ -6,14 +6,147 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
     <loc>/about/</loc>
-    <lastmod>2017-06-28</lastmod>
+    <lastmod>2019-12-30</lastmod>
     <changefreq>always</changefreq>
     <priority>0.8</priority>
 </url>
 
 <url>
-    <loc>/archives/typography/</loc>
-    <lastmod>2019-12-18</lastmod>
+    <loc>/archives/2020-01-31-02/</loc>
+    <lastmod>2020-01-31</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+</url>
+
+<url>
+    <loc>/archives/2020-01-31-01/</loc>
+    <lastmod>2020-01-31</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+</url>
+
+<url>
+    <loc>/archives/2020-01-30-04/</loc>
+    <lastmod>2020-01-30</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+</url>
+
+<url>
+    <loc>/archives/2020-01-30-02/</loc>
+    <lastmod>2020-01-30</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+</url>
+
+<url>
+    <loc>/archives/2020-01-30-03/</loc>
+    <lastmod>2020-01-30</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+</url>
+
+<url>
+    <loc>/archives/2020-01-30-01/</loc>
+    <lastmod>2020-01-30</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+</url>
+
+<url>
+    <loc>/archives/2020-01-29-01/</loc>
+    <lastmod>2020-01-29</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+</url>
+
+<url>
+    <loc>/archives/2020-01-28-01/</loc>
+    <lastmod>2020-01-28</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+</url>
+
+<url>
+    <loc>/archives/2020-01-27-01/</loc>
+    <lastmod>2020-01-27</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+</url>
+
+<url>
+    <loc>/archives/2020-01-22-02/</loc>
+    <lastmod>2020-01-22</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+</url>
+
+<url>
+    <loc>/archives/2020-01-22-01/</loc>
+    <lastmod>2020-01-22</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+</url>
+
+<url>
+    <loc>/archives/2020-01-10-01/</loc>
+    <lastmod>2020-01-10</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+</url>
+
+<url>
+    <loc>/archives/2020-01-31-04/</loc>
+    <lastmod>2020-01-09</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+</url>
+
+<url>
+    <loc>/archives/2020-01-31-03/</loc>
+    <lastmod>2020-01-09</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+</url>
+
+<url>
+    <loc>/archives/2020-01-09-01/</loc>
+    <lastmod>2020-01-09</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+</url>
+
+<url>
+    <loc>/archives/2020-01-04-02/</loc>
+    <lastmod>2020-01-04</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+</url>
+
+<url>
+    <loc>/archives/2020-01-04-01/</loc>
+    <lastmod>2020-01-04</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+</url>
+
+<url>
+    <loc>/archives/2020-01-02/</loc>
+    <lastmod>2020-01-02</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+</url>
+
+<url>
+    <loc>/archives/2020-01-02-01/</loc>
+    <lastmod>2020-01-02</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+</url>
+
+<url>
+    <loc>/archives/my-first-awesome-post/</loc>
+    <lastmod>2019-12-17</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
 </url>
