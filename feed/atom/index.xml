@@ -1,229 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-CN"><id>/</id><title>外贸启航站</title><updated>2020-02-04T04:43:29.948335+08:06</updated><author><name>MIKA</name><email>359911923@qq.com</email></author><link href="/" rel="alternate"/><generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator><logo>https://cdn.jsdelivr.net/gh/mikamichael/Blog-With-GitHub-Boilerplate@gh-pages/logo.png</logo><subtitle>外贸路上，愿我们都不再孤单。</subtitle><entry><id>/archives/2020-01-31-01/</id><title>商务英语之外贸谈判</title><updated>2020-02-04T04:43:29.948708+00:00</updated><author><name>MIKA</name><email>359911923@qq.com</email><uri>https://www.wangxfei.com</uri></author><content>&lt;p&gt;&lt;strong&gt; What about the price?&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt; 对价格有什么看法？&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;The price you provide is much higher than market price.
-你们提供的价格远远高于市场价格。&lt;/li&gt;
-&lt;li&gt;The price is quite fair. We'll think it over. 
-价格十分公道，我们会认真考虑的。&lt;/li&gt;
-&lt;li&gt;We'll inform you through discussing with our manager.
-我们与经理讨论后将通知贵方。&lt;/li&gt;
-&lt;li&gt;Your price is higher than those we got from elsewhere.
-你们的价格比我们从别处得到的报价要高。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt; How do you like the goods dispatched, by railway or by sea?&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;你将怎么发运货物，铁路海上海运？&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;By sea, please, Because of the high cost of railway tansportation, we prefer sea tarnsportatioh.
-请用海运发货，铁路运输费用太高，我们更乐于发海运。&lt;/li&gt;
-&lt;li&gt;We'd like to deliver these goods by railway.
-我们希望通过铁路来运送这些货物。&lt;/li&gt;
-&lt;li&gt;By air will be preferable, since we are eager to use the products.
-空运更为优越。因为我们急于使用这些产品.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt; Is this going to satisfy your requirements?&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt; 这个符合你的要求吗？&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Actually， it is more than we need. 
-事实上，这已经超出了我们所需要的。&lt;/li&gt;
-&lt;li&gt;Yes, we just need this type of product. 
-是的，我们就需要这种型号的产品。&lt;/li&gt;
-&lt;li&gt;Sorry, can you provide a little cheaper model?
-抱歉，你们能提供更便宜一些的型号吗？&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt; Is there much of a difference in price?&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt; 价格也有很大的区别吧？&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Yes, the economy model is about 30% less.
-使得，经济型的大约便宜30%。&lt;/li&gt;
-&lt;li&gt;No, the prices are almost the same.
-没有，价格基本上都一样&lt;/li&gt;
-&lt;li&gt;Yes, the price of the blue one is much higher than that of the gray one.
-使得，蓝颜色的那个比灰色的贵很多。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3&gt;一、Arrangements for the negotiation 安排谈判&lt;/h3&gt;
-&lt;p&gt;A: Hello. Mr. Zhang, Please come and sit down.&lt;/p&gt;
-&lt;p&gt;A: 你好，张先生。请坐。&lt;/p&gt;
-&lt;p&gt;B: Thanks you. I'm so glad to see you again.&lt;/p&gt;
-&lt;p&gt;B: 谢谢。很高兴再见到你。&lt;/p&gt;
-&lt;p&gt;A: Me too.&lt;/p&gt;
-&lt;p&gt;A: 我也是。&lt;/p&gt;
-&lt;p&gt;B: I'm also pleased that we have been doing business so well with each other and our cooperation over the years has been a fruitful one.&lt;/p&gt;
-&lt;p&gt;B: 我也很高兴我们之间的贸易关系能保持得如此良好。我们双方的合作是我们多年来合作关系中有成果的一个。&lt;/p&gt;
-&lt;p&gt;A: I'm glad that you are satisfied with the service we provided.&lt;/p&gt;
-&lt;p&gt;A: 很高兴我们提供的服务服务满足贵方的要求。&lt;/p&gt;
-&lt;p&gt;B: As you know, one of the purposes of my present visit here is to discuss ways of strengthening the relationship between us.&lt;/p&gt;
-&lt;p&gt;B: 你知道，我这次拜访贵公司的其中一个目的是讨论如何加强双方的关系。&lt;/p&gt;
-&lt;p&gt;A: This idea is exactly mine. As a matter of fact, I was going to mention that we still had some capacity at the Vietnam refinery.&lt;/p&gt;
-&lt;p&gt;A: 这也正是我的想法。事实上，我想说的是我们在越南的炼油厂还有生产能力。&lt;/p&gt;
-&lt;p&gt;B: That's interesting. We are going to expand our gasoline import at the moment. It would certainly be easier to deal with an old and reliable friend than to establish a new relationship. Of course, it depends on the processing fee you will offer.&lt;/p&gt;
-&lt;p&gt;B: 太好了。我们正想扩大汽油进口。与可靠的老朋友打交道显然比建立新的业务关系容易多了。当然，这取决于贵方的加工费。&lt;/p&gt;
-&lt;p&gt;A: I think we can work out something there. As a rule, our processing fee decrease with the amount of crude oil we sell.&lt;/p&gt;
-&lt;p&gt;A: 我认为我们可以解决这个问题。最为惯例，我方的加工费会依据原油销售量的增加而减少。&lt;/p&gt;
-&lt;p&gt;B: Good. I think that's something we can talk about in detail later. At present, we are going to buy 6,000 tons of gasoline for our company.&lt;/p&gt;
-&lt;p&gt;B: 好的，我想我们稍后可以讨论下细节。我们公司欲购买6000吨的汽油。&lt;/p&gt;
-&lt;p&gt;A: That's very good.&lt;/p&gt;
-&lt;p&gt;A: 太好了。&lt;/p&gt;
-&lt;p&gt;B: Can you provide it right from the stock?&lt;/p&gt;
-&lt;p&gt;B: 贵方能从库存里提供吗？&lt;/p&gt;
-&lt;p&gt;A: Yes, of course.&lt;/p&gt;
-&lt;p&gt;A: 当然可以。&lt;/p&gt;
-&lt;p&gt;B: That's good. Can we determine the price accoring to the internationally accepted standard?&lt;/p&gt;
-&lt;p&gt;B: 太好了，我们可以根据国际标准确定价格吗？&lt;/p&gt;
-&lt;p&gt;A: Sure.&lt;/p&gt;
-&lt;p&gt;A: 当然可以。&lt;/p&gt;
-&lt;p&gt;B: Good, Now i must try to get a vessel. And if everything goes on well, we can expect to draft ad sign a contract soon.&lt;/p&gt;
-&lt;p&gt;B: 好的，腺癌我得想法联系船运得事了。如果一切顺利得话，我们很快就可以起草和签订合同了。&lt;/p&gt;
-&lt;p&gt;A: Good. We'll get the necessary document drawn up.&lt;/p&gt;
-&lt;p&gt;A: 很好。我方会把需要得文件草拟好。&lt;/p&gt;
-&lt;p&gt;B: And we'll follow the usual signing procedures, shall we?&lt;/p&gt;
-&lt;p&gt;B: 我们将按照通常的签约程序进行，可以吗？&lt;/p&gt;
-&lt;p&gt;A: Yes, that's the best.&lt;/p&gt;
-&lt;p&gt;A: 是的，那样最好不过了。&lt;/p&gt;
-&lt;p&gt;B: But I'm afraid that we'd have to negotiate other terms and conditions concerning this transaction, shall we?&lt;/p&gt;
-&lt;p&gt;B: 但是我想我们还需要就合同的相关条款进行协商。&lt;/p&gt;
-&lt;p&gt;A: If you fell it necessary, let's think them over this evening and meet here tomorrow afternoon.&lt;/p&gt;
-&lt;p&gt;A: 如果你觉得有必要，晚上可以仔细考虑一下，我们明天下午再谈。&lt;/p&gt;
-&lt;p&gt;B: That's good. See you tomorrow.&lt;/p&gt;
-&lt;p&gt;B: 好的，明天见。&lt;/p&gt;
-&lt;p&gt;A: See you.&lt;/p&gt;
-&lt;p&gt;A: 再见。&lt;/p&gt;
-&lt;h4&gt;生词&lt;/h4&gt;
-&lt;p&gt;fruitful 形容词；富有成果的&lt;/p&gt;
-&lt;p&gt;cooperation 名词； 合作&lt;/p&gt;
-&lt;p&gt;strengthen 动词；加强，巩固&lt;/p&gt;
-&lt;p&gt;refinery 名词；炼油厂，精炼厂&lt;/p&gt;
-&lt;p&gt;processing 名词；加工，处理&lt;/p&gt;
-&lt;p&gt;reliable 形容词；可靠的&lt;/p&gt;
-&lt;p&gt;decrease 动词；减少&lt;/p&gt;
-&lt;p&gt;internationally 形容词；国际的&lt;/p&gt;
-&lt;h4&gt;固定用法&lt;/h4&gt;
-&lt;p&gt;think over：仔细考虑，重新考虑&lt;/p&gt;
-&lt;p&gt;例如： I hope that you can think it over.（我希望你能想明白）&lt;/p&gt;
-&lt;p&gt;depend on：依靠，取决于&lt;/p&gt;
-&lt;p&gt;例如：His success depends on years of hard-working.（他的成功取决于多年的辛勤工作。）&lt;/p&gt;
-&lt;h3&gt;二、Example of the negotiation 谈判实例&lt;/h3&gt;
-&lt;p&gt;A: Hello, Mr.Wang. I am glad to meet you here at the fair.&lt;/p&gt;
-&lt;p&gt;A: 你好，王先生，很高兴在交易会上见到你。&lt;/p&gt;
-&lt;p&gt;B: Likewise, Take a seat, please. How about a cup of tea?&lt;/p&gt;
-&lt;p&gt;B:我也很高兴。请坐，喝杯茶好吗？&lt;/p&gt;
-&lt;p&gt;A: Sure. Thank you. It seems your business is prosperous. There are many customers here.&lt;/p&gt;
-&lt;p&gt;A: 好，谢谢。看起来生意很兴旺，这么多客户光临。&lt;/p&gt;
-&lt;p&gt;B: Yes, it's not too bad. Our sales are going up year after year. And we still have a large potential production capacity.&lt;/p&gt;
-&lt;p&gt;B: 是的，还可以。销量年年递增，我们的生产潜力还很大。&lt;/p&gt;
-&lt;p&gt;A: Well, what do you think of choosing a commission repressentative or agent abroad to promote your sales?&lt;/p&gt;
-&lt;p&gt;A: 哦，你们死否想在国外选择一家代办商或代理人为你们推销产品？&lt;/p&gt;
-&lt;p&gt;B: That's a good idea. So far, we have several agents abroad.&lt;/p&gt;
-&lt;p&gt;B: 这个注意不错。不过，目前我们在国外已有几家代理人。&lt;/p&gt;
-&lt;p&gt;A: We are willing to be your agent in Thailand for hand-held tools. What do you think?&lt;/p&gt;
-&lt;p&gt;A: 我们愿意在泰国做你方的手工工具代理人。不知你们意下如何？&lt;/p&gt;
-&lt;p&gt;B: That sounds good.&lt;/p&gt;
-&lt;p&gt;B: 听起来不错。&lt;/p&gt;
-&lt;p&gt;A: Then, what's your usual commission rate for your agents?&lt;/p&gt;
-&lt;p&gt;A: 那么，你们通常给代理人的佣金是多少？&lt;/p&gt;
-&lt;p&gt;B: Usually, we give a commission of 4% to our agents.&lt;/p&gt;
-&lt;p&gt;B: 通常给4%。&lt;/p&gt;
-&lt;p&gt;A: 4% is too low, I think. You see, we have a lot of work to do in sales promotion such as advertising on radio or TV, printing booklets, leaflets, catalogues and so on. It all costs money. 4% is not enough.&lt;/p&gt;
-&lt;p&gt;A: 我认为4%太低了。你知道，为了推销贵公司的产品，我们要坐很多工作。比如，在电台或电视上做广告，印刷小册子、传单和商品目录等。这一切花销，4%是不够的。&lt;/p&gt;
-&lt;p&gt;B: Don't worry, We'll allow you a higher commission rate if your sales score a substantial increase.&lt;/p&gt;
-&lt;p&gt;B: 不必担心，如果你们的销量大幅度增长，我们会给予更高的佣金。&lt;/p&gt;
-&lt;p&gt;A: You mean to say...&lt;/p&gt;
-&lt;p&gt;A: 你的意思是....&lt;/p&gt;
-&lt;p&gt;B: Now, if you sell US $ 4 million worth of han-held tools annually, we can only allow 4% commission. If the annual turnover exceeds US $ 6 million, you can get 6% commission. What do you think of that?&lt;/p&gt;
-&lt;p&gt;B: 如果你方手工工具的年销售量为400万美元，我们只能给4%的佣金。如果年销售量超过600美元，你就可以得到6%的佣金，你看如何？&lt;/p&gt;
-&lt;p&gt;A: It sounds OK. Then how do you pay the commission?&lt;/p&gt;
-&lt;p&gt;A: 听起来不错。那么，佣金如何支付？&lt;/p&gt;
-&lt;p&gt;B: We may deduct the commission from the the invoice value directly or remit it to you after payment.&lt;/p&gt;
-&lt;p&gt;B: 我们可以直接从发票金额中扣除佣金，或在付款后汇给你。&lt;/p&gt;
-&lt;p&gt;A: All right. If it's okay, we would like to sign an agency agreement with you immediately.&lt;/p&gt;
-&lt;p&gt;A: 那好。如果可以，我们会与你们立即签订代理协议。&lt;/p&gt;
-&lt;p&gt;B: Think it over. We hope to keep a good business relationship with you.&lt;/p&gt;
-&lt;p&gt;B: 好好考虑一下，我们希望与贵公司保持良好的贸易关系。&lt;/p&gt;
-&lt;p&gt;A: Thank you for your help.&lt;/p&gt;
-&lt;p&gt;A: 谢谢你的关照。&lt;/p&gt;
-&lt;h4&gt;生词&lt;/h4&gt;
-&lt;p&gt;prosperous 形容词；繁荣的&lt;/p&gt;
-&lt;p&gt;protential production capacity 生产潜力&lt;/p&gt;
-&lt;p&gt;representative 名词；代表&lt;/p&gt;
-&lt;p&gt;commission rate 佣金率&lt;/p&gt;
-&lt;p&gt;deduct 动词；扣除&lt;/p&gt;
-&lt;p&gt;promote 动词；提升，促进&lt;/p&gt;
-&lt;p&gt;invoice 名词；发票，发货清单&lt;/p&gt;
-&lt;p&gt;payment 名词；支付，缴纳&lt;/p&gt;
-&lt;h4&gt;固定用法&lt;/h4&gt;
-&lt;p&gt;deduct from： 扣除。&lt;/p&gt;
-&lt;p&gt;例如 Personaly income tax is usually deducted from the wage.（个人所得税通常从工资中扣除。）&lt;/p&gt;
-&lt;p&gt;sounds good: 听起来不错。&lt;/p&gt;
-&lt;p&gt;例如： Your idea sounds good.（你的主意听起来不错。）&lt;/p&gt;
-&lt;h4&gt;三、 Conslusion of negotiation 谈判结语&lt;/h4&gt;
-&lt;p&gt;A: So, now we have covered all the important points.&lt;/p&gt;
-&lt;p&gt;A: 现在，所有的主要问题都已讨论过了。&lt;/p&gt;
-&lt;p&gt;B: Yes, I think so.&lt;/p&gt;
-&lt;p&gt;B: 我想是的。&lt;/p&gt;
-&lt;p&gt;A: Before we draft the contract. Let's examine the details.&lt;/p&gt;
-&lt;p&gt;A: 在起草合同之前，我们先检查一下所有细节。&lt;/p&gt;
-&lt;p&gt;B: Ok, under this contract, we'll supply you with 600 dozen T-shirts. S, M and L equally assorted, at US 100 per dozen, CFR Lodon, Shipment in July. Payment by irrevocable sight L/C.&lt;/p&gt;
-&lt;p&gt;B: 好的。根据这项合同，我们将向贵方出售600打T恤衫，大、中、小号平均搭配，每打100美元，成本加运费伦敦价。7月装运，以不可撤销的即期信用证付款。&lt;/p&gt;
-&lt;p&gt;A: Perfect. But what I'm concerned about most is the time of delivery.&lt;/p&gt;
-&lt;p&gt;A: 完全正确。但是我最担心的是交货时间。&lt;/p&gt;
-&lt;p&gt;B: You may rest assured that shipment will be effected within the time limit stipulated in the contract. But there is also one point I'd like to stress.&lt;/p&gt;
-&lt;p&gt;B: 你尽管放心，我们会按照合同期限及时交货。但我有一点想强调一下。&lt;/p&gt;
-&lt;p&gt;A: Yes?&lt;/p&gt;
-&lt;p&gt;A: 是什么？&lt;/p&gt;
-&lt;p&gt;B: Your L/C must be opened at least one month before the time shipment; otherwise we don't be able to catch the ship.&lt;/p&gt;
-&lt;p&gt;B: 贵公司信用证必须在装运前1个月开出，否则我们将赶不上船期。&lt;/p&gt;
-&lt;p&gt;A: No problem, I'll have the covering L/C opened as soon as I get back. In addition, would ou tell me by whom the commodity inspection is conducted before shipment?&lt;/p&gt;
-&lt;p&gt;A: 没问题，我一回去，就马上安排开立有关信用证。此外，你能告诉我在装船前这些商品是由谁负责检验么？&lt;/p&gt;
-&lt;p&gt;B: The goods will be inspected by the China Import &amp;amp; Export Commodity Inspection Bureau. It will then issue a certificate of quality and a certificae of weight. There will be taken as final and biding.&lt;/p&gt;
-&lt;p&gt;B: 货物由中国进出口商品检验局进行检验，然后出具质量和重量证书。这些证明书将是最后的依据并具有约束力。&lt;/p&gt;
-&lt;p&gt;A: Please remember to use both English and Chinese versions and both versions should be equally valid.&lt;/p&gt;
-&lt;p&gt;A: 请记住用中英文两种文字合同，两种文本同样有效。&lt;/p&gt;
-&lt;p&gt;B: Naturally. Each of us keeps one original and two copies.&lt;/p&gt;
-&lt;p&gt;B: 那当然。双方各保留一份原件和两份复印件。&lt;/p&gt;
-&lt;p&gt;A: Then I'll come along three days later to put my signature on it.&lt;/p&gt;
-&lt;p&gt;A: 那么，三天后我再来签字。&lt;/p&gt;
-&lt;p&gt;B: Good.&lt;/p&gt;
-&lt;p&gt;B: 好的。&lt;/p&gt;
-&lt;h4&gt;生词&lt;/h4&gt;
-&lt;p&gt;detail 名词；细节&lt;/p&gt;
-&lt;p&gt;shipment 名词；装运&lt;/p&gt;
-&lt;p&gt;irrevocable 形容词；不可撤销的&lt;/p&gt;
-&lt;p&gt;delivery 名词；交货，交付&lt;/p&gt;
-&lt;p&gt;inspection 名词；检查，视察&lt;/p&gt;
-&lt;p&gt;version 名词；版本&lt;/p&gt;
-&lt;p&gt;stipulate 动词；保证，规定&lt;/p&gt;
-&lt;p&gt;signature 名词；签字&lt;/p&gt;
-&lt;h4&gt;固定用法&lt;/h4&gt;
-&lt;p&gt;be taken as ...：被认为是······。&lt;/p&gt;
-&lt;p&gt;例如:Cybercrime should be taken as seriously as any other crime.（网络犯罪应该与其他的犯罪行为一样收到关注。）&lt;/p&gt;
-&lt;h3&gt;四、鲜活词汇&lt;/h3&gt;
-&lt;p&gt;wording 名词 措辞，用词&lt;/p&gt;
-&lt;p&gt;inquiry 名词 询盘，询价&lt;/p&gt;
-&lt;p&gt;quotation 名词 报盘，报价&lt;/p&gt;
-&lt;p&gt;counter offer 还盘，还价&lt;/p&gt;
-&lt;p&gt;penalty clause 处罚条例&lt;/p&gt;
-&lt;p&gt;notification 名词  通知&lt;/p&gt;
-&lt;p&gt;specification 名词 详细，说明，规格&lt;/p&gt;
-&lt;p&gt;customary terms 惯例&lt;/p&gt;
-&lt;p&gt;stock 名词 存货，库存品&lt;/p&gt;
-&lt;p&gt;arbitration 名词 仲裁&lt;/p&gt;
-&lt;p&gt;non-transferable 形容词 不可转让的&lt;/p&gt;
-&lt;p&gt;draw up 起草，拟定&lt;/p&gt;
-&lt;p&gt;invoice 名词 发票&lt;/p&gt;
-&lt;p&gt;cash 名词 现金&lt;/p&gt;
-&lt;p&gt;provision 名词 条款，规定&lt;/p&gt;
-&lt;p&gt;charter 动词 包租，租用&lt;/p&gt;
-&lt;p&gt;vessel 名词 船&lt;/p&gt;
-&lt;p&gt;transaction 名词 交易，买卖&lt;/p&gt;
-&lt;p&gt;fluctuation 名词 波动&lt;/p&gt;
-&lt;p&gt;presentation 名词 提出，出具&lt;/p&gt;
-&lt;p&gt;documentation 名词 证明文件，证件&lt;/p&gt;
-&lt;p&gt;down payment 名词 预付款&lt;/p&gt;
-&lt;p&gt;signing procedures 名词 签字意识，签字程序&lt;/p&gt;
-&lt;p&gt;default risk 名词 违约风险&lt;/p&gt;
-&lt;p&gt;ready market 现成的市场&lt;/p&gt;
-&lt;p&gt;sample 名词 样品&lt;/p&gt;
-</content><link href="/archives/2020-01-31-01/" rel="alternate"/><published>2020-01-31T00:00:00+08:06</published></entry><entry><id>/archives/2020-01-31-03/</id><title>找客户的17种方法</title><updated>2020-02-04T04:43:29.948681+00:00</updated><author><name>MIKA</name><email>359911923@qq.com</email><uri>https://www.wangxfei.com</uri></author><content>&lt;h3&gt;第一种：通过人脉找客户（转介绍）&lt;/h3&gt;
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-CN"><id>/</id><title>外贸启航站</title><updated>2020-02-04T11:44:11.428896+08:06</updated><author><name>MIKA</name><email>359911923@qq.com</email></author><link href="/" rel="alternate"/><generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator><logo>https://cdn.jsdelivr.net/gh/mikamichael/Blog-With-GitHub-Boilerplate@gh-pages/logo.png</logo><subtitle>外贸路上，愿我们都不再孤单。</subtitle><entry><id>/archives/2020-01-31-03/</id><title>找客户的17种方法</title><updated>2020-02-04T11:44:11.429352+00:00</updated><author><name>MIKA</name><email>359911923@qq.com</email><uri>https://www.wangxfei.com</uri></author><content>&lt;h3&gt;第一种：通过人脉找客户（转介绍）&lt;/h3&gt;
 &lt;h3&gt;第二种：展会上找客户&lt;/h3&gt;
 &lt;h3&gt;第三种：通过B2B找客户&lt;/h3&gt;
 &lt;h3&gt;第四种：通过黄页找客户&lt;/h3&gt;
@@ -240,7 +16,7 @@
 &lt;h3&gt;第十五种： 通过相关行业找客户&lt;/h3&gt;
 &lt;h3&gt;第十六种: 利用社交找客户&lt;/h3&gt;
 &lt;h3&gt;第十七种：通过海外推广找客户&lt;/h3&gt;
-</content><link href="/archives/2020-01-31-03/" rel="alternate"/><published>2020-01-31T00:00:00+08:06</published></entry><entry><id>/archives/2020-01-31-02/</id><title>外贸案例-CIF贸易合同承运人延迟交货的责任</title><updated>2020-02-04T04:43:29.948653+00:00</updated><author><name>MIKA</name><email>359911923@qq.com</email><uri>https://www.wangxfei.com</uri></author><content>&lt;h3&gt;案例&lt;/h3&gt;
+</content><link href="/archives/2020-01-31-03/" rel="alternate"/><published>2020-01-31T00:00:00+08:06</published></entry><entry><id>/archives/2020-01-31-02/</id><title>外贸案例-CIF贸易合同承运人延迟交货的责任</title><updated>2020-02-04T11:44:11.429327+00:00</updated><author><name>MIKA</name><email>359911923@qq.com</email><uri>https://www.wangxfei.com</uri></author><content>&lt;h3&gt;案例&lt;/h3&gt;
 &lt;p&gt;某年3月3日，中国甲贸易公司（买方）与加拿大乙农产品贸易公司（卖方）签订一笔小麦进口合同，合同条款为CIF宁波，
 支付条件为即期信用证，交货期为当年5月20日。中国甲贸易公司4月1日向对方开出信用证，加拿大乙农产品贸易公司按照
 合同规定的时间与装运时间发运了货物。5月22日，加拿大乙农产品贸易公司以传真通知中国甲贸易公司：“装运给贵公司的1
@@ -291,7 +67,7 @@
 指定目的港）、DEQ目的港码头交货（······指定目的港）。CIF条件在进口中，一般适用于小宗、零星货物进口或使用班轮运输条件的情况
 。大宗进口合同如使用CIF贸易术语，为保证到货安全，有必要在合同中规定外方（卖方）租用信誉好的船公司承运进口货物，以防
 船公司为补充燃料或其他理由单方面决定“合理”停靠低价燃料港或途中拉拢其他客户而耽误船期。&lt;/p&gt;
-</content><link href="/archives/2020-01-31-02/" rel="alternate"/><published>2020-01-31T00:00:00+08:06</published></entry><entry><id>/archives/2020-02-02-03/</id><title>市场调查之越南（二）</title><updated>2020-02-04T04:43:29.948625+00:00</updated><author><name>MIKA</name><email>359911923@qq.com</email><uri>https://www.wangxfei.com</uri></author><content>&lt;h3&gt;GDP分析&lt;/h3&gt;
+</content><link href="/archives/2020-01-31-02/" rel="alternate"/><published>2020-01-31T00:00:00+08:06</published></entry><entry><id>/archives/2020-02-02-03/</id><title>市场调查之越南（二）</title><updated>2020-02-04T11:44:11.429302+00:00</updated><author><name>MIKA</name><email>359911923@qq.com</email><uri>https://www.wangxfei.com</uri></author><content>&lt;h3&gt;GDP分析&lt;/h3&gt;
 &lt;h4&gt;GDP总体增长&lt;/h4&gt;
 &lt;p&gt;&lt;figure&gt;&lt;img data-width="730" data-height="340" src="https://cdn.jsdelivr.net/gh/mikamichael/Blog-With-GitHub-Boilerplate@gh-pages/archives/assets/c7481465b829381d75c1757f4052f39b.png" alt="2008年-2018年越南GDP（单位：十亿美元）" /&gt;&lt;figcaption&gt;2008年-2018年越南GDP（单位：十亿美元）&lt;/figcaption&gt;&lt;/figure&gt;&lt;/p&gt;
 &lt;p&gt;越南2018年的国内生产总值（GDP）价值2449.5亿美元。越南的GDP价值占世界经济的0.40％。&lt;/p&gt;
@@ -495,7 +271,7 @@
 &lt;p&gt;从2004年到2018年，越南的个人所得税税率平均为36.67％，在2005年达到历史最高水平40％，
 在2009年达到历史最低水平35％。&lt;/p&gt;
 &lt;p&gt;&lt;font color=#DCDCDC size=1&gt;（PS: 本文部分数据参考商务部、tradingeconomics等，由外跨研究中心综合整理，转载请务必标明出处。）&lt;/font&gt;&lt;/p&gt;
-</content><link href="/archives/2020-02-02-03/" rel="alternate"/><published>2020-02-02T00:00:00+08:06</published></entry><entry><id>/archives/2020-02-02-02/</id><title>商务英语之合同签订</title><updated>2020-02-04T04:43:29.948597+00:00</updated><author><name>MIKA</name><email>359911923@qq.com</email><uri>https://www.wangxfei.com</uri></author><content>&lt;p&gt;&lt;strong&gt; I'm very glad that we have finally come to an agreement.&lt;/strong&gt;&lt;/p&gt;
+</content><link href="/archives/2020-02-02-03/" rel="alternate"/><published>2020-02-02T00:00:00+08:06</published></entry><entry><id>/archives/2020-02-02-02/</id><title>商务英语之合同签订</title><updated>2020-02-04T11:44:11.429277+00:00</updated><author><name>MIKA</name><email>359911923@qq.com</email><uri>https://www.wangxfei.com</uri></author><content>&lt;p&gt;&lt;strong&gt; I'm very glad that we have finally come to an agreement.&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt; 很高兴我们终于达成了协议。&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;The same to me.
@@ -668,7 +444,7 @@ to buy?（你能否告知参考价格以便我们决定是否购买呢？）&lt;
 &lt;p&gt;net cash 付现款&lt;/p&gt;
 &lt;p&gt;invoice date 发票日期&lt;/p&gt;
 &lt;p&gt;resembling 形容词 类似的，相仿的&lt;/p&gt;
-</content><link href="/archives/2020-02-02-02/" rel="alternate"/><published>2020-02-02T00:00:00+08:06</published></entry><entry><id>/archives/2020-02-02-01/</id><title>外贸案例-货物的复验权和最终检验权</title><updated>2020-02-04T04:43:29.948568+00:00</updated><author><name>MIKA</name><email>359911923@qq.com</email><uri>https://www.wangxfei.com</uri></author><content>&lt;h3&gt;案情&lt;/h3&gt;
+</content><link href="/archives/2020-02-02-02/" rel="alternate"/><published>2020-02-02T00:00:00+08:06</published></entry><entry><id>/archives/2020-02-02-01/</id><title>外贸案例-货物的复验权和最终检验权</title><updated>2020-02-04T11:44:11.429252+00:00</updated><author><name>MIKA</name><email>359911923@qq.com</email><uri>https://www.wangxfei.com</uri></author><content>&lt;h3&gt;案情&lt;/h3&gt;
 &lt;p&gt;中国甲公司和印度乙公司于某年1月24日签订了购买纺织品布防5,000米买卖合同，该布料是受某服装加工厂委托进口的，用于加工服装出口欧盟，
 因此合同规定按OKO-TEX100标准，其中甲醛最高含量不超过100PPM，单价为每米3美元，以即期信用证的方式结汇，贸易术语采用CIF。合同
 规定的检验条款为：货物在目的港卸后30天内经中国商检机关的复检，如发现品质或规格与本合同规定不符的，除术语保险公司或船公司
@@ -709,7 +485,7 @@ to buy?（你能否告知参考价格以便我们决定是否购买呢？）&lt;
 &lt;li&gt;买方必须凭约定的有效商检证书在儿胡同规定的索赔期限内向卖方提出索赔，从法律上来讲任何超过期限的索赔都不是有效索赔。本案中，
 甲方时在合同规定索赔期限内提出索赔的，虽然第三次检验超过了30天。&lt;/li&gt;
 &lt;/ul&gt;
-</content><link href="/archives/2020-02-02-01/" rel="alternate"/><published>2020-02-02T00:00:00+08:06</published></entry><entry><id>/archives/2020-02-03-02/</id><title>商务英语之价格谈判</title><updated>2020-02-04T04:43:29.948537+00:00</updated><author><name>MIKA</name><email>359911923@qq.com</email><uri>https://www.wangxfei.com</uri></author><content>&lt;p&gt;&lt;strong&gt;What do you think about the price?&lt;/strong&gt;&lt;/p&gt;
+</content><link href="/archives/2020-02-02-01/" rel="alternate"/><published>2020-02-02T00:00:00+08:06</published></entry><entry><id>/archives/2020-02-03-02/</id><title>商务英语之价格谈判</title><updated>2020-02-04T11:44:11.429226+00:00</updated><author><name>MIKA</name><email>359911923@qq.com</email><uri>https://www.wangxfei.com</uri></author><content>&lt;p&gt;&lt;strong&gt;What do you think about the price?&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;这个价格你觉得怎么样？&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;p&gt;It seems acceptable.
@@ -905,7 +681,7 @@ out of line with the market level.（尽管我向与实力雄厚且信誉良好�
 &lt;p&gt;eat into our profit 侵蚀我们的利益&lt;/p&gt;
 &lt;p&gt;famous brand 名牌&lt;/p&gt;
 &lt;p&gt;taste 名词 品味&lt;/p&gt;
-</content><link href="/archives/2020-02-03-02/" rel="alternate"/><published>2020-02-03T00:00:00+08:06</published></entry><entry><id>/archives/2020-02-03-01/</id><title>外贸案例-保留贸易书信证据不容忽视</title><updated>2020-02-04T04:43:29.948506+00:00</updated><author><name>MIKA</name><email>359911923@qq.com</email><uri>https://www.wangxfei.com</uri></author><content>&lt;p&gt;在国际贸易中，买卖双方在签订合同之后，就合同相关事宜或者贸易安排进行变更时，往往通过邮件、电话、面谈等方式进行。
+</content><link href="/archives/2020-02-03-02/" rel="alternate"/><published>2020-02-03T00:00:00+08:06</published></entry><entry><id>/archives/2020-02-03-01/</id><title>外贸案例-保留贸易书信证据不容忽视</title><updated>2020-02-04T11:44:11.429199+00:00</updated><author><name>MIKA</name><email>359911923@qq.com</email><uri>https://www.wangxfei.com</uri></author><content>&lt;p&gt;在国际贸易中，买卖双方在签订合同之后，就合同相关事宜或者贸易安排进行变更时，往往通过邮件、电话、面谈等方式进行。
 而贸易双方妥善保存在此期间的相关书面文件，对于后期发生贸易纠纷时确认债权债务关系和法律责任往往具有十分重要的意义。
 但一些出口企业在贸易实践中，往往由于种种原因忽视了书面证据的留底和保存，为日后可能发生的贸易纠纷买下了隐患。&lt;/p&gt;
 &lt;h3&gt;案例&lt;/h3&gt;
@@ -944,7 +720,7 @@ X无法提供全部事项的书面证据材料。&lt;/p&gt;
 &lt;p&gt;从上述两个案件我们可以看到，其实出口企业只需在贸易过程中多个心眼，以各种方式和途径保留贸易过程中的证据，就可以在出险后及时
 提供有力证明，为挽回损失打下基础。因此广大出口企业，特别时业务操作人员应该重视贸易往来书面证据的留存，吸取其他企业的惨痛教训，
 积极维护企业的贸易利益。&lt;/p&gt;
-</content><link href="/archives/2020-02-03-01/" rel="alternate"/><published>2020-02-03T00:00:00+08:06</published></entry><entry><id>/archives/2020-02-04-01/</id><title>市场调查之越南（三）</title><updated>2020-02-04T04:43:29.948470+00:00</updated><author><name>MIKA</name><email>359911923@qq.com</email><uri>https://www.wangxfei.com</uri></author><content>&lt;h3&gt;中国是越南最大的贸易伙伴&lt;/h3&gt;
+</content><link href="/archives/2020-02-03-01/" rel="alternate"/><published>2020-02-03T00:00:00+08:06</published></entry><entry><id>/archives/2020-02-04-01/</id><title>市场调查之越南（三）</title><updated>2020-02-04T11:44:11.429170+00:00</updated><author><name>MIKA</name><email>359911923@qq.com</email><uri>https://www.wangxfei.com</uri></author><content>&lt;h3&gt;中国是越南最大的贸易伙伴&lt;/h3&gt;
 &lt;p&gt;自1991年起，中越关系明显缓和，中越之间的贸易显著增加，双方在对彼此的经济发展中突飞猛进。这对中国和越南的经济贸易关系稳步发展
 有着至关重要的作用。&lt;/p&gt;
 &lt;p&gt;中国和越南有着很长一段的共同边界线，可以说经贸合作也是历史的需要。双方都本着“尊重主权与自国的领土完整，互不侵犯，互不干涉内政，横向
@@ -1016,7 +792,197 @@ X无法提供全部事项的书面证据材料。&lt;/p&gt;
 &lt;p&gt;二、做好协调与沟通，缩小非经济因素带来的影响。&lt;/p&gt;
 &lt;p&gt;三、严厉打击走私与贸易偷运等问题。&lt;/p&gt;
 &lt;p&gt;&lt;font color=#DCDCDC size=1&gt;（PS:  本文部分数据参考商务部、tradingeconomics等，由外跨研究中心综合整理，转载请务必标明出处。）&lt;/font&gt;&lt;/p&gt;
-</content><link href="/archives/2020-02-04-01/" rel="alternate"/><published>2020-02-04T00:00:00+08:06</published></entry><entry><id>/archives/2020-02-04-02/</id><title>外贸案例-合同未按规定检验条款，货物品质争议如何解决</title><updated>2020-02-04T04:43:29.948410+00:00</updated><author><name>MIKA</name><email>359911923@qq.com</email><uri>https://www.wangxfei.com</uri></author><content>&lt;h3&gt;案情&lt;/h3&gt;
+</content><link href="/archives/2020-02-04-01/" rel="alternate"/><published>2020-02-04T00:00:00+08:06</published></entry><entry><id>/archives/2020-02-04-03/</id><title>商务英语之订货交货</title><updated>2020-02-04T11:44:11.429134+00:00</updated><author><name>MIKA</name><email>359911923@qq.com</email><uri>https://www.wangxfei.com</uri></author><content>&lt;p&gt;&lt;strong&gt; Can you accept this order?&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt; 你接受这份订单吗？&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Please cancel this order. 
+请取消这份订单。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;We want change an order.
+我们想换一份订单。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;We modify an order.
+我们修正一份订单。&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt; If we place regular orders, can you ensure the qulity of your products?&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt; 如果我方长期订货，你能保证产品的质量吗？&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;We always have faith in the quality of our products. 
+我们对自己的产品一直很有信心。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;We are responsible to replace the defective ones.
+我们保换质量不合格的产品。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Our quality is based solely on our sales samples.
+我们的质量完全以货样为准。&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt; Do you have liners to China?&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt; 你们有开往中国的航班吗？&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Yes, We have 3 liners sailing to Shanghai every two months.
+有，我们每两个月三班开放上海。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;We have liners sailing to Japan, and then we can transship the goods to Qingdao at Japan.
+我们有开往日本的航班，然后可以在日本转船去中国的航班，货物必须在悉尼转船。&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt; Do you make an order right now?&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt; 你现在就订货吗？&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;If you price is favorable, we can book an order right away.
+如果你价格优惠，我们可以马上订货。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Ok, I will order the goods now.
+好的，我现在就订货。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;It would be very difficult for us to push any sales if we buy it at this price.
+如果按这个价格买进，我实在难以推销。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Your price is 25% higher than that of last year.
+你的价格比去年高出了25%。&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;一、Introduction of product of the same sort 同类产品介绍&lt;/h3&gt;
+&lt;p&gt;A: Strange looking handle on that coffee mug, isn't it?&lt;/p&gt;
+&lt;p&gt;A: 那个咖啡杯的握把看起来很奇怪，不是吗？&lt;/p&gt;
+&lt;p&gt;B: We submitted two designs to our buyers. This one, and one with the mug indented to form a grip. They chose this one.&lt;/p&gt;
+&lt;p&gt;B: 我们提供两种样式给本公司客户。这一种，还有另一种是齿状的握把，他们选择了这一种。&lt;/p&gt;
+&lt;p&gt;A: What's the advantage? Pirce, I suppose.&lt;/p&gt;
+&lt;p&gt;A: 它的有点是什么？我想是价格吧！&lt;/p&gt;
+&lt;p&gt;B: No, this type cleans better, no crevices between the body and handle joint.&lt;/p&gt;
+&lt;p&gt;B: 不是的，这一种容易清洗，在杯身和握把之间没有缝隙。&lt;/p&gt;
+&lt;p&gt;A: What deliveries are you quoting nowadyas on orders such as ours?&lt;/p&gt;
+&lt;p&gt;A: 如果我们要订货，几时可以交货呢？&lt;/p&gt;
+&lt;p&gt;B: We can make shipment within one month from receipt of order.&lt;/p&gt;
+&lt;p&gt;B: 我们会在接到订单后一个月内交货。&lt;/p&gt;
+&lt;p&gt;A: You don't do much in porcelain tiles and ornaments, do you?&lt;/p&gt;
+&lt;p&gt;A: 贵公司不太经营瓷砖和装饰材料，是吗？&lt;/p&gt;
+&lt;p&gt;B: We do a fair amount in tiles, and in insulators for electrical applicances. But kitchenware and tableware are
+our mainlines.&lt;/p&gt;
+&lt;p&gt;B: 我们经营相当数量的瓷砖，以及电器用品的绝缘体。但是厨房用具和餐具是本公司主要系列产品。&lt;/p&gt;
+&lt;p&gt;A: I see. Well, keep up the good work. See you later.&lt;/p&gt;
+&lt;p&gt;A: 我明白了。好，继续保持你们的优良业绩吧！下次见。&lt;/p&gt;
+&lt;h4&gt;生词&lt;/h4&gt;
+&lt;p&gt;indented 形容词 锯齿状的，有齿的，带齿的&lt;/p&gt;
+&lt;p&gt;crevice 名词 缝隙，裂缝，劈材&lt;/p&gt;
+&lt;p&gt;porcelain 名词 瓷砖，瓷&lt;/p&gt;
+&lt;p&gt;insulator 名词 绝缘体，绝缘器，隔离者，隔离剂&lt;/p&gt;
+&lt;h4&gt;固定用法&lt;/h4&gt;
+&lt;p&gt;such as: 例如······，像这种的&lt;/p&gt;
+&lt;p&gt;例如： A penalty such as fine.（例如类似奖金这种的惩罚。）&lt;/p&gt;
+&lt;h3&gt;二、 Place an order with condition 限定条件定购&lt;/h3&gt;
+&lt;p&gt;A: I'm ready to place an order with you, but only one condition that the goods are confined to Australia. Can you do that?&lt;/p&gt;
+&lt;p&gt;A: 我现在准备想你们订货，但是唯一的条件是货品只限卖给澳大利亚公司，你们能办到吗？&lt;/p&gt;
+&lt;p&gt;B: Well, I haven't made sure if it is acceptable to the factory before making a commitment to you.&lt;/p&gt;
+&lt;p&gt;B: 哦，我还未曾跟工厂有过如此的约定，因此在我回答你之前，得先想工厂方面确认一下，这样是否可以接受？&lt;/p&gt;
+&lt;p&gt;A: All right, but i'm busy. How long will it be before you can finish the talk?&lt;/p&gt;
+&lt;p&gt;A: 好的，但我很忙，你和他们谈话需要多久？&lt;/p&gt;
+&lt;p&gt;B: I won't be too long, I suppose. Just let me ring them, will you?&lt;/p&gt;
+&lt;p&gt;B: 我想不会耽搁很久得，请让我打个电话给他们，可以吗？&lt;/p&gt;
+&lt;p&gt;A: Go ahead.&lt;/p&gt;
+&lt;p&gt;A: 请。&lt;/p&gt;
+&lt;p&gt;B: Thank you.&lt;/p&gt;
+&lt;p&gt;B: 谢谢。&lt;/p&gt;
+&lt;h4&gt;生词&lt;/h4&gt;
+&lt;p&gt;commitment 名词 承诺，约定，约束，责任，承担义务&lt;/p&gt;
+&lt;p&gt;acceptable 形容词 可接受得，受欢迎的&lt;/p&gt;
+&lt;h4&gt;固定用法&lt;/h4&gt;
+&lt;p&gt;be confined to：限制，紧闭&lt;/p&gt;
+&lt;p&gt;例如：The method of struggle should be confined to those who make serious mistakes and nevertheless refuse
+to accept guidance.（只有对犯了严重错误而不接受指导的人们，才应当采取斗争的方法。）&lt;/p&gt;
+&lt;h3&gt;三、 Let's call it a deal. 成交&lt;/h3&gt;
+&lt;p&gt;A: If i remember correctly, time of delivery is another point in which we differ.&lt;/p&gt;
+&lt;p&gt;A: 我记得，对于交货时间我们意见不同。&lt;/p&gt;
+&lt;p&gt;B: That's right. Let's go into details of it.&lt;/p&gt;
+&lt;p&gt;B: 对，我们来具体谈谈吧。&lt;/p&gt;
+&lt;p&gt;A: Ok, I hope you can have these goods delivered before the end of September. We'd like them to be ready in time
+for our Christmas sales.&lt;/p&gt;
+&lt;p&gt;A: 行。我希望你能在9月底之前交这笔货物。我们想为圣诞节备好货物。&lt;/p&gt;
+&lt;p&gt;B: Christmas doesn't come until the end of the year. does it?&lt;/p&gt;
+&lt;p&gt;B: 圣诞节年第才到呢，对吧？&lt;/p&gt;
+&lt;p&gt;A: No. But in the United Status, the Christmas season begins about a month before December 25.&lt;/p&gt;
+&lt;p&gt;A: 对。但在美国，圣诞购物提前一个月就已经开始了。&lt;/p&gt;
+&lt;p&gt;B: Well, I'm afraid it'll be difficult for us to advance the time of shipment. Our manufacturers are fully
+committed at the moment.&lt;/p&gt;
+&lt;p&gt;B: 哦，我恐怕很难提前发货。我们的厂家目前已经全负荷生产。&lt;/p&gt;
+&lt;p&gt;A: I hope you can try to get them to step up production.&lt;/p&gt;
+&lt;p&gt;A:我希望你们能让他们增加产量。&lt;/p&gt;
+&lt;p&gt;B: They are already working three shifts a day to step up production as new orders keep pouring in.&lt;/p&gt;
+&lt;p&gt;B: 由于新订单的不断涌入，工厂已经一天三班加速生产了。&lt;/p&gt;
+&lt;p&gt;A: If that's the case, there's nothing to be done about it.&lt;/p&gt;
+&lt;p&gt;A: 这样的话，就没有办法了。&lt;/p&gt;
+&lt;p&gt;B: I'm sorry.&lt;/p&gt;
+&lt;p&gt;B: 抱歉。&lt;/p&gt;
+&lt;p&gt;A: What's your last word as to the delivery date then.&lt;/p&gt;
+&lt;p&gt;A: 你最后定一下什么时候交货？&lt;/p&gt;
+&lt;p&gt;B: By the middle of October. This is the best we can do.&lt;/p&gt;
+&lt;p&gt;B: 10月中旬。这是我们最早的了。&lt;/p&gt;
+&lt;p&gt;A: All right, I'll take your words at that.&lt;/p&gt;
+&lt;p&gt;A: 好吧，就依你。&lt;/p&gt;
+&lt;p&gt;B: Good. Let's call it a deal. And we'll do our best to advance the shipment, but your letter of credit should be opened 
+early September.&lt;/p&gt;
+&lt;p&gt;B: 好，就这么定了。我们会尽力提前发货，但你信用证应在9月初开出来。&lt;/p&gt;
+&lt;p&gt;A: I promise.&lt;/p&gt;
+&lt;p&gt;A: 我保证。&lt;/p&gt;
+&lt;h4&gt;生词&lt;/h4&gt;
+&lt;p&gt;delivery 名词 交付，交货，投递，传送&lt;/p&gt;
+&lt;p&gt;manufacturer 名词 制造商，制造厂&lt;/p&gt;
+&lt;p&gt;commit 动词 使······承担任务，对······做出保证，承诺，把······提交给&lt;/p&gt;
+&lt;p&gt;Unit 订购交货&lt;/p&gt;
+&lt;h4&gt;固定用法&lt;/h4&gt;
+&lt;p&gt;step up：走近，逐步增加，提升，提高&lt;/p&gt;
+&lt;p&gt;例如：We must step up technical innovations and raise productivity.（我们必须加紧进行技术革新，提高生产效率。）&lt;/p&gt;
+&lt;h3&gt;四、Reduce order 削减订单&lt;/h3&gt;
+&lt;p&gt;A: To get around your difficulty, Mr Smith, I'd suggest that you reduce your order by half. You can in an 
+additional order later.&lt;/p&gt;
+&lt;p&gt;A: 史密斯先生，我建议你把订单数量削减一半以拜托你的困难。你可以以后再提出新的订单。&lt;/p&gt;
+&lt;p&gt;B: Well, I'll consider the possibility. By the way, when do I have to open the L/C if I want the goods to be
+delivered in June.&lt;/p&gt;
+&lt;p&gt;B: 嗯，我考虑一下。对了，如果想要你们六月份交货的话，我需要在什么时候开立信用证呢？&lt;/p&gt;
+&lt;p&gt;A: A month before the time you want the goods to be delivered.&lt;/p&gt;
+&lt;p&gt;A: 在交货期前一个月。&lt;/p&gt;
+&lt;p&gt;B: Could you possibly effect shipment more promptly.&lt;/p&gt;
+&lt;p&gt;B: 你们能否再提前一点交货呢？&lt;/p&gt;
+&lt;p&gt;A: Getting the goods ready, making out the documents and booking the shipping space---all this takes time, you
+know. You cannot expect us to make delivery in less than a month.&lt;/p&gt;
+&lt;p&gt;A: 你瞧，备货、制单、订舱······所有的这些都要花时间。你总不能要去我们在不到一个月的时间内交货吧。&lt;/p&gt;
+&lt;p&gt;B: Very well. Mr Zhang. I';; not reduce my order. I'll take the full quantity you offer. And I'll arrange for
+the L/C to be opened in your favor as soon as I get home.&lt;/p&gt;
+&lt;p&gt;B: 好吧，张先生，我不打算削减订单。你提供的数量我全部都要。我一回去马上着手办理向你开立信用证。&lt;/p&gt;
+&lt;p&gt;A: When will that be?&lt;/p&gt;
+&lt;p&gt;A: 那是什么时候呢？&lt;/p&gt;
+&lt;p&gt;B: Early next month. In the meantime, I should be very pleasured if you would get everything ready. I hope that the goods
+can be dispatched promptly after you get my L/C.&lt;/p&gt;
+&lt;p&gt;B: 下月初。同时，我希望你们能把一切都准备好，并在收到我们信用证以后马上发货。&lt;/p&gt;
+&lt;p&gt;A: You can rest assured of that.&lt;/p&gt;
+&lt;p&gt;A: 这你就放心好了。&lt;/p&gt;
+&lt;h4&gt;生词&lt;/h4&gt;
+&lt;p&gt;additional 形容词 附加的，另外的，补充的&lt;/p&gt;
+&lt;p&gt;promptly 形容词 迅速地，敏捷地&lt;/p&gt;
+&lt;p&gt;dispatch 动词 派遣，发出&lt;/p&gt;
+&lt;h4&gt;固定用法&lt;/h4&gt;
+&lt;p&gt;in the meantime：在······期间，同时&lt;/p&gt;
+&lt;p&gt;例如：In the meantime we could watch ball games or the horse racing.（与此同时，我们还可以看球赛和赛马。）&lt;/p&gt;
+&lt;h3&gt;五、鲜活词汇&lt;/h3&gt;
+&lt;p&gt;distributor 名词 经销商&lt;/p&gt;
+&lt;p&gt;offering 名词 提供，备有&lt;/p&gt;
+&lt;p&gt;place an order 订货，下订单&lt;/p&gt;
+&lt;p&gt;advance sample 提前寄样&lt;/p&gt;
+&lt;p&gt;advance sales 试销&lt;/p&gt;
+&lt;p&gt;full engages 订单排满&lt;/p&gt;
+&lt;p&gt;indent book 订货薄&lt;/p&gt;
+&lt;p&gt;carge 名词 货物，船货&lt;/p&gt;
+&lt;p&gt;enduser 客户&lt;/p&gt;
+&lt;p&gt;frequent 形容词 频繁的，经常的&lt;/p&gt;
+&lt;p&gt;transship 动词 转运，转船&lt;/p&gt;
+&lt;p&gt;effect shipment 交货&lt;/p&gt;
+&lt;p&gt;L/C 信用证&lt;/p&gt;
+&lt;p&gt;draw on sb 向······开会汇票&lt;/p&gt;
+&lt;p&gt;deliver the goods in three lots 货物分三批装运&lt;/p&gt;
+&lt;p&gt;shipment within one month 一个月内装船&lt;/p&gt;
+</content><link href="/archives/2020-02-04-03/" rel="alternate"/><published>2020-02-04T00:00:00+08:06</published></entry><entry><id>/archives/2020-02-04-02/</id><title>外贸案例-合同未按规定检验条款，货物品质争议如何解决</title><updated>2020-02-04T11:44:11.428964+00:00</updated><author><name>MIKA</name><email>359911923@qq.com</email><uri>https://www.wangxfei.com</uri></author><content>&lt;h3&gt;案情&lt;/h3&gt;
 &lt;p&gt;我国甲公司与印度尼西亚乙公司，分别于某年4月26日、9月2日和9月20日定理3份售货确认书，由甲公司向印度尼西亚出售T恤衫、背心等纺织品，3月份确认书
 的总金额未91.2141万美元，约定付款方式为D/A 90天。上述确认书签订后，甲公司按合约全面履行了供货义务，而印度尼西亚乙公司仅支付了20万美元的货款，
 其余货款未付。印度尼西亚乙公司称，甲公司提供的T恤衫存在多处质量问题：使用多年库存的布料；T恤衫重量轻于被申请人要求的规定；T恤衫的长度
