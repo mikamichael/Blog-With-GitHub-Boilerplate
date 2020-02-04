@@ -1,60 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-CN"><id>/</id><title>外贸启航站</title><updated>2020-02-03T03:56:38.530468+08:06</updated><author><name>MIKA</name><email>359911923@qq.com</email></author><link href="/" rel="alternate"/><generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator><logo>https://cdn.jsdelivr.net/gh/mikamichael/Blog-With-GitHub-Boilerplate@gh-pages/logo.png</logo><subtitle>外贸路上，愿我们都不再孤单。</subtitle><entry><id>/archives/2020-01-30-02/</id><title>集装箱基本知识以及港口费用</title><updated>2020-02-03T03:56:38.530833+00:00</updated><author><name>MIKA</name><email>359911923@qq.com</email><uri>https://www.wangxfei.com</uri></author><content>&lt;h3&gt;最常用的三种集装箱（干货柜）&lt;/h3&gt;
-&lt;p&gt;&lt;figure&gt;&lt;img data-width="1114" data-height="286" src="https://cdn.jsdelivr.net/gh/mikamichael/Blog-With-GitHub-Boilerplate@gh-pages/archives/assets/d2af27fa2b99c0468de8921bcc9f3d55.png" alt="集装箱尺寸" /&gt;&lt;figcaption&gt;集装箱尺寸&lt;/figcaption&gt;&lt;/figure&gt;&lt;/p&gt;
-&lt;p&gt;以上数据来自于某国际物流公司，仅供参考。不同货运公司的数据会有所差别，而且因为出口的产品不同，外包装箱的尺寸也不同，
-装法会有差别，因为集装箱的利用率也会不一样。建议在实际操作中，计算出口外包装的总容积时，一般不要超过上面的实际装载容积。&lt;/p&gt;
-&lt;p&gt;集装箱内最大有效承载重量以船公司根据实际情况确定。当一个集装箱的货物总重量超过上表中的最大有效承载重量时，就叫重柜，凡是重柜（常见于20GP），都要加选柜费和重柜费。&lt;/p&gt;
-&lt;p&gt;&lt;figure&gt;&lt;img data-width="1114" data-height="257" src="https://cdn.jsdelivr.net/gh/mikamichael/Blog-With-GitHub-Boilerplate@gh-pages/archives/assets/8da45da5c8ffdd80605327d9f0456c00.png" alt="海运费费用表" /&gt;&lt;figcaption&gt;海运费费用表&lt;/figcaption&gt;&lt;/figure&gt;&lt;/p&gt;
-&lt;h4&gt;集装箱运输条款&lt;/h4&gt;
-&lt;ul&gt;
-&lt;li&gt;CY/CY：指堆场到堆场方式，承运人在装货港集装箱堆场接收整箱货物，并负责运至卸货港集装箱堆场，整箱交付收货人。&lt;/li&gt;
-&lt;li&gt;CY/FO：指承运人在装货港集装箱堆场接收整箱货物，并负责运至卸货港，但不负责卸货。&lt;/li&gt;
-&lt;li&gt;CY/LO：指承运人在装货港集装箱堆场接收整箱货物，并负责运至卸货港卸货。&lt;/li&gt;
-&lt;li&gt;CY/TRAKLE：指承运人在装货港集装箱堆场接收整箱货物并负责运至卸货港卸货支接货车上。&lt;/li&gt;
-&lt;li&gt;CY/HOOK：指承运人在装货港集装箱堆场接收整箱货物并负责运至卸货港卸货。此处当吊臂掉下货物后服务终止。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h4&gt;集装箱运输中货物的交接方式&lt;/h4&gt;
-&lt;ul&gt;
-&lt;li&gt;门到门（Door to Door）：指运输经营人由发货人的工厂或仓库接收货物，负责将货物运至收货人的工厂或仓库交付。在这种交付方式下，
-货物的交接形态都是整箱交接。&lt;/li&gt;
-&lt;li&gt;门到场（Door to CY）：指运输经营人在发货人的工厂或仓库接收货物，并负责将货物运至卸货港堆场或其内陆堆场，在堆场向收货人交付。在这种交接方式下，
-货物也是整箱交接。&lt;/li&gt;
-&lt;li&gt;门到站（Door to CFS）：指运输经营人在发货人的工厂或仓库接收货物，并负责将货物运至卸货港码头的集装箱货运站，
-或其在内陆地区的货运站，经拆箱后向各收货人交付。在这种交接方式下，运输经营人一般时以整箱形态接收货物，
-以拼箱形态交付货物。&lt;/li&gt;
-&lt;li&gt;场到门（CY to Door）：指运输经营人在码头堆场或其内陆堆场接收发货人的货物（整箱货），并负责把货物运至收货人的工厂货仓库，向收货人交付。&lt;/li&gt;
-&lt;li&gt;场到场（CY to CY）：指运输经营人装货港的码头堆场或其内陆堆场接收货物（整箱货），并负责运至卸货港码头堆场或
-其内陆堆场，在堆场向收货人交付（整箱货）。&lt;/li&gt;
-&lt;li&gt;场到货（CY to CFS）：指运输经营人在装货港的码头堆场货其内陆堆场接收货物（整箱），并负责运至卸货港码头集装箱
-货运站，或其在内陆地区的集装箱货运站，一般经拆箱后向收货人交付。&lt;/li&gt;
-&lt;li&gt;站到门（CFS to Door）：指运输经营人在装货港码头的集装箱货运站或其内陆的集装箱货运站接收货物（经拼箱后），负责运至收货人的工厂或仓库交付。在这种交接方式下，运输经营人
-一般时以拼箱形态接收货物，以整箱形态交付货物。&lt;/li&gt;
-&lt;li&gt;站到场（CFS to CY）：指运输经营人在装货港码头的集装箱货运站或其内陆的集装箱货运站接收货物（经拼箱后），负责运至卸货港码头或内陆地区的堆场交付。在这种方式下，货物的
-交付形态同站到门交接方式。&lt;/li&gt;
-&lt;li&gt;站到站（CFS to CFS）：指运输经营人在装货港码头的集装箱货运站或其内陆的集装箱货运站接收货物（经拼箱后），负责运至卸货港码头集装箱货运站，或其内陆地区的集装箱货运站，经拆箱后向收货人交付。
-在这种方式下，货物的交接形态一般都是拼箱交接。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;货运公司的报价通常以美元为单位。上面的20英尺集装箱是1403美元，以此类推。&lt;/p&gt;
-&lt;h4&gt;附加费（surcharges)&lt;/h4&gt;
-&lt;p&gt;不同的航线具有不同的附加费，此费用术语国内费用，不属于海运费，如果以FOB On board的价格条款成交，则附加费应该包含在此价格中。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;常见的附加费用&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;BAF = Bunker Adjustment Factor（燃油附加费）&lt;/li&gt;
-&lt;li&gt;IFC = Inland Fuel Charge（内陆燃油附加费）&lt;/li&gt;
-&lt;li&gt;PSS = Peak season surcharge（旺季附加费）&lt;/li&gt;
-&lt;li&gt;ACC = Alameda Corridor Charge（绿色通道费）&lt;/li&gt;
-&lt;li&gt;ISPS = International Ship Port Facility Security Code（《国际船舶和港口设施保安规则》，也称港口安全费）&lt;/li&gt;
-&lt;li&gt;IPIR = Inland Point Intermodal Rate（内陆点转运费）&lt;/li&gt;
-&lt;li&gt;AMS = America Manifest System（美国仓单费）&lt;/li&gt;
-&lt;li&gt;DOC = Document Charges（文件费）&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;figure&gt;&lt;img data-width="1113" data-height="330" src="https://cdn.jsdelivr.net/gh/mikamichael/Blog-With-GitHub-Boilerplate@gh-pages/archives/assets/bc8b01ca631023cce4cb723ff896c631.png" alt="拼箱费用表" /&gt;&lt;figcaption&gt;拼箱费用表&lt;/figcaption&gt;&lt;/figure&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;拼箱根据不同的出口货物，按其体积或重量来计算运费。本表只列出按照体积计算的运价表。&lt;/li&gt;
-&lt;li&gt;海运费中价格为“0”表示不必支付海运费，但是需支付附加费，进口商的目的港也需要支付费用。&lt;/li&gt;
-&lt;li&gt;凡是拼箱的货物，到达卸货港时，进口商需要根据其货量支付一定的卸货费给当地港口，拼箱货越多，支付的费用就越多。&lt;/li&gt;
-&lt;/ul&gt;
-</content><link href="/archives/2020-01-30-02/" rel="alternate"/><published>2020-01-30T00:00:00+08:06</published></entry><entry><id>/archives/2020-01-30-04/</id><title>外贸案例-FOB合同与无单放货</title><updated>2020-02-03T03:56:38.530806+00:00</updated><author><name>MIKA</name><email>359911923@qq.com</email><uri>https://www.wangxfei.com</uri></author><content>&lt;h3&gt;案例&lt;/h3&gt;
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-CN"><id>/</id><title>外贸启航站</title><updated>2020-02-04T00:24:51.229561+08:06</updated><author><name>MIKA</name><email>359911923@qq.com</email></author><link href="/" rel="alternate"/><generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator><logo>https://cdn.jsdelivr.net/gh/mikamichael/Blog-With-GitHub-Boilerplate@gh-pages/logo.png</logo><subtitle>外贸路上，愿我们都不再孤单。</subtitle><entry><id>/archives/2020-01-30-04/</id><title>外贸案例-FOB合同与无单放货</title><updated>2020-02-04T00:24:51.230043+00:00</updated><author><name>MIKA</name><email>359911923@qq.com</email><uri>https://www.wangxfei.com</uri></author><content>&lt;h3&gt;案例&lt;/h3&gt;
 &lt;p&gt;某年11月8日，我国甲有限公司与韩国乙株式会社签订出口各式夹克衫贸易合同，贸易术语为FOB。合同规定，付款方式为信用证，乙株式会社制定韩国丙综合株式会社为承运人，负责将该批货物从中国上海运至韩国釜山。
 丙综合株式会社为此签发了以甲有限公司为托运人的正本提单，托运人为甲有限公司，通知放为丁有限公司，收货人为“根据某银行指示”。
 由于韩国乙株式会社一直没有付款买单，甲有限公司仍持有上述提单正本。经调查，涉案货物运抵目的港后，已由签署提单通知人以银行保函形式未凭正本提单向丙
@@ -114,7 +59,7 @@
 对方，负责货物越过船舷前的费用和风险，负责办理货物出口手续并取得相应文件，负责提供相关的装运单据。卖方负责订舱租船和支付运费，将船名
 航期及时通知卖方，负责货物越过船舷后的费用、风险和投保及费用，负责货物进口和收获手续，接受装运单据并按合同支付货款。
 采用FOB条款，中小企业应严格依照现行的《国际贸易术语解释通则》对FOB条款的规定和解释签订贸易合同，谨防落入FOB陷阱。&lt;/p&gt;
-</content><link href="/archives/2020-01-30-04/" rel="alternate"/><published>2020-01-30T00:00:00+08:06</published></entry><entry><id>/archives/2020-01-31-01/</id><title>商务英语之外贸谈判</title><updated>2020-02-03T03:56:38.530778+00:00</updated><author><name>MIKA</name><email>359911923@qq.com</email><uri>https://www.wangxfei.com</uri></author><content>&lt;p&gt;&lt;strong&gt; What about the price?&lt;/strong&gt;&lt;/p&gt;
+</content><link href="/archives/2020-01-30-04/" rel="alternate"/><published>2020-01-30T00:00:00+08:06</published></entry><entry><id>/archives/2020-01-31-01/</id><title>商务英语之外贸谈判</title><updated>2020-02-04T00:24:51.230017+00:00</updated><author><name>MIKA</name><email>359911923@qq.com</email><uri>https://www.wangxfei.com</uri></author><content>&lt;p&gt;&lt;strong&gt; What about the price?&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt; 对价格有什么看法？&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;The price you provide is much higher than market price.
@@ -338,7 +283,7 @@
 &lt;p&gt;default risk 名词 违约风险&lt;/p&gt;
 &lt;p&gt;ready market 现成的市场&lt;/p&gt;
 &lt;p&gt;sample 名词 样品&lt;/p&gt;
-</content><link href="/archives/2020-01-31-01/" rel="alternate"/><published>2020-01-31T00:00:00+08:06</published></entry><entry><id>/archives/2020-01-31-03/</id><title>找客户的17种方法</title><updated>2020-02-03T03:56:38.530749+00:00</updated><author><name>MIKA</name><email>359911923@qq.com</email><uri>https://www.wangxfei.com</uri></author><content>&lt;h3&gt;第一种：通过人脉找客户（转介绍）&lt;/h3&gt;
+</content><link href="/archives/2020-01-31-01/" rel="alternate"/><published>2020-01-31T00:00:00+08:06</published></entry><entry><id>/archives/2020-01-31-03/</id><title>找客户的17种方法</title><updated>2020-02-04T00:24:51.229991+00:00</updated><author><name>MIKA</name><email>359911923@qq.com</email><uri>https://www.wangxfei.com</uri></author><content>&lt;h3&gt;第一种：通过人脉找客户（转介绍）&lt;/h3&gt;
 &lt;h3&gt;第二种：展会上找客户&lt;/h3&gt;
 &lt;h3&gt;第三种：通过B2B找客户&lt;/h3&gt;
 &lt;h3&gt;第四种：通过黄页找客户&lt;/h3&gt;
@@ -355,7 +300,7 @@
 &lt;h3&gt;第十五种： 通过相关行业找客户&lt;/h3&gt;
 &lt;h3&gt;第十六种: 利用社交找客户&lt;/h3&gt;
 &lt;h3&gt;第十七种：通过海外推广找客户&lt;/h3&gt;
-</content><link href="/archives/2020-01-31-03/" rel="alternate"/><published>2020-01-31T00:00:00+08:06</published></entry><entry><id>/archives/2020-01-31-02/</id><title>外贸案例-CIF贸易合同承运人延迟交货的责任</title><updated>2020-02-03T03:56:38.530721+00:00</updated><author><name>MIKA</name><email>359911923@qq.com</email><uri>https://www.wangxfei.com</uri></author><content>&lt;h3&gt;案例&lt;/h3&gt;
+</content><link href="/archives/2020-01-31-03/" rel="alternate"/><published>2020-01-31T00:00:00+08:06</published></entry><entry><id>/archives/2020-01-31-02/</id><title>外贸案例-CIF贸易合同承运人延迟交货的责任</title><updated>2020-02-04T00:24:51.229964+00:00</updated><author><name>MIKA</name><email>359911923@qq.com</email><uri>https://www.wangxfei.com</uri></author><content>&lt;h3&gt;案例&lt;/h3&gt;
 &lt;p&gt;某年3月3日，中国甲贸易公司（买方）与加拿大乙农产品贸易公司（卖方）签订一笔小麦进口合同，合同条款为CIF宁波，
 支付条件为即期信用证，交货期为当年5月20日。中国甲贸易公司4月1日向对方开出信用证，加拿大乙农产品贸易公司按照
 合同规定的时间与装运时间发运了货物。5月22日，加拿大乙农产品贸易公司以传真通知中国甲贸易公司：“装运给贵公司的1
@@ -406,7 +351,7 @@
 指定目的港）、DEQ目的港码头交货（······指定目的港）。CIF条件在进口中，一般适用于小宗、零星货物进口或使用班轮运输条件的情况
 。大宗进口合同如使用CIF贸易术语，为保证到货安全，有必要在合同中规定外方（卖方）租用信誉好的船公司承运进口货物，以防
 船公司为补充燃料或其他理由单方面决定“合理”停靠低价燃料港或途中拉拢其他客户而耽误船期。&lt;/p&gt;
-</content><link href="/archives/2020-01-31-02/" rel="alternate"/><published>2020-01-31T00:00:00+08:06</published></entry><entry><id>/archives/2020-02-02-03/</id><title>市场调查之越南（二）</title><updated>2020-02-03T03:56:38.530693+00:00</updated><author><name>MIKA</name><email>359911923@qq.com</email><uri>https://www.wangxfei.com</uri></author><content>&lt;h3&gt;GDP分析&lt;/h3&gt;
+</content><link href="/archives/2020-01-31-02/" rel="alternate"/><published>2020-01-31T00:00:00+08:06</published></entry><entry><id>/archives/2020-02-02-03/</id><title>市场调查之越南（二）</title><updated>2020-02-04T00:24:51.229937+00:00</updated><author><name>MIKA</name><email>359911923@qq.com</email><uri>https://www.wangxfei.com</uri></author><content>&lt;h3&gt;GDP分析&lt;/h3&gt;
 &lt;h4&gt;GDP总体增长&lt;/h4&gt;
 &lt;p&gt;&lt;figure&gt;&lt;img data-width="730" data-height="340" src="https://cdn.jsdelivr.net/gh/mikamichael/Blog-With-GitHub-Boilerplate@gh-pages/archives/assets/c7481465b829381d75c1757f4052f39b.png" alt="2008年-2018年越南GDP（单位：十亿美元）" /&gt;&lt;figcaption&gt;2008年-2018年越南GDP（单位：十亿美元）&lt;/figcaption&gt;&lt;/figure&gt;&lt;/p&gt;
 &lt;p&gt;越南2018年的国内生产总值（GDP）价值2449.5亿美元。越南的GDP价值占世界经济的0.40％。&lt;/p&gt;
@@ -610,7 +555,7 @@
 &lt;p&gt;从2004年到2018年，越南的个人所得税税率平均为36.67％，在2005年达到历史最高水平40％，
 在2009年达到历史最低水平35％。&lt;/p&gt;
 &lt;p&gt;&lt;font color=#DCDCDC size=1&gt;（PS: 本文部分数据参考商务部、tradingeconomics等，由外跨研究中心综合整理，转载请务必标明出处。）&lt;/font&gt;&lt;/p&gt;
-</content><link href="/archives/2020-02-02-03/" rel="alternate"/><published>2020-02-02T00:00:00+08:06</published></entry><entry><id>/archives/2020-02-02-02/</id><title>商务英语之合同签订</title><updated>2020-02-03T03:56:38.530664+00:00</updated><author><name>MIKA</name><email>359911923@qq.com</email><uri>https://www.wangxfei.com</uri></author><content>&lt;p&gt;&lt;strong&gt; I'm very glad that we have finally come to an agreement.&lt;/strong&gt;&lt;/p&gt;
+</content><link href="/archives/2020-02-02-03/" rel="alternate"/><published>2020-02-02T00:00:00+08:06</published></entry><entry><id>/archives/2020-02-02-02/</id><title>商务英语之合同签订</title><updated>2020-02-04T00:24:51.229910+00:00</updated><author><name>MIKA</name><email>359911923@qq.com</email><uri>https://www.wangxfei.com</uri></author><content>&lt;p&gt;&lt;strong&gt; I'm very glad that we have finally come to an agreement.&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt; 很高兴我们终于达成了协议。&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;The same to me.
@@ -783,7 +728,7 @@ to buy?（你能否告知参考价格以便我们决定是否购买呢？）&lt;
 &lt;p&gt;net cash 付现款&lt;/p&gt;
 &lt;p&gt;invoice date 发票日期&lt;/p&gt;
 &lt;p&gt;resembling 形容词 类似的，相仿的&lt;/p&gt;
-</content><link href="/archives/2020-02-02-02/" rel="alternate"/><published>2020-02-02T00:00:00+08:06</published></entry><entry><id>/archives/2020-02-02-01/</id><title>外贸案例-货物的复验权和最终检验权</title><updated>2020-02-03T03:56:38.530634+00:00</updated><author><name>MIKA</name><email>359911923@qq.com</email><uri>https://www.wangxfei.com</uri></author><content>&lt;h3&gt;案情&lt;/h3&gt;
+</content><link href="/archives/2020-02-02-02/" rel="alternate"/><published>2020-02-02T00:00:00+08:06</published></entry><entry><id>/archives/2020-02-02-01/</id><title>外贸案例-货物的复验权和最终检验权</title><updated>2020-02-04T00:24:51.229882+00:00</updated><author><name>MIKA</name><email>359911923@qq.com</email><uri>https://www.wangxfei.com</uri></author><content>&lt;h3&gt;案情&lt;/h3&gt;
 &lt;p&gt;中国甲公司和印度乙公司于某年1月24日签订了购买纺织品布防5,000米买卖合同，该布料是受某服装加工厂委托进口的，用于加工服装出口欧盟，
 因此合同规定按OKO-TEX100标准，其中甲醛最高含量不超过100PPM，单价为每米3美元，以即期信用证的方式结汇，贸易术语采用CIF。合同
 规定的检验条款为：货物在目的港卸后30天内经中国商检机关的复检，如发现品质或规格与本合同规定不符的，除术语保险公司或船公司
@@ -824,7 +769,7 @@ to buy?（你能否告知参考价格以便我们决定是否购买呢？）&lt;
 &lt;li&gt;买方必须凭约定的有效商检证书在儿胡同规定的索赔期限内向卖方提出索赔，从法律上来讲任何超过期限的索赔都不是有效索赔。本案中，
 甲方时在合同规定索赔期限内提出索赔的，虽然第三次检验超过了30天。&lt;/li&gt;
 &lt;/ul&gt;
-</content><link href="/archives/2020-02-02-01/" rel="alternate"/><published>2020-02-02T00:00:00+08:06</published></entry><entry><id>/archives/2020-02-03-02/</id><title>商务英语之价格谈判</title><updated>2020-02-03T03:56:38.530599+00:00</updated><author><name>MIKA</name><email>359911923@qq.com</email><uri>https://www.wangxfei.com</uri></author><content>&lt;p&gt;&lt;strong&gt;What do you think about the price?&lt;/strong&gt;&lt;/p&gt;
+</content><link href="/archives/2020-02-02-01/" rel="alternate"/><published>2020-02-02T00:00:00+08:06</published></entry><entry><id>/archives/2020-02-03-02/</id><title>商务英语之价格谈判</title><updated>2020-02-04T00:24:51.229851+00:00</updated><author><name>MIKA</name><email>359911923@qq.com</email><uri>https://www.wangxfei.com</uri></author><content>&lt;p&gt;&lt;strong&gt;What do you think about the price?&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;这个价格你觉得怎么样？&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;p&gt;It seems acceptable.
@@ -1020,7 +965,7 @@ out of line with the market level.（尽管我向与实力雄厚且信誉良好�
 &lt;p&gt;eat into our profit 侵蚀我们的利益&lt;/p&gt;
 &lt;p&gt;famous brand 名牌&lt;/p&gt;
 &lt;p&gt;taste 名词 品味&lt;/p&gt;
-</content><link href="/archives/2020-02-03-02/" rel="alternate"/><published>2020-02-03T00:00:00+08:06</published></entry><entry><id>/archives/2020-02-03-01/</id><title>外贸案例-保留贸易书信证据不容忽视</title><updated>2020-02-03T03:56:38.530538+00:00</updated><author><name>MIKA</name><email>359911923@qq.com</email><uri>https://www.wangxfei.com</uri></author><content>&lt;p&gt;在国际贸易中，买卖双方在签订合同之后，就合同相关事宜或者贸易安排进行变更时，往往通过邮件、电话、面谈等方式进行。
+</content><link href="/archives/2020-02-03-02/" rel="alternate"/><published>2020-02-03T00:00:00+08:06</published></entry><entry><id>/archives/2020-02-03-01/</id><title>外贸案例-保留贸易书信证据不容忽视</title><updated>2020-02-04T00:24:51.229815+00:00</updated><author><name>MIKA</name><email>359911923@qq.com</email><uri>https://www.wangxfei.com</uri></author><content>&lt;p&gt;在国际贸易中，买卖双方在签订合同之后，就合同相关事宜或者贸易安排进行变更时，往往通过邮件、电话、面谈等方式进行。
 而贸易双方妥善保存在此期间的相关书面文件，对于后期发生贸易纠纷时确认债权债务关系和法律责任往往具有十分重要的意义。
 但一些出口企业在贸易实践中，往往由于种种原因忽视了书面证据的留底和保存，为日后可能发生的贸易纠纷买下了隐患。&lt;/p&gt;
 &lt;h3&gt;案例&lt;/h3&gt;
@@ -1059,4 +1004,76 @@ X无法提供全部事项的书面证据材料。&lt;/p&gt;
 &lt;p&gt;从上述两个案件我们可以看到，其实出口企业只需在贸易过程中多个心眼，以各种方式和途径保留贸易过程中的证据，就可以在出险后及时
 提供有力证明，为挽回损失打下基础。因此广大出口企业，特别时业务操作人员应该重视贸易往来书面证据的留存，吸取其他企业的惨痛教训，
 积极维护企业的贸易利益。&lt;/p&gt;
-</content><link href="/archives/2020-02-03-01/" rel="alternate"/><published>2020-02-03T00:00:00+08:06</published></entry></feed>
+</content><link href="/archives/2020-02-03-01/" rel="alternate"/><published>2020-02-03T00:00:00+08:06</published></entry><entry><id>/archives/2020-02-04-01/</id><title>市场调查之越南（三）</title><updated>2020-02-04T00:24:51.229635+00:00</updated><author><name>MIKA</name><email>359911923@qq.com</email><uri>https://www.wangxfei.com</uri></author><content>&lt;h3&gt;中国是越南最大的贸易伙伴&lt;/h3&gt;
+&lt;p&gt;自1991年起，中越关系明显缓和，中越之间的贸易显著增加，双方在对彼此的经济发展中突飞猛进。这对中国和越南的经济贸易关系稳步发展
+有着至关重要的作用。&lt;/p&gt;
+&lt;p&gt;中国和越南有着很长一段的共同边界线，可以说经贸合作也是历史的需要。双方都本着“尊重主权与自国的领土完整，互不侵犯，互不干涉内政，横向
+写作与和平”的规则。&lt;/p&gt;
+&lt;p&gt;据越南海关总局数据显示，2018年中国与越南双边贸易额达1060亿美元，同比增长14%。中国也成为与越南双边贸易额达1000亿美元的首个贸易合作
+伙伴。&lt;/p&gt;
+&lt;p&gt;其中，越南对中国的商品出口额达412.68亿美元，同比增长58.64亿美元，增幅为16.6%。越南从中国进口额约达654.38亿美元，同比增长68.46亿美元，
+增幅为11.7%。&lt;/p&gt;
+&lt;p&gt;2019年中国仍然是越南最大的贸易伙伴。数据显示，2019年中越进出口总额达1168.7亿美元，两国间贸易额连续第二年突破1000亿美元。&lt;/p&gt;
+&lt;p&gt;其中，越南对中国出口额为414.1亿美元，同比仅增长1.5亿美元，增幅为0.36%，自中国进口额为754.52亿美元，同比增长100亿美元，增幅为15.3%。相比
+起2018年前11个月超22%的增速，越南商品的对华出口增长正在急速放缓。&lt;/p&gt;
+&lt;h3&gt;越南自中国进口产品以半成品和生产原料为主&lt;/h3&gt;
+&lt;p&gt;&lt;figure&gt;&lt;img data-width="766" data-height="400" src="https://cdn.jsdelivr.net/gh/mikamichael/Blog-With-GitHub-Boilerplate@gh-pages/archives/assets/8210f61dc5715d45dc38ce31c0830dab.png" alt="越南进口类别" /&gt;&lt;figcaption&gt;越南进口类别&lt;/figcaption&gt;&lt;/figure&gt;&lt;/p&gt;
+&lt;p&gt;2018年越南对中国进口额超10亿美元的商品有14个，同比增长4个。&lt;/p&gt;
+&lt;p&gt;其中，汽油进口额超10亿美元（2017年为5.18亿美元）；原料塑料11.1亿美元（2017年为9.18亿美元）；纤维、纱线为12.34亿美元（
+2017年为8.78亿美元）；普通金属为13.31亿美元（2017年为9.85亿美元）&lt;/p&gt;
+&lt;p&gt;2019年，越南自华出口额为754.52亿美元，同比增长15.3%，约为100亿美元。部分数据如下：&lt;/p&gt;
+&lt;p&gt;中国是越南的第二大计算机、电子产品和组件进口市场，前11个月云娜自中国进口为110.9亿美元，同比增长49.25%。&lt;/p&gt;
+&lt;p&gt;中国是越南最大的机械设备、零件的进口来源国，前11个月越南自中国进口为133.6亿美元，同比增长26.4%。&lt;/p&gt;
+&lt;p&gt;中国是越南最大的塑料产品进口来源国，前11个月越南来自中国进口为35.8亿美元，同比增长22.7%。&lt;/p&gt;
+&lt;p&gt;中国是越南最大的钢铁产品进口来源国，前11个月越南自中国进口为489万吨，同比下降15%。&lt;/p&gt;
+&lt;p&gt;中国是越南最大的化工产品进口来源国，前11一个月越南自中国进口为29.2亿美元，同比增长7.7%。&lt;/p&gt;
+&lt;p&gt;中国是越南最大的纺织品、服装、皮革和鞋类材料进口来源国，前11个月越南自中国进口为105亿美元，同比增长8.8%。&lt;/p&gt;
+&lt;h3&gt;越南对中国出口产品以农产品为主&lt;/h3&gt;
+&lt;p&gt;&lt;figure&gt;&lt;img data-width="-1" data-height="-1" src="./vietnam/14-Vietnam-imports-By-Category.png" alt="越南出口类别" /&gt;&lt;figcaption&gt;越南出口类别&lt;/figcaption&gt;&lt;/figure&gt;&lt;/p&gt;
+&lt;p&gt;2018年越南对中国出口商品额分别为：手机零件为93.75亿美元，同比增长22.23亿美元，增幅为31.1%；电脑、电子产品及零件约83.64亿
+美元，增长15.04亿美元，增幅为21.9%；照相机、摄像机及零件约28.01亿美元；蔬果约27.84亿美元；纤维、纱线为22.16亿美元；
+纺织品约15.41亿美元；鞋类约为14.92亿美元；木材及木制品约为10.72亿美元。&lt;/p&gt;
+&lt;p&gt;越南对中国出口产品机构朝着积极方向转移，工业产品、农业水产品比重增加，原料、燃料和矿产出口比重下降。&lt;/p&gt;
+&lt;p&gt;2019年越南对中国出口额为414.1亿美元，同比增长0.36%，约为1.5亿美元。&lt;/p&gt;
+&lt;p&gt;中国作为越南农产品的最大出口市场，前11个月中国自越南进口额为53.3亿美元，同比下降9.4%。由于中国提高了进口标准，2019年越南
+对华出口的果蔬产品总额同比下降了13.2%。此外，越南大米、白虾等多种产品的对华出口也出现了下跌。&lt;/p&gt;
+&lt;h3&gt;越南对中国是逆差，但中国依旧占据主动权&lt;/h3&gt;
+&lt;p&gt;中国与越南的贸易情况，不能按传统的贸易顺差、逆差来进行分析。&lt;/p&gt;
+&lt;p&gt;由于中国对越南出口的产品，大部分是半成品，这些产品在越南加工后出口到美欧等国家，越南可以从中得到顺差。但是，越南向中国
+出口的产品，确实农产品等。中国在这方面的选择比较多，既可以选择越南的，也可以选择其他国家的。&lt;/p&gt;
+&lt;p&gt;因此，中国对越南是顺差，越南对中国是逆差，但在经贸关系中，中国既然占据着主动权。&lt;/p&gt;
+&lt;p&gt;2019年越南向中国出口额为414.1亿美元，同比增长0.36%；从中国进口额为754.52亿美元，同比增长15.3%。&lt;/p&gt;
+&lt;p&gt;仅仅从数据商来看，越南对中国的贸易逆差已超过300亿美元。&lt;/p&gt;
+&lt;p&gt;然而这其实并不是关键，中国和越南之间贸易产品的差距，决定了这二者有着更深入的关联。&lt;/p&gt;
+&lt;p&gt;中国对越南出口的产品，有一个明显的特点比如机械设备、零件、金属、塑料这些产品，都是半成品，甚至可以说是生产原料。&lt;/p&gt;
+&lt;p&gt;越南拿到这些产品后，经过国内的生产，然后向欧美、全世界进行输出。在折衷情况下，中国对越南的出口，非但不能争抢越南国内的市场，反而会增加
+越南的生产能力。&lt;/p&gt;
+&lt;p&gt;从越南的角度来说，显然不能限制从中国的进口，因为这是越南出口的根源。只有从中国进口了零件、生产原料，越南菜有向
+美欧出口的根本。&lt;/p&gt;
+&lt;p&gt;从中国的角度来说，限制从越南进口却对中国经济不会造成什么重大损失，越南到中国出口的产品，是一些农产品，这些农产品中国向其他
+地区或国家购买也是可以的。&lt;/p&gt;
+&lt;h3&gt;越南经济发展与中国对比&lt;/h3&gt;
+&lt;h4&gt;相似点&lt;/h4&gt;
+&lt;p&gt;第一、越南政治体制和文化传统与中国相似，使得越南非常容易理解并模仿中国的各类经济政策。&lt;/p&gt;
+&lt;p&gt;第二、越南劳动力较为丰富。截至2018年底，越南人口已接近1亿人。&lt;/p&gt;
+&lt;p&gt;第三、越南国土狭长，海岸线长，便于参与国际贸易。&lt;/p&gt;
+&lt;p&gt;第四、越南国有企业较多，可以效仿中国在基础设施投资和建设领域发挥重要作用。&lt;/p&gt;
+&lt;h4&gt;优势&lt;/h4&gt;
+&lt;p&gt;与中国相比，越南目前有两点优势。&lt;/p&gt;
+&lt;p&gt;首先，越南劳动力成本更低。越南最低平均工资一类地区；约合人民币1230元/月。二类地区：约合人民币1092元/月。三类地区：
+约合人民币965元/月。四类地区：约合人民币859元/月。&lt;/p&gt;
+&lt;h4&gt;劣势&lt;/h4&gt;
+&lt;p&gt;与中国相比，越南的劣势。&lt;/p&gt;
+&lt;p&gt;第一、虽然劳动力丰富，但是技术人员短缺，较多都是廉价劳动力，优质劳动力不足。&lt;/p&gt;
+&lt;p&gt;第二、越南资源匮乏，整个国家以农业生产为主，工业基础薄弱。&lt;/p&gt;
+&lt;p&gt;第三、基础设施建设落后，供应链不完整。公路建设不佳，铁路、港口等设施不够发达，运输和物流方面都不够完善，产业配套也不
+完备。尚未达到许多国际公司的标准。&lt;/p&gt;
+&lt;p&gt;第四、品质保证不高。越南制造的产品虽然价格低廉，但是质量却有待考虑，还未做到真正的物美价廉。&lt;/p&gt;
+&lt;h3&gt;未来趋势&lt;/h3&gt;
+&lt;p&gt;当然中越贸易和投资势头良好，经贸合作迈上新台阶。中国和越南都支持自由贸易，通过双方共同努力，中越贸易规模快速扩大，
+中国成为越南最重要的进出口市场之一。&lt;/p&gt;
+&lt;p&gt;一、完善双边经济发展的优惠政策。&lt;/p&gt;
+&lt;p&gt;二、做好协调与沟通，缩小非经济因素带来的影响。&lt;/p&gt;
+&lt;p&gt;三、严厉打击走私与贸易偷运等问题。&lt;/p&gt;
+&lt;p&gt;&lt;font color=#DCDCDC size=1&gt;（PS:  本文部分数据参考商务部、tradingeconomics等，由外跨研究中心综合整理，转载请务必标明出处。）&lt;/font&gt;&lt;/p&gt;
+</content><link href="/archives/2020-02-04-01/" rel="alternate"/><published>2020-02-04T00:00:00+08:06</published></entry></feed>
