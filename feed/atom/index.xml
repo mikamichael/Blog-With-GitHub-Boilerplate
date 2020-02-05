@@ -1,56 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-CN"><id>/</id><title>外贸启航站</title><updated>2020-02-05T13:19:54.669764+08:06</updated><author><name>MIKA</name><email>359911923@qq.com</email></author><link href="/" rel="alternate"/><generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator><logo>https://cdn.jsdelivr.net/gh/mikamichael/Blog-With-GitHub-Boilerplate@gh-pages/logo.png</logo><subtitle>外贸路上，愿我们都不再孤单。</subtitle><entry><id>/archives/2020-01-31-02/</id><title>外贸案例-CIF贸易合同承运人延迟交货的责任</title><updated>2020-02-05T13:19:54.670280+00:00</updated><author><name>MIKA</name><email>359911923@qq.com</email><uri>https://www.wangxfei.com</uri></author><content>&lt;h3&gt;案例&lt;/h3&gt;
-&lt;p&gt;某年3月3日，中国甲贸易公司（买方）与加拿大乙农产品贸易公司（卖方）签订一笔小麦进口合同，合同条款为CIF宁波，
-支付条件为即期信用证，交货期为当年5月20日。中国甲贸易公司4月1日向对方开出信用证，加拿大乙农产品贸易公司按照
-合同规定的时间与装运时间发运了货物。5月22日，加拿大乙农产品贸易公司以传真通知中国甲贸易公司：“装运给贵公司的1
-万吨小麦与发运给广西北海港的5,000吨小麦同装在SXJ船上。”中国甲贸易公司收到传真后，立即通知加拿大乙农产品贸易公
-司，这条船先靠宁波港再驶往北海。加拿大乙农产品贸易公司复传真说，“我们已按照贵公司要求传真通知船公司，请SXJ船先
-靠宁波港”。但该船实际上先靠了北海港，并且再北海停留卸货并检修了近1各月后才驶往宁波港。这时国际市场小麦价格已下
-降，国内买家以未按期交货为由，要求终止合同并索赔。最后，中国甲贸易公司只能以降价了结。结果中国甲贸易公司不但
-得不到预期利润10万元人民币，反而损失了10万元人民币，攻击损失20万元人民币。于是，中国甲贸易公司以对方违约
-延迟交货为由向加拿大乙农产品贸易公司索赔，加拿大乙农产品认为再CIF合同下，作为卖方，其已经再合同规定的期限内
-再装运港把货物装上船，即完成了交货义务。至于货物合适抵达目的港，系船方所为，并非加拿大乙农产品贸易公司所能控制
-的，拒绝了中国甲贸易公司的要求。中国甲贸易公司将争议提交仲裁法庭进行仲裁。&lt;/p&gt;
-&lt;h3&gt;结果&lt;/h3&gt;
-&lt;p&gt;仲裁法庭经合议，裁决如下：&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;&lt;p&gt;加拿大乙方农产品贸易公司再合同规定的期限内，将合同货物装上船，并向议付行提交了装运单据。到此，加拿大乙
-农产品贸易公司已经完成了CIF条件下的交货义务。&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;依据国际贸易习惯，发货人没有义务，也无法保证载货船舶合适抵达何港口或先靠何港口，除非发货人作了明确的承诺，
-否则不应对此承担责任。本案发货人加拿大乙农产品每一公司通知收货人中国甲贸易公司，“我们已按贵公司要求传真通知
-船公司，请SXJ船先靠宁波港”。加拿大乙农产品贸易公司已进到责任，通知了船公司，但这并不构成发货人的正式承诺。
-因此，它对载货船舶先靠北海港这一事实不应承担责任。&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;因此，仲裁法庭驳回了中国甲贸易公司的申诉，并要求其承担仲裁费用。&lt;/p&gt;
-&lt;h3&gt;评析&lt;/h3&gt;
-&lt;p&gt;本案涉及CIF贸易术语的交货责任。CIF贸易术语是Cost、Insurance and Freight（...named port of destination）贸易术语
-的缩写，即成本、保险费加运费（·····指定目的港）。国际商会《2000年国际贸易术语解释通则》（INCOTERMS 2000）规定，
-按CIF贸易术语成交，是指卖方必须在合同规定的日期或期间内，在装运港将货物交至运往指定目的港的船上，负责货物越过船舷为止的一切费用和货物灭失或
-损坏的风险，负责租船订舱，支付从装运港到目的港的正常运费，并负责办理货运保险，支付保险费。《2000年国际贸易术语解释通则》
-中在CIF项下A4款有关卖方交货义务时这样规定的：“卖方必须在装运港，在约定的日期或期间内，将货物交至船上。”可见，卖方
-只要签订了运输合同，把货物交付到装运港船上并办理保险后，即履行了合同义务。无疑，按国际贸易惯例，加拿大乙农产品贸易公司
-已经完成了交货义务。&lt;/p&gt;
-&lt;p&gt;此外，加拿大乙农产品贸易公司回复传真说，“我们已按照贵公司要求传真通知船公司，请SXJ船先靠宁波港”，这是否构成对中国甲
-贸易公司的承诺呢？答案是否定的。加拿大乙农产品贸易公司指示履行了贸易伙伴的责任，例行公事地按照信用证中作出的明确承诺。
-实际上，在CIF条件下，加拿大乙农产品贸易公司不可能也没必要做出明确承诺，以为它根本无法保证该船究竟何时靠岸。国际
-商会的《2000年国际贸易术语解释通则》在序言中特别指出，在CIF贸易术语下，“具体而言，卖方不应当（在不改变C组术语本质的情况下，
-实际上也不能够）承担任何保证货物抵达目的地的义务，因为在运输途中任何延迟的风险应由买方承担。因此，涉及时间的任何义务必须表面
-转船地或发货地，例如‘运（发）货不迟于······’像‘CFR汉堡不迟于······’这样的一份协议术语用词不当，并会引起不同的解释。当事人
-的意思可能被认为是货物必须在规定的日期抵达汉堡，在这种情况下该合同不是装运合同而是到货合同；另一种可能的理解是，卖方
-发运货物的时间必须是使其在通常情况下能在规定的时间抵达汉堡，除非发生意外时间耽误运输。”&lt;/p&gt;
-&lt;p&gt;那么，中国甲贸易公司可以向船公司索赔吗？从道理上是可以的，但实际上这种可能性是不存在的。一是中国甲贸易公司不是运输合同的当事方，
-无资格主要权力，只有加拿大乙农产品每一公司才可以向船公司索赔，当然从商业信誉或道义上说，加拿大乙农产品贸易公司应当
-向船公司索赔，然后将索赔款转给中国甲贸易公司。但该运输合同未必会订立到货期限的条款（本案是在运输黑奴工签订后提出的要求），
-即便有，也会有许多免责条件，如本案中，船舶在北海港检修。二是《统一提单的若干法律规则的国际公约》（海牙规则）没有明确
-规定延迟交货的赔偿责任，《1978年联合国海上货物运输公约》（汉堡规则）虽然由规定，但我国和加拿大均未参加。本案的中国甲
-贸易公司只有独吞“苦果”。&lt;/p&gt;
-&lt;p&gt;因此，在大宗进口合同中，为控制交货期，要慎用、少用CIF贸易术语，而应用FOB贸易术语（买方租船订舱），或使用DES目的港船上交货（······
-指定目的港）、DEQ目的港码头交货（······指定目的港）。CIF条件在进口中，一般适用于小宗、零星货物进口或使用班轮运输条件的情况
-。大宗进口合同如使用CIF贸易术语，为保证到货安全，有必要在合同中规定外方（卖方）租用信誉好的船公司承运进口货物，以防
-船公司为补充燃料或其他理由单方面决定“合理”停靠低价燃料港或途中拉拢其他客户而耽误船期。&lt;/p&gt;
-</content><link href="/archives/2020-01-31-02/" rel="alternate"/><published>2020-01-31T00:00:00+08:06</published></entry><entry><id>/archives/2020-02-02-03/</id><title>市场调查之越南（二）</title><updated>2020-02-05T13:19:54.670251+00:00</updated><author><name>MIKA</name><email>359911923@qq.com</email><uri>https://www.wangxfei.com</uri></author><content>&lt;h3&gt;GDP分析&lt;/h3&gt;
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-CN"><id>/</id><title>外贸启航站</title><updated>2020-02-05T14:05:18.579584+08:06</updated><author><name>MIKA</name><email>359911923@qq.com</email></author><link href="/" rel="alternate"/><generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator><logo>https://cdn.jsdelivr.net/gh/mikamichael/Blog-With-GitHub-Boilerplate@gh-pages/logo.png</logo><subtitle>外贸路上，愿我们都不再孤单。</subtitle><entry><id>/archives/2020-02-02-03/</id><title>市场调查之越南（二）</title><updated>2020-02-05T14:05:18.580065+00:00</updated><author><name>MIKA</name><email>359911923@qq.com</email><uri>https://www.wangxfei.com</uri></author><content>&lt;h3&gt;GDP分析&lt;/h3&gt;
 &lt;h4&gt;GDP总体增长&lt;/h4&gt;
 &lt;p&gt;&lt;figure&gt;&lt;img data-width="730" data-height="340" src="https://cdn.jsdelivr.net/gh/mikamichael/Blog-With-GitHub-Boilerplate@gh-pages/archives/assets/c7481465b829381d75c1757f4052f39b.png" alt="2008年-2018年越南GDP（单位：十亿美元）" /&gt;&lt;figcaption&gt;2008年-2018年越南GDP（单位：十亿美元）&lt;/figcaption&gt;&lt;/figure&gt;&lt;/p&gt;
 &lt;p&gt;越南2018年的国内生产总值（GDP）价值2449.5亿美元。越南的GDP价值占世界经济的0.40％。&lt;/p&gt;
@@ -254,7 +203,7 @@
 &lt;p&gt;从2004年到2018年，越南的个人所得税税率平均为36.67％，在2005年达到历史最高水平40％，
 在2009年达到历史最低水平35％。&lt;/p&gt;
 &lt;p&gt;&lt;font color=#DCDCDC size=1&gt;（PS: 本文部分数据参考商务部、tradingeconomics等，由外跨研究中心综合整理，转载请务必标明出处。）&lt;/font&gt;&lt;/p&gt;
-</content><link href="/archives/2020-02-02-03/" rel="alternate"/><published>2020-02-02T00:00:00+08:06</published></entry><entry><id>/archives/2020-02-02-02/</id><title>商务英语之合同签订</title><updated>2020-02-05T13:19:54.670223+00:00</updated><author><name>MIKA</name><email>359911923@qq.com</email><uri>https://www.wangxfei.com</uri></author><content>&lt;p&gt;&lt;strong&gt; I'm very glad that we have finally come to an agreement.&lt;/strong&gt;&lt;/p&gt;
+</content><link href="/archives/2020-02-02-03/" rel="alternate"/><published>2020-02-02T00:00:00+08:06</published></entry><entry><id>/archives/2020-02-02-02/</id><title>商务英语之合同签订</title><updated>2020-02-05T14:05:18.580039+00:00</updated><author><name>MIKA</name><email>359911923@qq.com</email><uri>https://www.wangxfei.com</uri></author><content>&lt;p&gt;&lt;strong&gt; I'm very glad that we have finally come to an agreement.&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt; 很高兴我们终于达成了协议。&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;The same to me.
@@ -427,7 +376,7 @@ to buy?（你能否告知参考价格以便我们决定是否购买呢？）&lt;
 &lt;p&gt;net cash 付现款&lt;/p&gt;
 &lt;p&gt;invoice date 发票日期&lt;/p&gt;
 &lt;p&gt;resembling 形容词 类似的，相仿的&lt;/p&gt;
-</content><link href="/archives/2020-02-02-02/" rel="alternate"/><published>2020-02-02T00:00:00+08:06</published></entry><entry><id>/archives/2020-02-02-01/</id><title>外贸案例-货物的复验权和最终检验权</title><updated>2020-02-05T13:19:54.670196+00:00</updated><author><name>MIKA</name><email>359911923@qq.com</email><uri>https://www.wangxfei.com</uri></author><content>&lt;h3&gt;案情&lt;/h3&gt;
+</content><link href="/archives/2020-02-02-02/" rel="alternate"/><published>2020-02-02T00:00:00+08:06</published></entry><entry><id>/archives/2020-02-02-01/</id><title>外贸案例-货物的复验权和最终检验权</title><updated>2020-02-05T14:05:18.580014+00:00</updated><author><name>MIKA</name><email>359911923@qq.com</email><uri>https://www.wangxfei.com</uri></author><content>&lt;h3&gt;案情&lt;/h3&gt;
 &lt;p&gt;中国甲公司和印度乙公司于某年1月24日签订了购买纺织品布防5,000米买卖合同，该布料是受某服装加工厂委托进口的，用于加工服装出口欧盟，
 因此合同规定按OKO-TEX100标准，其中甲醛最高含量不超过100PPM，单价为每米3美元，以即期信用证的方式结汇，贸易术语采用CIF。合同
 规定的检验条款为：货物在目的港卸后30天内经中国商检机关的复检，如发现品质或规格与本合同规定不符的，除术语保险公司或船公司
@@ -468,7 +417,7 @@ to buy?（你能否告知参考价格以便我们决定是否购买呢？）&lt;
 &lt;li&gt;买方必须凭约定的有效商检证书在儿胡同规定的索赔期限内向卖方提出索赔，从法律上来讲任何超过期限的索赔都不是有效索赔。本案中，
 甲方时在合同规定索赔期限内提出索赔的，虽然第三次检验超过了30天。&lt;/li&gt;
 &lt;/ul&gt;
-</content><link href="/archives/2020-02-02-01/" rel="alternate"/><published>2020-02-02T00:00:00+08:06</published></entry><entry><id>/archives/2020-02-03-02/</id><title>商务英语之价格谈判</title><updated>2020-02-05T13:19:54.670167+00:00</updated><author><name>MIKA</name><email>359911923@qq.com</email><uri>https://www.wangxfei.com</uri></author><content>&lt;p&gt;&lt;strong&gt;What do you think about the price?&lt;/strong&gt;&lt;/p&gt;
+</content><link href="/archives/2020-02-02-01/" rel="alternate"/><published>2020-02-02T00:00:00+08:06</published></entry><entry><id>/archives/2020-02-03-02/</id><title>商务英语之价格谈判</title><updated>2020-02-05T14:05:18.579989+00:00</updated><author><name>MIKA</name><email>359911923@qq.com</email><uri>https://www.wangxfei.com</uri></author><content>&lt;p&gt;&lt;strong&gt;What do you think about the price?&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;这个价格你觉得怎么样？&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;p&gt;It seems acceptable.
@@ -664,7 +613,7 @@ out of line with the market level.（尽管我向与实力雄厚且信誉良好�
 &lt;p&gt;eat into our profit 侵蚀我们的利益&lt;/p&gt;
 &lt;p&gt;famous brand 名牌&lt;/p&gt;
 &lt;p&gt;taste 名词 品味&lt;/p&gt;
-</content><link href="/archives/2020-02-03-02/" rel="alternate"/><published>2020-02-03T00:00:00+08:06</published></entry><entry><id>/archives/2020-02-03-01/</id><title>外贸案例-保留贸易书信证据不容忽视</title><updated>2020-02-05T13:19:54.670137+00:00</updated><author><name>MIKA</name><email>359911923@qq.com</email><uri>https://www.wangxfei.com</uri></author><content>&lt;p&gt;在国际贸易中，买卖双方在签订合同之后，就合同相关事宜或者贸易安排进行变更时，往往通过邮件、电话、面谈等方式进行。
+</content><link href="/archives/2020-02-03-02/" rel="alternate"/><published>2020-02-03T00:00:00+08:06</published></entry><entry><id>/archives/2020-02-03-01/</id><title>外贸案例-保留贸易书信证据不容忽视</title><updated>2020-02-05T14:05:18.579963+00:00</updated><author><name>MIKA</name><email>359911923@qq.com</email><uri>https://www.wangxfei.com</uri></author><content>&lt;p&gt;在国际贸易中，买卖双方在签订合同之后，就合同相关事宜或者贸易安排进行变更时，往往通过邮件、电话、面谈等方式进行。
 而贸易双方妥善保存在此期间的相关书面文件，对于后期发生贸易纠纷时确认债权债务关系和法律责任往往具有十分重要的意义。
 但一些出口企业在贸易实践中，往往由于种种原因忽视了书面证据的留底和保存，为日后可能发生的贸易纠纷买下了隐患。&lt;/p&gt;
 &lt;h3&gt;案例&lt;/h3&gt;
@@ -703,7 +652,7 @@ X无法提供全部事项的书面证据材料。&lt;/p&gt;
 &lt;p&gt;从上述两个案件我们可以看到，其实出口企业只需在贸易过程中多个心眼，以各种方式和途径保留贸易过程中的证据，就可以在出险后及时
 提供有力证明，为挽回损失打下基础。因此广大出口企业，特别时业务操作人员应该重视贸易往来书面证据的留存，吸取其他企业的惨痛教训，
 积极维护企业的贸易利益。&lt;/p&gt;
-</content><link href="/archives/2020-02-03-01/" rel="alternate"/><published>2020-02-03T00:00:00+08:06</published></entry><entry><id>/archives/2020-02-04-01/</id><title>市场调查之越南（三）</title><updated>2020-02-05T13:19:54.670108+00:00</updated><author><name>MIKA</name><email>359911923@qq.com</email><uri>https://www.wangxfei.com</uri></author><content>&lt;h3&gt;中国是越南最大的贸易伙伴&lt;/h3&gt;
+</content><link href="/archives/2020-02-03-01/" rel="alternate"/><published>2020-02-03T00:00:00+08:06</published></entry><entry><id>/archives/2020-02-04-01/</id><title>市场调查之越南（三）</title><updated>2020-02-05T14:05:18.579913+00:00</updated><author><name>MIKA</name><email>359911923@qq.com</email><uri>https://www.wangxfei.com</uri></author><content>&lt;h3&gt;中国是越南最大的贸易伙伴&lt;/h3&gt;
 &lt;p&gt;自1991年起，中越关系明显缓和，中越之间的贸易显著增加，双方在对彼此的经济发展中突飞猛进。这对中国和越南的经济贸易关系稳步发展
 有着至关重要的作用。&lt;/p&gt;
 &lt;p&gt;中国和越南有着很长一段的共同边界线，可以说经贸合作也是历史的需要。双方都本着“尊重主权与自国的领土完整，互不侵犯，互不干涉内政，横向
@@ -775,7 +724,7 @@ X无法提供全部事项的书面证据材料。&lt;/p&gt;
 &lt;p&gt;二、做好协调与沟通，缩小非经济因素带来的影响。&lt;/p&gt;
 &lt;p&gt;三、严厉打击走私与贸易偷运等问题。&lt;/p&gt;
 &lt;p&gt;&lt;font color=#DCDCDC size=1&gt;（PS:  本文部分数据参考商务部、tradingeconomics等，由外跨研究中心综合整理，转载请务必标明出处。）&lt;/font&gt;&lt;/p&gt;
-</content><link href="/archives/2020-02-04-01/" rel="alternate"/><published>2020-02-04T00:00:00+08:06</published></entry><entry><id>/archives/2020-02-04-03/</id><title>商务英语之订货交货</title><updated>2020-02-05T13:19:54.670076+00:00</updated><author><name>MIKA</name><email>359911923@qq.com</email><uri>https://www.wangxfei.com</uri></author><content>&lt;p&gt;&lt;strong&gt; Can you accept this order?&lt;/strong&gt;&lt;/p&gt;
+</content><link href="/archives/2020-02-04-01/" rel="alternate"/><published>2020-02-04T00:00:00+08:06</published></entry><entry><id>/archives/2020-02-04-03/</id><title>商务英语之订货交货</title><updated>2020-02-05T14:05:18.579887+00:00</updated><author><name>MIKA</name><email>359911923@qq.com</email><uri>https://www.wangxfei.com</uri></author><content>&lt;p&gt;&lt;strong&gt; Can you accept this order?&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt; 你接受这份订单吗？&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;p&gt;Please cancel this order. 
@@ -965,7 +914,7 @@ can be dispatched promptly after you get my L/C.&lt;/p&gt;
 &lt;p&gt;draw on sb 向······开会汇票&lt;/p&gt;
 &lt;p&gt;deliver the goods in three lots 货物分三批装运&lt;/p&gt;
 &lt;p&gt;shipment within one month 一个月内装船&lt;/p&gt;
-</content><link href="/archives/2020-02-04-03/" rel="alternate"/><published>2020-02-04T00:00:00+08:06</published></entry><entry><id>/archives/2020-02-04-02/</id><title>外贸案例-合同未按规定检验条款，货物品质争议如何解决</title><updated>2020-02-05T13:19:54.670038+00:00</updated><author><name>MIKA</name><email>359911923@qq.com</email><uri>https://www.wangxfei.com</uri></author><content>&lt;h3&gt;案情&lt;/h3&gt;
+</content><link href="/archives/2020-02-04-03/" rel="alternate"/><published>2020-02-04T00:00:00+08:06</published></entry><entry><id>/archives/2020-02-04-02/</id><title>外贸案例-合同未按规定检验条款，货物品质争议如何解决</title><updated>2020-02-05T14:05:18.579859+00:00</updated><author><name>MIKA</name><email>359911923@qq.com</email><uri>https://www.wangxfei.com</uri></author><content>&lt;h3&gt;案情&lt;/h3&gt;
 &lt;p&gt;我国甲公司与印度尼西亚乙公司，分别于某年4月26日、9月2日和9月20日定理3份售货确认书，由甲公司向印度尼西亚出售T恤衫、背心等纺织品，3月份确认书
 的总金额未91.2141万美元，约定付款方式为D/A 90天。上述确认书签订后，甲公司按合约全面履行了供货义务，而印度尼西亚乙公司仅支付了20万美元的货款，
 其余货款未付。印度尼西亚乙公司称，甲公司提供的T恤衫存在多处质量问题：使用多年库存的布料；T恤衫重量轻于被申请人要求的规定；T恤衫的长度
@@ -987,7 +936,63 @@ can be dispatched promptly after you get my L/C.&lt;/p&gt;
 将他认为不符合买卖合同的事情通知卖方。如果提不出这种通知，卖方便丧失其拒绝接受货物的权力。” 在本案中，被申请人接受了货物，不仅未在检验
 后的3日内向卖方发出检验不合格的通知，而且始终未向卖方和仲裁法庭提交任何足以证明上述货物质量不符的检验证书，说明其声称的质量问题，没有
 经相关检验机构检验。因此，被申请人就丧失声称货物不符合同的权力。仲裁法庭对被申请人提出的退货、折价等主张均不予支持时正确的。&lt;/p&gt;
-</content><link href="/archives/2020-02-04-02/" rel="alternate"/><published>2020-02-04T00:00:00+08:06</published></entry><entry><id>/archives/2020-02-05-01/</id><title>外贸案例-出口企业贸易合同履行瑕疵案引发的思考</title><updated>2020-02-05T13:19:54.669840+00:00</updated><author><name>MIKA</name><email>359911923@qq.com</email><uri>https://www.wangxfei.com</uri></author><content>&lt;h3&gt;案情&lt;/h3&gt;
+</content><link href="/archives/2020-02-04-02/" rel="alternate"/><published>2020-02-04T00:00:00+08:06</published></entry><entry><id>/archives/2020-02-05-02/</id><title>商务英语之风险控制</title><updated>2020-02-05T14:05:18.579823+00:00</updated><author><name>MIKA</name><email>359911923@qq.com</email><uri>https://www.wangxfei.com</uri></author><content>&lt;p&gt;&lt;strong&gt; Do you wish to arrange for WPA and additional overage agaist Risk of Breakage?&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;你是项保水渍险和附加破损险吗？&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Yes. WPA coverage is too narrow for a shipment of this nature, please extend the coverage to include Risk of
+Breakage. 针对这种性质的货物只保水渍险是不够的，请加保附加破损险。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Well, obviously I want All Risk cover. 显然，我是想保一切险。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Please insure the shipment for RMB50,000 against WPA and Risk of Breakage. 请将这批货物投保水渍险和破损险共
+50000人民币。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;No, I don't think that the WPA insurance covers more risks than the FPA, so we arrange for FPA. 我认为水渍险承保
+的范围并不比平安险的范围宽，所以我们投保平安险。&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt; What's your reason for the refusal of payment?&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt; 你们拒付的理由是什么？&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;We can't accept payment on deferred terms. 我们不能接受延期付款。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Upon arrival, we found the goods were of poor quality. So we cannot pay for it. 货到后，我们发现货物的质量
+较差。我们不能付款给你。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;We are sorry to inform you that the listed terms of payment do not correspond to customary practices, we can't
+pay it. 很抱歉通知你，你所列的付款方式与通常的贸易做法不相符，我不能付款。&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt; Shall we take up the question of inspection today?&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt; 今天咱们讨论商品检验问题吧？&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Ok, the inspection should be completed within a month after the arrival of the goods. 好，商品检验工作到货后一个月
+内完成。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;We suggest that the certificate should be issued by China Import and Export Commodity Inspection Bureau or by
+any of its branches. 检验证书将由中国进出口商品检验局或其分支机构出具。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;The importer have the right to reinspect the goods after their arrival. 进口商在货到后有权复检商品。&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt; What is your specific tranport requirement?&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt; 你们具体运输要求是什么？&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;We want to use FOB, in that case the risks and charges are to be passed over to the buyers once the cargo is
+put on board the ship. 我们希望采购离岸价，这样货一上船货物的风险和费用都转给买方了。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;We need to book space for the shipment of 5,000 cases of fancy silks to Sydney. 我们需要订舱以便将5000箱的精美丝绸运往悉尼。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;We use ocean shipping, because tranport by sea is the most important mode of transportation in the world today.
+我们用海运，因为海运是目前世界上最重要的一种运输方式。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;We would prefer to have goods carried by road and not by railway. 我们宁愿用公路运输而不用铁路。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;If you don't have direct vessel, we have to arrnage multimodal combined tranport by rail and sea. 如果没有直达
+船，我们只好安排海陆联运。&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+</content><link href="/archives/2020-02-05-02/" rel="alternate"/><published>2020-02-05T00:00:00+08:06</published></entry><entry><id>/archives/2020-02-05-01/</id><title>外贸案例-出口企业贸易合同履行瑕疵案引发的思考</title><updated>2020-02-05T14:05:18.579652+00:00</updated><author><name>MIKA</name><email>359911923@qq.com</email><uri>https://www.wangxfei.com</uri></author><content>&lt;h3&gt;案情&lt;/h3&gt;
 &lt;p&gt;某年11月至12月间，被保险人H向国外买方C出口价值27万美元的宽屏电视，C收获后以货物存在质量问题为由拒绝支付全部货款。次年4月，H按照保险合同
 要求向中国出口信用保险公司通报相关损失。&lt;/p&gt;
 &lt;p&gt;经了解，C为华人企业，经营电器进口及销售业务，拥有自主品牌，产品再当地中低档电器市场中具有一定影响力。C的采购基本来自中国，以OEM方式
