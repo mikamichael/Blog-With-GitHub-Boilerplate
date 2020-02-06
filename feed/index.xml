@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>外贸启航站</title><link>/</link><description>外贸路上，愿我们都不再孤单。</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://cdn.jsdelivr.net/gh/mikamichael/Blog-With-GitHub-Boilerplate@gh-pages/logo.png</url><title>外贸启航站</title><link>/</link></image><language>zh-CN</language><lastBuildDate>Thu, 06 Feb 2020 10:50:59 +0806</lastBuildDate><pubDate>Thu, 06 Feb 2020 10:50:59 +0806</pubDate><item><title>商务英语之价格谈判</title><link>/archives/2020-02-03-02/</link><description>&lt;p&gt;&lt;strong&gt;What do you think about the price?&lt;/strong&gt;&lt;/p&gt;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>外贸启航站</title><link>/</link><description>外贸路上，愿我们都不再孤单。</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://cdn.jsdelivr.net/gh/mikamichael/Blog-With-GitHub-Boilerplate@gh-pages/logo.png</url><title>外贸启航站</title><link>/</link></image><language>zh-CN</language><lastBuildDate>Thu, 06 Feb 2020 10:54:12 +0806</lastBuildDate><pubDate>Thu, 06 Feb 2020 10:54:12 +0806</pubDate><item><title>商务英语之价格谈判</title><link>/archives/2020-02-03-02/</link><description>&lt;p&gt;&lt;strong&gt;What do you think about the price?&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;这个价格你觉得怎么样？&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;p&gt;It seems acceptable.
@@ -845,7 +845,7 @@ arbitrator's decision on the dispute is final and binding on the both parties.&l
 &lt;table&gt;
 &lt;thead&gt;&lt;tr&gt;
 &lt;th style="text-align:left"&gt;&lt;strong&gt;进口国家&lt;/strong&gt;&lt;/th&gt;
-&lt;th style="text-align:left"&gt;&lt;strong&gt;进口额&lt;/strong&gt;&lt;/th&gt;
+&lt;th style="text-align:left"&gt;&lt;strong&gt;进口额（亿美元）&lt;/strong&gt;&lt;/th&gt;
 &lt;th style="text-align:left"&gt;&lt;strong&gt;年份&lt;/strong&gt;&lt;/th&gt;
 &lt;/tr&gt;
 &lt;/thead&gt;
