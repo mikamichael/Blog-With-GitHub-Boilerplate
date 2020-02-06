@@ -1,209 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-CN"><id>/</id><title>外贸启航站</title><updated>2020-02-05T16:03:55.636688+08:06</updated><author><name>MIKA</name><email>359911923@qq.com</email></author><link href="/" rel="alternate"/><generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator><logo>https://cdn.jsdelivr.net/gh/mikamichael/Blog-With-GitHub-Boilerplate@gh-pages/logo.png</logo><subtitle>外贸路上，愿我们都不再孤单。</subtitle><entry><id>/archives/2020-02-02-03/</id><title>市场调查之越南（二）</title><updated>2020-02-05T16:03:55.637217+00:00</updated><author><name>MIKA</name><email>359911923@qq.com</email><uri>https://www.wangxfei.com</uri></author><content>&lt;h3&gt;GDP分析&lt;/h3&gt;
-&lt;h4&gt;GDP总体增长&lt;/h4&gt;
-&lt;p&gt;&lt;figure&gt;&lt;img data-width="730" data-height="340" src="https://cdn.jsdelivr.net/gh/mikamichael/Blog-With-GitHub-Boilerplate@gh-pages/archives/assets/c7481465b829381d75c1757f4052f39b.png" alt="2008年-2018年越南GDP（单位：十亿美元）" /&gt;&lt;figcaption&gt;2008年-2018年越南GDP（单位：十亿美元）&lt;/figcaption&gt;&lt;/figure&gt;&lt;/p&gt;
-&lt;p&gt;越南2018年的国内生产总值（GDP）价值2449.5亿美元。越南的GDP价值占世界经济的0.40％。&lt;/p&gt;
-&lt;p&gt;从1985年到2018年，越南的GDP平均为739.6亿美元，在2018年达到2449.5亿美元的历史新高，
-而在1989年则达到了创纪录的62.9亿美元的历史新低。&lt;/p&gt;
-&lt;h4&gt;GDP增长率波动较大&lt;/h4&gt;
-&lt;p&gt;&lt;figure&gt;&lt;img data-width="730" data-height="340" src="https://cdn.jsdelivr.net/gh/mikamichael/Blog-With-GitHub-Boilerplate@gh-pages/archives/assets/08092707170414726e46e5d13f6bbb84.png" alt="2008年-2018年越南GDP增长率" /&gt;&lt;figcaption&gt;2008年-2018年越南GDP增长率&lt;/figcaption&gt;&lt;/figure&gt;&lt;/p&gt;
-&lt;p&gt;2008年-2018年间，越南GDP增长率波动较大。总体呈上升趋势。&lt;/p&gt;
-&lt;p&gt;越南的国内生产总值在上一季度上调7.48％后，在2019年第四季度同比增长6.97％。 在2019年全年，经济增长了7.02％，
-超过了国民议会的目标，从6.6％提高到6.8％。&lt;/p&gt;
-&lt;p&gt;从2000年到2019年，越南的GDP年均增长率为6.54％，在2007年第四季度创下历史新高8.48％，
-在2009年第一季度创下历史新低3.12％。&lt;/p&gt;
-&lt;table&gt;
-&lt;thead&gt;&lt;tr&gt;
-&lt;th style="text-align:center"&gt;&lt;strong&gt;实际&lt;/strong&gt;&lt;/th&gt;
-&lt;th style="text-align:center"&gt;&lt;strong&gt;上季度&lt;/strong&gt;&lt;/th&gt;
-&lt;th style="text-align:center"&gt;&lt;strong&gt;最高&lt;/strong&gt;&lt;/th&gt;
-&lt;th style="text-align:center"&gt;&lt;strong&gt;最低&lt;/strong&gt;&lt;/th&gt;
-&lt;th style="text-align:center"&gt;&lt;strong&gt;年度&lt;/strong&gt;&lt;/th&gt;
-&lt;th style="text-align:center"&gt;&lt;strong&gt;单位&lt;/strong&gt;&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td style="text-align:center"&gt;6.97&lt;/td&gt;
-&lt;td style="text-align:center"&gt;7.48&lt;/td&gt;
-&lt;td style="text-align:center"&gt;8.48&lt;/td&gt;
-&lt;td style="text-align:center"&gt;3.12&lt;/td&gt;
-&lt;td style="text-align:center"&gt;2000-2019&lt;/td&gt;
-&lt;td style="text-align:center"&gt;百分比&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;/table&gt;
-&lt;h3&gt;外汇储备呈呈上升趋势&lt;/h3&gt;
-&lt;p&gt;&lt;figure&gt;&lt;img data-width="730" data-height="340" src="https://cdn.jsdelivr.net/gh/mikamichael/Blog-With-GitHub-Boilerplate@gh-pages/archives/assets/0b7cb855a66f4645349867a09cdf349d.png" alt="2008年-2018年越南外汇储备" /&gt;&lt;figcaption&gt;2008年-2018年越南外汇储备&lt;/figcaption&gt;&lt;/figure&gt;&lt;/p&gt;
-&lt;p&gt;越南的外汇储备从2019年8月的66350.60百万美元增至9月的68812.10百万美元。&lt;/p&gt;
-&lt;p&gt;从1995年到2019年，越南的外汇储备平均为18295.94百万美元，在2019年9月达到历史
-最高的68812.10百万美元，并在1995年1月创下历史新低的878.30百万美元。&lt;/p&gt;
-&lt;table&gt;
-&lt;thead&gt;&lt;tr&gt;
-&lt;th style="text-align:center"&gt;&lt;strong&gt;实际&lt;/strong&gt;&lt;/th&gt;
-&lt;th style="text-align:center"&gt;&lt;strong&gt;上季度&lt;/strong&gt;&lt;/th&gt;
-&lt;th style="text-align:center"&gt;&lt;strong&gt;最高&lt;/strong&gt;&lt;/th&gt;
-&lt;th style="text-align:center"&gt;&lt;strong&gt;最低&lt;/strong&gt;&lt;/th&gt;
-&lt;th style="text-align:center"&gt;&lt;strong&gt;年度&lt;/strong&gt;&lt;/th&gt;
-&lt;th style="text-align:center"&gt;&lt;strong&gt;单位&lt;/strong&gt;&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td style="text-align:center"&gt;68812.10&lt;/td&gt;
-&lt;td style="text-align:center"&gt;66350.60&lt;/td&gt;
-&lt;td style="text-align:center"&gt;68812.10&lt;/td&gt;
-&lt;td style="text-align:center"&gt;878.30&lt;/td&gt;
-&lt;td style="text-align:center"&gt;1995 - 2019&lt;/td&gt;
-&lt;td style="text-align:center"&gt;百万美元&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;/table&gt;
-&lt;h3&gt;就业人口上升&lt;/h3&gt;
-&lt;p&gt;&lt;figure&gt;&lt;img data-width="730" data-height="340" src="https://cdn.jsdelivr.net/gh/mikamichael/Blog-With-GitHub-Boilerplate@gh-pages/archives/assets/fe6e21eab8ce758d867367621d6622fd.png" alt="2009年-2019年越南就业人口" /&gt;&lt;figcaption&gt;2009年-2019年越南就业人口&lt;/figcaption&gt;&lt;/figure&gt;&lt;/p&gt;
-&lt;p&gt;越南的就业人数从2019年第三季度的5456万增至2019年第四季度的5,503万。&lt;/p&gt;
-&lt;p&gt;从1982年到2019年，越南就业人数平均为4,327万，在2019年第四季度达到历史最高水平5,503万，
-在1982年第四季度达到历史新低2,350万。&lt;/p&gt;
-&lt;table&gt;
-&lt;thead&gt;&lt;tr&gt;
-&lt;th style="text-align:center"&gt;&lt;strong&gt;实际&lt;/strong&gt;&lt;/th&gt;
-&lt;th style="text-align:center"&gt;&lt;strong&gt;上季度&lt;/strong&gt;&lt;/th&gt;
-&lt;th style="text-align:center"&gt;&lt;strong&gt;最高&lt;/strong&gt;&lt;/th&gt;
-&lt;th style="text-align:center"&gt;&lt;strong&gt;最低&lt;/strong&gt;&lt;/th&gt;
-&lt;th style="text-align:center"&gt;&lt;strong&gt;年度&lt;/strong&gt;&lt;/th&gt;
-&lt;th style="text-align:center"&gt;&lt;strong&gt;单位&lt;/strong&gt;&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td style="text-align:center"&gt;55.03&lt;/td&gt;
-&lt;td style="text-align:center"&gt;54.56&lt;/td&gt;
-&lt;td style="text-align:center"&gt;55.03&lt;/td&gt;
-&lt;td style="text-align:center"&gt;23.50&lt;/td&gt;
-&lt;td style="text-align:center"&gt;1982 - 2019&lt;/td&gt;
-&lt;td style="text-align:center"&gt;百万&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;/table&gt;
-&lt;p&gt;&lt;figure&gt;&lt;img data-width="730" data-height="340" src="https://cdn.jsdelivr.net/gh/mikamichael/Blog-With-GitHub-Boilerplate@gh-pages/archives/assets/f27f7f3fec99d2aec378877d068f62a4.png" alt="2009年-2019年越南失业率" /&gt;&lt;figcaption&gt;2009年-2019年越南失业率&lt;/figcaption&gt;&lt;/figure&gt;&lt;/p&gt;
-&lt;p&gt;越南的失业率从2019年第三季度的2.17％降至2019年第四季度的2.15％。&lt;/p&gt;
-&lt;p&gt;从1998年到2019年，越南的失业率平均为2.33％，在1998年第四季度创历史新高4.50％，
-在2012年第四季度创下历史新低1.81％。&lt;/p&gt;
-&lt;table&gt;
-&lt;thead&gt;&lt;tr&gt;
-&lt;th style="text-align:center"&gt;&lt;strong&gt;实际&lt;/strong&gt;&lt;/th&gt;
-&lt;th style="text-align:center"&gt;&lt;strong&gt;上季度&lt;/strong&gt;&lt;/th&gt;
-&lt;th style="text-align:center"&gt;&lt;strong&gt;最高&lt;/strong&gt;&lt;/th&gt;
-&lt;th style="text-align:center"&gt;&lt;strong&gt;最低&lt;/strong&gt;&lt;/th&gt;
-&lt;th style="text-align:center"&gt;&lt;strong&gt;年度&lt;/strong&gt;&lt;/th&gt;
-&lt;th style="text-align:center"&gt;&lt;strong&gt;单位&lt;/strong&gt;&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td style="text-align:center"&gt;2.15&lt;/td&gt;
-&lt;td style="text-align:center"&gt;2.17&lt;/td&gt;
-&lt;td style="text-align:center"&gt;4.50&lt;/td&gt;
-&lt;td style="text-align:center"&gt;1.81&lt;/td&gt;
-&lt;td style="text-align:center"&gt;1998 - 2019&lt;/td&gt;
-&lt;td style="text-align:center"&gt;百分比&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;/table&gt;
-&lt;h3&gt;平均工资和物价呈上升趋势&lt;/h3&gt;
-&lt;p&gt;&lt;figure&gt;&lt;img data-width="730" data-height="340" src="https://cdn.jsdelivr.net/gh/mikamichael/Blog-With-GitHub-Boilerplate@gh-pages/archives/assets/b7275437ceec4d2160ee24597d88d852.png" alt="2008年-2018年越南月公平工资" /&gt;&lt;figcaption&gt;2008年-2018年越南月公平工资&lt;/figcaption&gt;&lt;/figure&gt;&lt;/p&gt;
-&lt;p&gt;越南的工资从2018年第一季度的5788越南盾/月，降至2018年第二季度的5622越南盾/月。&lt;/p&gt;
-&lt;p&gt;从2007年到2018年，越南的平均工资为4232.55越南盾/月，在2018年第一季度创下
-历史新高5788越南盾/月，并在2007年第四季度创下历史新低1399越南盾/月。&lt;/p&gt;
-&lt;table&gt;
-&lt;thead&gt;&lt;tr&gt;
-&lt;th style="text-align:center"&gt;&lt;strong&gt;实际&lt;/strong&gt;&lt;/th&gt;
-&lt;th style="text-align:center"&gt;&lt;strong&gt;上季度&lt;/strong&gt;&lt;/th&gt;
-&lt;th style="text-align:center"&gt;&lt;strong&gt;最高&lt;/strong&gt;&lt;/th&gt;
-&lt;th style="text-align:center"&gt;&lt;strong&gt;最低&lt;/strong&gt;&lt;/th&gt;
-&lt;th style="text-align:center"&gt;&lt;strong&gt;年度&lt;/strong&gt;&lt;/th&gt;
-&lt;th style="text-align:center"&gt;&lt;strong&gt;单位&lt;/strong&gt;&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td style="text-align:center"&gt;5622.00&lt;/td&gt;
-&lt;td style="text-align:center"&gt;5788.00&lt;/td&gt;
-&lt;td style="text-align:center"&gt;5788.00&lt;/td&gt;
-&lt;td style="text-align:center"&gt;1399.00&lt;/td&gt;
-&lt;td style="text-align:center"&gt;2007 - 2018&lt;/td&gt;
-&lt;td style="text-align:center"&gt;越南盾 千盾/月&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;/table&gt;
-&lt;p&gt;&lt;figure&gt;&lt;img data-width="730" data-height="340" src="https://cdn.jsdelivr.net/gh/mikamichael/Blog-With-GitHub-Boilerplate@gh-pages/archives/assets/8af9345f5e0102c62b971f863ce3cdae.png" alt="2016年-2019年越南物价指数" /&gt;&lt;figcaption&gt;2016年-2019年越南物价指数&lt;/figcaption&gt;&lt;/figure&gt;&lt;/p&gt;
-&lt;p&gt;越南的居民消费价格指数从2019年12月的116.65点升至1月的118.09点。&lt;/p&gt;
-&lt;p&gt;从2016年到2020年，越南消费者物价指数CPI平均为108.10点，2020年1月创历
-史新高118.09点，2016年1月创历史新低100.17点。&lt;/p&gt;
-&lt;table&gt;
-&lt;thead&gt;&lt;tr&gt;
-&lt;th style="text-align:center"&gt;&lt;strong&gt;实际&lt;/strong&gt;&lt;/th&gt;
-&lt;th style="text-align:center"&gt;&lt;strong&gt;上季度&lt;/strong&gt;&lt;/th&gt;
-&lt;th style="text-align:center"&gt;&lt;strong&gt;最高&lt;/strong&gt;&lt;/th&gt;
-&lt;th style="text-align:center"&gt;&lt;strong&gt;最低&lt;/strong&gt;&lt;/th&gt;
-&lt;th style="text-align:center"&gt;&lt;strong&gt;年度&lt;/strong&gt;&lt;/th&gt;
-&lt;th style="text-align:center"&gt;&lt;strong&gt;单位&lt;/strong&gt;&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td style="text-align:center"&gt;118.09&lt;/td&gt;
-&lt;td style="text-align:center"&gt;116.65&lt;/td&gt;
-&lt;td style="text-align:center"&gt;118.09&lt;/td&gt;
-&lt;td style="text-align:center"&gt;100.17&lt;/td&gt;
-&lt;td style="text-align:center"&gt;2016 - 2020&lt;/td&gt;
-&lt;td style="text-align:center"&gt;点&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;/table&gt;
-&lt;p&gt;&lt;figure&gt;&lt;img data-width="730" data-height="340" src="https://cdn.jsdelivr.net/gh/mikamichael/Blog-With-GitHub-Boilerplate@gh-pages/archives/assets/1f2e96d44ec9b312caed07f1900ebd40.png" alt="2016年-2019年越南物价指数" /&gt;&lt;figcaption&gt;2016年-2019年越南物价指数&lt;/figcaption&gt;&lt;/figure&gt;&lt;/p&gt;
-&lt;p&gt;越南的年通胀率从前一个月的5.23％增至2020年1月的6.43％。 这是自2013年8月以来的最高通货膨胀率，
-受农历新年节日对食品和饮料的需求增加以及猪瘟持续影响的推动，食品和餐饮服务价格上涨（10.93％比
-12月的9.17％）。 住房和建筑材料的通货膨胀也加快了（6.29％比5.12％），原因是1月1日国内天然气价
-格上涨。 运输和运输（7.50％对3.52％），这是由于2019年12月31日汽油价格调整的影响。同时，纺织品，
-鞋类，帽子（1.43％对1.49％）和教育（4.11％对4.25％）的成本降低了 ）。 年度核心通胀率（不包括
-波动性项目）从12月的2.78％上升至1月的3.25％，是自该系列于2015年4月开始以来的最高水平。按月计，
-消费价格上涨了1.23％。&lt;/p&gt;
-&lt;p&gt;从1996年到2020年，越南的通货膨胀率平均为6.22％，在2008年8月达到历史最高的28.24％，
-在2000年7月达到创纪录的低至-2.60％。&lt;/p&gt;
-&lt;table&gt;
-&lt;thead&gt;&lt;tr&gt;
-&lt;th style="text-align:center"&gt;&lt;strong&gt;实际&lt;/strong&gt;&lt;/th&gt;
-&lt;th style="text-align:center"&gt;&lt;strong&gt;上季度&lt;/strong&gt;&lt;/th&gt;
-&lt;th style="text-align:center"&gt;&lt;strong&gt;最高&lt;/strong&gt;&lt;/th&gt;
-&lt;th style="text-align:center"&gt;&lt;strong&gt;最低&lt;/strong&gt;&lt;/th&gt;
-&lt;th style="text-align:center"&gt;&lt;strong&gt;年度&lt;/strong&gt;&lt;/th&gt;
-&lt;th style="text-align:center"&gt;&lt;strong&gt;单位&lt;/strong&gt;&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td style="text-align:center"&gt;6.43&lt;/td&gt;
-&lt;td style="text-align:center"&gt;5.23&lt;/td&gt;
-&lt;td style="text-align:center"&gt;28.24&lt;/td&gt;
-&lt;td style="text-align:center"&gt;-2.60&lt;/td&gt;
-&lt;td style="text-align:center"&gt;1996 - 2020&lt;/td&gt;
-&lt;td style="text-align:center"&gt;百分比&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;/table&gt;
-&lt;h3&gt;企业所得税降低&lt;/h3&gt;
-&lt;p&gt;&lt;figure&gt;&lt;img data-width="730" data-height="340" src="https://cdn.jsdelivr.net/gh/mikamichael/Blog-With-GitHub-Boilerplate@gh-pages/archives/assets/cb3ba78efb9aa3c10dc903238beb0fa9.png" alt="2008年-2018年越南企业所得税" /&gt;&lt;figcaption&gt;2008年-2018年越南企业所得税&lt;/figcaption&gt;&lt;/figure&gt;&lt;/p&gt;
-&lt;p&gt;2016年-2018年，越南的企业所得税为20%。&lt;/p&gt;
-&lt;p&gt;从1997年到2019年，越南的公司税率平均为27.07％，1998年达到历史最高水平35％，
-2016年达到历史最低点20％。&lt;/p&gt;
-&lt;h3&gt;个人所得税&lt;/h3&gt;
-&lt;p&gt;&lt;figure&gt;&lt;img data-width="730" data-height="340" src="https://cdn.jsdelivr.net/gh/mikamichael/Blog-With-GitHub-Boilerplate@gh-pages/archives/assets/a98111fe803fa37659d0d01190e52001.png" alt="2008年-2018年越南个人所得税" /&gt;&lt;figcaption&gt;2008年-2018年越南个人所得税&lt;/figcaption&gt;&lt;/figure&gt;&lt;/p&gt;
-&lt;p&gt;2009年-2018年，越南的个人所得税税率为35％。&lt;/p&gt;
-&lt;p&gt;从2004年到2018年，越南的个人所得税税率平均为36.67％，在2005年达到历史最高水平40％，
-在2009年达到历史最低水平35％。&lt;/p&gt;
-&lt;p&gt;&lt;font color=#DCDCDC size=1&gt;（PS: 本文部分数据参考商务部、tradingeconomics等，由外跨研究中心综合整理，转载请务必标明出处。）&lt;/font&gt;&lt;/p&gt;
-</content><link href="/archives/2020-02-02-03/" rel="alternate"/><published>2020-02-02T00:00:00+08:06</published></entry><entry><id>/archives/2020-02-02-02/</id><title>商务英语之合同签订</title><updated>2020-02-05T16:03:55.637190+00:00</updated><author><name>MIKA</name><email>359911923@qq.com</email><uri>https://www.wangxfei.com</uri></author><content>&lt;p&gt;&lt;strong&gt; I'm very glad that we have finally come to an agreement.&lt;/strong&gt;&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-CN"><id>/</id><title>外贸启航站</title><updated>2020-02-06T03:48:46.316991+08:06</updated><author><name>MIKA</name><email>359911923@qq.com</email></author><link href="/" rel="alternate"/><generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator><logo>https://cdn.jsdelivr.net/gh/mikamichael/Blog-With-GitHub-Boilerplate@gh-pages/logo.png</logo><subtitle>外贸路上，愿我们都不再孤单。</subtitle><entry><id>/archives/2020-02-02-02/</id><title>商务英语之合同签订</title><updated>2020-02-06T03:48:46.317440+00:00</updated><author><name>MIKA</name><email>359911923@qq.com</email><uri>https://www.wangxfei.com</uri></author><content>&lt;p&gt;&lt;strong&gt; I'm very glad that we have finally come to an agreement.&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt; 很高兴我们终于达成了协议。&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;The same to me.
@@ -376,7 +172,7 @@ to buy?（你能否告知参考价格以便我们决定是否购买呢？）&lt;
 &lt;p&gt;net cash 付现款&lt;/p&gt;
 &lt;p&gt;invoice date 发票日期&lt;/p&gt;
 &lt;p&gt;resembling 形容词 类似的，相仿的&lt;/p&gt;
-</content><link href="/archives/2020-02-02-02/" rel="alternate"/><published>2020-02-02T00:00:00+08:06</published></entry><entry><id>/archives/2020-02-02-01/</id><title>外贸案例-货物的复验权和最终检验权</title><updated>2020-02-05T16:03:55.637162+00:00</updated><author><name>MIKA</name><email>359911923@qq.com</email><uri>https://www.wangxfei.com</uri></author><content>&lt;h3&gt;案情&lt;/h3&gt;
+</content><link href="/archives/2020-02-02-02/" rel="alternate"/><published>2020-02-02T00:00:00+08:06</published></entry><entry><id>/archives/2020-02-02-01/</id><title>外贸案例-货物的复验权和最终检验权</title><updated>2020-02-06T03:48:46.317414+00:00</updated><author><name>MIKA</name><email>359911923@qq.com</email><uri>https://www.wangxfei.com</uri></author><content>&lt;h3&gt;案情&lt;/h3&gt;
 &lt;p&gt;中国甲公司和印度乙公司于某年1月24日签订了购买纺织品布防5,000米买卖合同，该布料是受某服装加工厂委托进口的，用于加工服装出口欧盟，
 因此合同规定按OKO-TEX100标准，其中甲醛最高含量不超过100PPM，单价为每米3美元，以即期信用证的方式结汇，贸易术语采用CIF。合同
 规定的检验条款为：货物在目的港卸后30天内经中国商检机关的复检，如发现品质或规格与本合同规定不符的，除术语保险公司或船公司
@@ -417,7 +213,7 @@ to buy?（你能否告知参考价格以便我们决定是否购买呢？）&lt;
 &lt;li&gt;买方必须凭约定的有效商检证书在儿胡同规定的索赔期限内向卖方提出索赔，从法律上来讲任何超过期限的索赔都不是有效索赔。本案中，
 甲方时在合同规定索赔期限内提出索赔的，虽然第三次检验超过了30天。&lt;/li&gt;
 &lt;/ul&gt;
-</content><link href="/archives/2020-02-02-01/" rel="alternate"/><published>2020-02-02T00:00:00+08:06</published></entry><entry><id>/archives/2020-02-03-02/</id><title>商务英语之价格谈判</title><updated>2020-02-05T16:03:55.637135+00:00</updated><author><name>MIKA</name><email>359911923@qq.com</email><uri>https://www.wangxfei.com</uri></author><content>&lt;p&gt;&lt;strong&gt;What do you think about the price?&lt;/strong&gt;&lt;/p&gt;
+</content><link href="/archives/2020-02-02-01/" rel="alternate"/><published>2020-02-02T00:00:00+08:06</published></entry><entry><id>/archives/2020-02-03-02/</id><title>商务英语之价格谈判</title><updated>2020-02-06T03:48:46.317390+00:00</updated><author><name>MIKA</name><email>359911923@qq.com</email><uri>https://www.wangxfei.com</uri></author><content>&lt;p&gt;&lt;strong&gt;What do you think about the price?&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;这个价格你觉得怎么样？&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;p&gt;It seems acceptable.
@@ -613,7 +409,7 @@ out of line with the market level.（尽管我向与实力雄厚且信誉良好�
 &lt;p&gt;eat into our profit 侵蚀我们的利益&lt;/p&gt;
 &lt;p&gt;famous brand 名牌&lt;/p&gt;
 &lt;p&gt;taste 名词 品味&lt;/p&gt;
-</content><link href="/archives/2020-02-03-02/" rel="alternate"/><published>2020-02-03T00:00:00+08:06</published></entry><entry><id>/archives/2020-02-03-01/</id><title>外贸案例-保留贸易书信证据不容忽视</title><updated>2020-02-05T16:03:55.637107+00:00</updated><author><name>MIKA</name><email>359911923@qq.com</email><uri>https://www.wangxfei.com</uri></author><content>&lt;p&gt;在国际贸易中，买卖双方在签订合同之后，就合同相关事宜或者贸易安排进行变更时，往往通过邮件、电话、面谈等方式进行。
+</content><link href="/archives/2020-02-03-02/" rel="alternate"/><published>2020-02-03T00:00:00+08:06</published></entry><entry><id>/archives/2020-02-03-01/</id><title>外贸案例-保留贸易书信证据不容忽视</title><updated>2020-02-06T03:48:46.317364+00:00</updated><author><name>MIKA</name><email>359911923@qq.com</email><uri>https://www.wangxfei.com</uri></author><content>&lt;p&gt;在国际贸易中，买卖双方在签订合同之后，就合同相关事宜或者贸易安排进行变更时，往往通过邮件、电话、面谈等方式进行。
 而贸易双方妥善保存在此期间的相关书面文件，对于后期发生贸易纠纷时确认债权债务关系和法律责任往往具有十分重要的意义。
 但一些出口企业在贸易实践中，往往由于种种原因忽视了书面证据的留底和保存，为日后可能发生的贸易纠纷买下了隐患。&lt;/p&gt;
 &lt;h3&gt;案例&lt;/h3&gt;
@@ -652,7 +448,7 @@ X无法提供全部事项的书面证据材料。&lt;/p&gt;
 &lt;p&gt;从上述两个案件我们可以看到，其实出口企业只需在贸易过程中多个心眼，以各种方式和途径保留贸易过程中的证据，就可以在出险后及时
 提供有力证明，为挽回损失打下基础。因此广大出口企业，特别时业务操作人员应该重视贸易往来书面证据的留存，吸取其他企业的惨痛教训，
 积极维护企业的贸易利益。&lt;/p&gt;
-</content><link href="/archives/2020-02-03-01/" rel="alternate"/><published>2020-02-03T00:00:00+08:06</published></entry><entry><id>/archives/2020-02-04-01/</id><title>市场调查之越南（三）</title><updated>2020-02-05T16:03:55.637078+00:00</updated><author><name>MIKA</name><email>359911923@qq.com</email><uri>https://www.wangxfei.com</uri></author><content>&lt;h3&gt;中国是越南最大的贸易伙伴&lt;/h3&gt;
+</content><link href="/archives/2020-02-03-01/" rel="alternate"/><published>2020-02-03T00:00:00+08:06</published></entry><entry><id>/archives/2020-02-04-01/</id><title>市场调查之越南（三）</title><updated>2020-02-06T03:48:46.317338+00:00</updated><author><name>MIKA</name><email>359911923@qq.com</email><uri>https://www.wangxfei.com</uri></author><content>&lt;h3&gt;中国是越南最大的贸易伙伴&lt;/h3&gt;
 &lt;p&gt;自1991年起，中越关系明显缓和，中越之间的贸易显著增加，双方在对彼此的经济发展中突飞猛进。这对中国和越南的经济贸易关系稳步发展
 有着至关重要的作用。&lt;/p&gt;
 &lt;p&gt;中国和越南有着很长一段的共同边界线，可以说经贸合作也是历史的需要。双方都本着“尊重主权与自国的领土完整，互不侵犯，互不干涉内政，横向
@@ -724,7 +520,7 @@ X无法提供全部事项的书面证据材料。&lt;/p&gt;
 &lt;p&gt;二、做好协调与沟通，缩小非经济因素带来的影响。&lt;/p&gt;
 &lt;p&gt;三、严厉打击走私与贸易偷运等问题。&lt;/p&gt;
 &lt;p&gt;&lt;font color=#DCDCDC size=1&gt;（PS:  本文部分数据参考商务部、tradingeconomics等，由外跨研究中心综合整理，转载请务必标明出处。）&lt;/font&gt;&lt;/p&gt;
-</content><link href="/archives/2020-02-04-01/" rel="alternate"/><published>2020-02-04T00:00:00+08:06</published></entry><entry><id>/archives/2020-02-04-03/</id><title>商务英语之订货交货</title><updated>2020-02-05T16:03:55.637046+00:00</updated><author><name>MIKA</name><email>359911923@qq.com</email><uri>https://www.wangxfei.com</uri></author><content>&lt;p&gt;&lt;strong&gt; Can you accept this order?&lt;/strong&gt;&lt;/p&gt;
+</content><link href="/archives/2020-02-04-01/" rel="alternate"/><published>2020-02-04T00:00:00+08:06</published></entry><entry><id>/archives/2020-02-04-03/</id><title>商务英语之订货交货</title><updated>2020-02-06T03:48:46.317313+00:00</updated><author><name>MIKA</name><email>359911923@qq.com</email><uri>https://www.wangxfei.com</uri></author><content>&lt;p&gt;&lt;strong&gt; Can you accept this order?&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt; 你接受这份订单吗？&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;p&gt;Please cancel this order. 
@@ -914,7 +710,7 @@ can be dispatched promptly after you get my L/C.&lt;/p&gt;
 &lt;p&gt;draw on sb 向······开会汇票&lt;/p&gt;
 &lt;p&gt;deliver the goods in three lots 货物分三批装运&lt;/p&gt;
 &lt;p&gt;shipment within one month 一个月内装船&lt;/p&gt;
-</content><link href="/archives/2020-02-04-03/" rel="alternate"/><published>2020-02-04T00:00:00+08:06</published></entry><entry><id>/archives/2020-02-04-02/</id><title>外贸案例-合同未按规定检验条款，货物品质争议如何解决</title><updated>2020-02-05T16:03:55.637014+00:00</updated><author><name>MIKA</name><email>359911923@qq.com</email><uri>https://www.wangxfei.com</uri></author><content>&lt;h3&gt;案情&lt;/h3&gt;
+</content><link href="/archives/2020-02-04-03/" rel="alternate"/><published>2020-02-04T00:00:00+08:06</published></entry><entry><id>/archives/2020-02-04-02/</id><title>外贸案例-合同未按规定检验条款，货物品质争议如何解决</title><updated>2020-02-06T03:48:46.317286+00:00</updated><author><name>MIKA</name><email>359911923@qq.com</email><uri>https://www.wangxfei.com</uri></author><content>&lt;h3&gt;案情&lt;/h3&gt;
 &lt;p&gt;我国甲公司与印度尼西亚乙公司，分别于某年4月26日、9月2日和9月20日定理3份售货确认书，由甲公司向印度尼西亚出售T恤衫、背心等纺织品，3月份确认书
 的总金额未91.2141万美元，约定付款方式为D/A 90天。上述确认书签订后，甲公司按合约全面履行了供货义务，而印度尼西亚乙公司仅支付了20万美元的货款，
 其余货款未付。印度尼西亚乙公司称，甲公司提供的T恤衫存在多处质量问题：使用多年库存的布料；T恤衫重量轻于被申请人要求的规定；T恤衫的长度
@@ -936,7 +732,7 @@ can be dispatched promptly after you get my L/C.&lt;/p&gt;
 将他认为不符合买卖合同的事情通知卖方。如果提不出这种通知，卖方便丧失其拒绝接受货物的权力。” 在本案中，被申请人接受了货物，不仅未在检验
 后的3日内向卖方发出检验不合格的通知，而且始终未向卖方和仲裁法庭提交任何足以证明上述货物质量不符的检验证书，说明其声称的质量问题，没有
 经相关检验机构检验。因此，被申请人就丧失声称货物不符合同的权力。仲裁法庭对被申请人提出的退货、折价等主张均不予支持时正确的。&lt;/p&gt;
-</content><link href="/archives/2020-02-04-02/" rel="alternate"/><published>2020-02-04T00:00:00+08:06</published></entry><entry><id>/archives/2020-02-05-02/</id><title>商务英语之风险控制</title><updated>2020-02-05T16:03:55.636974+00:00</updated><author><name>MIKA</name><email>359911923@qq.com</email><uri>https://www.wangxfei.com</uri></author><content>&lt;p&gt;&lt;strong&gt; Do you wish to arrange for WPA and additional overage agaist Risk of Breakage?&lt;/strong&gt;&lt;/p&gt;
+</content><link href="/archives/2020-02-04-02/" rel="alternate"/><published>2020-02-04T00:00:00+08:06</published></entry><entry><id>/archives/2020-02-05-02/</id><title>商务英语之风险控制</title><updated>2020-02-06T03:48:46.317257+00:00</updated><author><name>MIKA</name><email>359911923@qq.com</email><uri>https://www.wangxfei.com</uri></author><content>&lt;p&gt;&lt;strong&gt; Do you wish to arrange for WPA and additional overage agaist Risk of Breakage?&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;你是项保水渍险和附加破损险吗？&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;p&gt;Yes. WPA coverage is too narrow for a shipment of this nature, please extend the coverage to include Risk of
@@ -1130,7 +926,7 @@ arbitrator's decision on the dispute is final and binding on the both parties.&l
 &lt;p&gt;clean bill of loaing 清洁提单&lt;/p&gt;
 &lt;p&gt;certificate of inspection 原产地证&lt;/p&gt;
 &lt;p&gt;letter of indemnity 赔偿书&lt;/p&gt;
-</content><link href="/archives/2020-02-05-02/" rel="alternate"/><published>2020-02-05T00:00:00+08:06</published></entry><entry><id>/archives/2020-02-05-01/</id><title>外贸案例-出口企业贸易合同履行瑕疵案引发的思考</title><updated>2020-02-05T16:03:55.636779+00:00</updated><author><name>MIKA</name><email>359911923@qq.com</email><uri>https://www.wangxfei.com</uri></author><content>&lt;h3&gt;案情&lt;/h3&gt;
+</content><link href="/archives/2020-02-05-02/" rel="alternate"/><published>2020-02-05T00:00:00+08:06</published></entry><entry><id>/archives/2020-02-05-01/</id><title>外贸案例-出口企业贸易合同履行瑕疵案引发的思考</title><updated>2020-02-06T03:48:46.317224+00:00</updated><author><name>MIKA</name><email>359911923@qq.com</email><uri>https://www.wangxfei.com</uri></author><content>&lt;h3&gt;案情&lt;/h3&gt;
 &lt;p&gt;某年11月至12月间，被保险人H向国外买方C出口价值27万美元的宽屏电视，C收获后以货物存在质量问题为由拒绝支付全部货款。次年4月，H按照保险合同
 要求向中国出口信用保险公司通报相关损失。&lt;/p&gt;
 &lt;p&gt;经了解，C为华人企业，经营电器进口及销售业务，拥有自主品牌，产品再当地中低档电器市场中具有一定影响力。C的采购基本来自中国，以OEM方式
@@ -1173,4 +969,208 @@ arbitrator's decision on the dispute is final and binding on the both parties.&l
 问题。争议的处理方式往往体现了出口企业对产品及服务的负责态度，以及企业对其信誉的重视程度。按期收回货款固然可以实现企业的眼前利益，
 但商誉和口碑才是企业的长远利益，是企业生存和发展的重要依托。出现争议时，出口企业只有积极应对，掌握主动权，才能妥善解决问题，达成双方
 满意的处理结果。&lt;/p&gt;
-</content><link href="/archives/2020-02-05-01/" rel="alternate"/><published>2020-02-05T00:00:00+08:06</published></entry></feed>
+</content><link href="/archives/2020-02-05-01/" rel="alternate"/><published>2020-02-05T00:00:00+08:06</published></entry><entry><id>/archives/2020-02-06-01/</id><title>商务英语之贸易伙伴</title><updated>2020-02-06T03:48:46.317055+00:00</updated><author><name>MIKA</name><email>359911923@qq.com</email><uri>https://www.wangxfei.com</uri></author><content>&lt;p&gt;&lt;strong&gt; Hello, Is there anything I can help you with?&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt; 有什么可以帮忙的地方么？&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Oh! Thanks for your asking! But just browsing!
+谢谢！我只是随便看看。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Hello! Thanks! I am looking for some new silk products.
+你好！谢谢！我正在找新的丝绸产品。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Oh! Thanks you! I need brochure of your company.
+谢谢！我需要看一看你们公司的简介。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;I am intrested in your products. It is said that your new-tech products sell good.
+我对你们的产品感兴趣，听说你们的的新科技产品销售很好。&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt; I'm not familiar with your corporation. Can you give me a brief introduction&lt;/strong&gt;
+&lt;strong&gt;of the company?/ I don't know much about your company. Could you tell me about it?&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt; 我对你们公司不是很了解，可以介绍以下你们的公司么？&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;OK! Our company was built in 2001. And we have around 400 employees now, two thirds of whom work in the workshops.
+There are two workshops, a sales department, an accounting department and a research center in our company.
+我们公司建立于2001年。现在大约400名员工，其中三分之二在车间工作。我们公司设有两个车间、一个销售部、一个会计科
+和一个研发中心。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;一、Greet the clients 与客户打招呼&lt;/h3&gt;
+&lt;p&gt;A: Hi! May I help you?&lt;/p&gt;
+&lt;p&gt;A: 你好! 能为你效劳么？&lt;/p&gt;
+&lt;p&gt;B: Thank you! I am interested in your product. But i am not familiar with your corporation.&lt;/p&gt;
+&lt;p&gt;B: 谢谢。我对你们公司的产很感兴趣，但是对你们公司不了解。&lt;/p&gt;
+&lt;p&gt;A: In fact, in the past, we only attended local exhibitions.&lt;/p&gt;
+&lt;p&gt;A: 实际上，以前我们只在国内参展。&lt;/p&gt;
+&lt;p&gt;B: No wonder.&lt;/p&gt;
+&lt;p&gt;B: 难怪。&lt;/p&gt;
+&lt;p&gt;A: Here is our brochure, it'll help you get acquainted with our products and company.&lt;/p&gt;
+&lt;p&gt;A: 这是沃恩公司的简介，它对你熟悉我们公司和我们的产品有帮助。&lt;/p&gt;
+&lt;p&gt;B: Thank you!&lt;/p&gt;
+&lt;p&gt;B: 谢谢！&lt;/p&gt;
+&lt;h4&gt;生词&lt;/h4&gt;
+&lt;p&gt;brochure 名词 小册子，简介&lt;/p&gt;
+&lt;p&gt;accquaint 动词 使熟悉&lt;/p&gt;
+&lt;h4&gt;固定用法&lt;/h4&gt;
+&lt;p&gt;no wonder：难怪，并不奇怪。 在口语中经常用到。&lt;/p&gt;
+&lt;p&gt;例如： No wonder she is not hungry; she has been eating and drinking all the day.（难怪她不饿，她一整天都在不停地吃喝。）&lt;/p&gt;
+&lt;h3&gt;二、Introduce the produc 介绍产品&lt;/h3&gt;
+&lt;p&gt;A: Is there anything that you are interested in?&lt;/p&gt;
+&lt;p&gt;A: 有感兴趣的产品么？&lt;/p&gt;
+&lt;p&gt;B: Yes. Is this your new product this year?&lt;/p&gt;
+&lt;p&gt;B: 是的。这是你们今年的新产品？&lt;/p&gt;
+&lt;p&gt;A: Yes. It's a prototype of our new product. It has got more advantages than the second did.&lt;/p&gt;
+&lt;p&gt;A: 是的。这是我们新产品的模型。这一款比第二代有更多的有点。&lt;/p&gt;
+&lt;p&gt;B: When is the product going to be on the market?&lt;/p&gt;
+&lt;p&gt;B: 什么时候上市？&lt;/p&gt;
+&lt;p&gt;A: It will be released next month.&lt;/p&gt;
+&lt;p&gt;A: 下个月。&lt;/p&gt;
+&lt;p&gt;B: So soon? It seems to be in the early stages.&lt;/p&gt;
+&lt;p&gt;B: 这么快啊？ 你们的产品好像还是初期。&lt;/p&gt;
+&lt;p&gt;A: We have developed new technolgy about it. And the new product will be a pleasure to be hold.&lt;/p&gt;
+&lt;p&gt;A: 我们已经研发除了新技术，新产品讲会使你感到满意。&lt;/p&gt;
+&lt;p&gt;B: Well. it's sounding good! I'm looking forward to that.&lt;/p&gt;
+&lt;p&gt;B: 听起来很不错。我很期待。&lt;/p&gt;
+&lt;h4&gt;生词&lt;/h4&gt;
+&lt;p&gt;prototype 名词 模型&lt;/p&gt;
+&lt;p&gt;stage 名词 时期，北京&lt;/p&gt;
+&lt;p&gt;release 名词 上市，面世&lt;/p&gt;
+&lt;h4&gt;固定用法&lt;/h4&gt;
+&lt;p&gt;look forwarder to：期待，常用于口语和书信中。
+例如：I am looking forwarder to your early reply as soon as possible.（期盼着你的来信。）&lt;/p&gt;
+&lt;h3&gt;三、 Contact the customer 联系客户&lt;/h3&gt;
+&lt;p&gt;A: Hello! Is Mr. Green there?&lt;/p&gt;
+&lt;p&gt;A: 你好！请问格林先生在么？&lt;/p&gt;
+&lt;p&gt;B: Speaking. May I ask whom i am talking to?&lt;/p&gt;
+&lt;p&gt;B: 我就是，请问哪位？&lt;/p&gt;
+&lt;p&gt;A: This is Li with Silk Company. We met last Sunday during the exhibition.&lt;/p&gt;
+&lt;p&gt;A: 我是丝绸公司的李。我们上个周日在展览会见过面。&lt;/p&gt;
+&lt;p&gt;B: Oh, yes. I remember your company.&lt;/p&gt;
+&lt;p&gt;B: 哦，是的。我记得你们公司。&lt;/p&gt;
+&lt;p&gt;A: Thank you for visiting our products. I remember that you are interested in our silk products, and so, could I
+have a meet with you this week to show you more information about our products?&lt;/p&gt;
+&lt;p&gt;A: 谢谢你参观我们的产品。我记得你对我们的丝绸产品很感兴趣。是否能在这个星期见见你，向你多提供一些资料呢？&lt;/p&gt;
+&lt;p&gt;B: I'd like to, but I'm afraid that our schedule is full this week.&lt;/p&gt;
+&lt;p&gt;B: 我很乐意，但是恐怕这个星期没时间。&lt;/p&gt;
+&lt;p&gt;A: What about net week? Is it conveient for you?&lt;/p&gt;
+&lt;p&gt;A: 下周呢？你是否方便？&lt;/p&gt;
+&lt;p&gt;B: Amm. How about 10 a.m. on next Friday?&lt;/p&gt;
+&lt;p&gt;B: 下个星期五上午十点怎么样？&lt;/p&gt;
+&lt;p&gt;A: Any time you say is OK.&lt;/p&gt;
+&lt;p&gt;A: 任何时间都可以。&lt;/p&gt;
+&lt;p&gt;B: All right, expecting you.&lt;/p&gt;
+&lt;p&gt;B: 好的，期待你的到来。&lt;/p&gt;
+&lt;h4&gt;生词&lt;/h4&gt;
+&lt;p&gt;schedule 名词 日程表，学期&lt;/p&gt;
+&lt;p&gt;convenient 形容词 有空的，方便的&lt;/p&gt;
+&lt;h4&gt;固定用法&lt;/h4&gt;
+&lt;p&gt;expecting you：期待你的到来。是一种礼貌用户，一般用于结束某次谈话。&lt;/p&gt;
+&lt;p&gt;例如：I'll be expecting you.（我期待你的到来。）也可以用 I hope to see you next Friday.（期待下周五与你见面。）&lt;/p&gt;
+&lt;h3&gt;四、Ask the client to place the order 请客户下单&lt;/h3&gt;
+&lt;p&gt;A: After probation, you'll find that our silk products feels more comfortable than others'.&lt;/p&gt;
+&lt;p&gt;A: 试用后，你就会发现我们的丝绸产品比其他商家都要舒服得多。&lt;/p&gt;
+&lt;p&gt;B: How about this product selling from last month on?&lt;/p&gt;
+&lt;p&gt;B: 从上个月起，你们的丝绸产品销量怎么样？&lt;/p&gt;
+&lt;p&gt;A: It's selling like hot cakes, and we have lots of regulars now. Would you like to place a trial order?&lt;/p&gt;
+&lt;p&gt;A: 销量很火热，我们还有一些回头客。你是否愿意下试销订单？&lt;/p&gt;
+&lt;p&gt;B: Amm. Well, can I have a try of the sample free of charge?&lt;/p&gt;
+&lt;p&gt;B: 我能免费使用你们的样品吗？&lt;/p&gt;
+&lt;p&gt;A: Yes, we have the free samples for customers. And you can have a try.&lt;/p&gt;
+&lt;p&gt;A: 可以，我们给客户提供免费样品，你可以试一试。&lt;/p&gt;
+&lt;p&gt;B: Thank you. We'll order once we try the sample.&lt;/p&gt;
+&lt;p&gt;B: 谢谢，试用后我们会订购。&lt;/p&gt;
+&lt;p&gt;A: Please wait a moment and fill out the order form. And we'll send you our sample.&lt;/p&gt;
+&lt;p&gt;A: 请稍等，请你调一下订单，我们将把样品给你寄过去。&lt;/p&gt;
+&lt;p&gt;B: OK!&lt;/p&gt;
+&lt;p&gt;B: 好的。&lt;/p&gt;
+&lt;h4&gt;生词&lt;/h4&gt;
+&lt;p&gt;probation 名词 试用，尝试&lt;/p&gt;
+&lt;p&gt;trial 形容词 试用的&lt;/p&gt;
+&lt;p&gt;charge 名词 费用，要价&lt;/p&gt;
+&lt;p&gt;place 动词 发出（订单），投资&lt;/p&gt;
+&lt;h4&gt;固定用法&lt;/h4&gt;
+&lt;p&gt;hot cake：畅销&lt;/p&gt;
+&lt;p&gt;例如：The book of 'Who moves my cheesse?' sold like hot cake.（《谁动了我的奶酪》这本书卖的很火。）&lt;/p&gt;
+&lt;h3&gt;五、 Change appointment 变更约会时间&lt;/h3&gt;
+&lt;p&gt;A: This is Manager Liang's office, what can I do for you?&lt;/p&gt;
+&lt;p&gt;A: 梁经理办公室，你好！有什么可以帮助你么？&lt;/p&gt;
+&lt;p&gt;B: This is Wang Xxiao from AB company spacking. Our CEO Mr. Green has an appointment with Mr.Liang tomorrow morning.
+But there is a minor change in tomorrow's schedule. Mr. Green has an abrupt urgent case tomorrow and he has to go
+abroad today. He wanted me to convey his apoligy to Mr. Wang.&lt;/p&gt;
+&lt;p&gt;B: 我是AB公司的王潇，我们公司总裁林先生与梁先生在明天商务有个会议。但是安排有变动。格林先生有紧急事情，今天已经出国。
+他让我向王先生转告他的歉意。&lt;/p&gt;
+&lt;p&gt;A: Ok! I'll tell him.&lt;/p&gt;
+&lt;p&gt;A: 好的，我会告诉他。&lt;/p&gt;
+&lt;p&gt;B: And Mr. Geen will make another appointment when Mr. Wang comes bacnk.&lt;/p&gt;
+&lt;p&gt;B: 格林先生回国后再和王经理安排另一个见面。&lt;/p&gt;
+&lt;p&gt;A: Ok! Thanks for calling. Bye!&lt;/p&gt;
+&lt;p&gt;A: 好的。谢谢你的电话。再见。&lt;/p&gt;
+&lt;p&gt;B: Bye!&lt;/p&gt;
+&lt;p&gt;B: 再见。&lt;/p&gt;
+&lt;h4&gt;生词&lt;/h4&gt;
+&lt;p&gt;minor 形容词 微小的，少量的&lt;/p&gt;
+&lt;p&gt;abrupt 形容词 突然的，突发的&lt;/p&gt;
+&lt;p&gt;urgent 形容词 紧急的&lt;/p&gt;
+&lt;p&gt;convey 动词 传达&lt;/p&gt;
+&lt;p&gt;apology 名词 歉意，致歉&lt;/p&gt;
+&lt;p&gt;appointment 名词 约会，会务安排&lt;/p&gt;
+&lt;h4&gt;固定用法&lt;/h4&gt;
+&lt;p&gt;convey sth. to sb.：向某人传达某事。&lt;/p&gt;
+&lt;p&gt;例如： convey one's apology to sb. 就是向某人传达歉意。&lt;/p&gt;
+&lt;h3&gt;六、Abrupt appointment 未约定的拜访&lt;/h3&gt;
+&lt;p&gt;A: Good morning! May i help you?&lt;/p&gt;
+&lt;p&gt;A: 早上好！有什么为你效劳么？&lt;/p&gt;
+&lt;p&gt;B: Good morning! Is Mr. Smith in? I'm Cheng Jun from China National Petroleum Corporation. I'd like to see him.&lt;/p&gt;
+&lt;p&gt;B: 早上好！请问史密斯先生在吗？我是中石油的程军，我想见他。&lt;/p&gt;
+&lt;p&gt;A: Do you have an appointment with Mr. Smith?&lt;/p&gt;
+&lt;p&gt;A: 你和史密斯先生有预约吗？&lt;/p&gt;
+&lt;p&gt;B: Amm. No. I have an urgency to talk with him.&lt;/p&gt;
+&lt;p&gt;B: 没有，我有紧急的事情要和他谈谈。&lt;/p&gt;
+&lt;p&gt;A: Wait a moment, please. I'll tell him secretary that you are here.&lt;/p&gt;
+&lt;p&gt;A: 请顶一下。我告诉他的秘书来了。&lt;/p&gt;
+&lt;p&gt;B: Thank you.&lt;/p&gt;
+&lt;p&gt;B: 谢谢。&lt;/p&gt;
+&lt;p&gt;A: I'm sorry. He is holding a meeting till ten o'clock.&lt;/p&gt;
+&lt;p&gt;A: 抱歉，史密斯先生正在开会，需要到10点会议才结束。&lt;/p&gt;
+&lt;p&gt;B: It's nine o'clock now. And I wait for him.&lt;/p&gt;
+&lt;p&gt;B: 现在是九点，我等他好了。&lt;/p&gt;
+&lt;h4&gt;生词&lt;/h4&gt;
+&lt;p&gt;secretary 名词 秘书&lt;/p&gt;
+&lt;p&gt;have an appointment 和某人有预约&lt;/p&gt;
+&lt;h4&gt;固定用法&lt;/h4&gt;
+&lt;p&gt;appointment 与 date 的意思都是约会，但是的含义不同。&lt;/p&gt;
+&lt;p&gt;appointment 常用于商务会谈中，是比较正式的预约；而date仅指一般性约会。&lt;/p&gt;
+&lt;p&gt;比如：He has an appointment with the doctor this afternoon.（他今天下午和医生有预约。）&lt;/p&gt;
+&lt;p&gt;He dated his girlfriend on Sunday.（他和他的女朋友在周日有约会。）&lt;/p&gt;
+&lt;h3&gt;七、鲜活词汇&lt;/h3&gt;
+&lt;p&gt;apologize 动词 致歉&lt;/p&gt;
+&lt;p&gt;convey 动词 传达&lt;/p&gt;
+&lt;p&gt;browsing 名词 翻阅&lt;/p&gt;
+&lt;p&gt;improved 形容词 改良的&lt;/p&gt;
+&lt;p&gt;schedule 名词 日程表&lt;/p&gt;
+&lt;p&gt;order 动词 预定&lt;/p&gt;
+&lt;p&gt;switch 动词 转向&lt;/p&gt;
+&lt;p&gt;made-up goods 制成品&lt;/p&gt;
+&lt;p&gt;book for 预定&lt;/p&gt;
+&lt;p&gt;sample 名词 样品&lt;/p&gt;
+&lt;p&gt;invoice 名词 发货单，发票&lt;/p&gt;
+&lt;p&gt;discount 名词 折扣&lt;/p&gt;
+&lt;p&gt;exhibition 名词 展览会&lt;/p&gt;
+&lt;p&gt;booth 名词 摊位&lt;/p&gt;
+&lt;p&gt;place 动词 发出（订单），投资&lt;/p&gt;
+&lt;p&gt;appointment 名词 约会，约定&lt;/p&gt;
+&lt;p&gt;charge 名词 费用，要价&lt;/p&gt;
+&lt;p&gt;probation 名词 使用，尝试&lt;/p&gt;
+&lt;p&gt;trial 形容词 试用的&lt;/p&gt;
+&lt;p&gt;brochure 名词 小册子，简介&lt;/p&gt;
+&lt;p&gt;abrupt 形容词 突发的，突然的&lt;/p&gt;
+&lt;p&gt;international exhibition 国际商展&lt;/p&gt;
+&lt;p&gt;be familiar with 熟悉&lt;/p&gt;
+&lt;p&gt;attend in 参加&lt;/p&gt;
+&lt;p&gt;take part in 参加&lt;/p&gt;
+&lt;p&gt;take care 小心&lt;/p&gt;
+&lt;p&gt;get acquainted with 了解，熟悉&lt;/p&gt;
+&lt;p&gt;call 动词 打电话&lt;/p&gt;
+&lt;p&gt;introduce 动词 引进，介绍&lt;/p&gt;
+&lt;p&gt;have an opening 有空&lt;/p&gt;
+&lt;p&gt;make an appointment 约会，商务会晤&lt;/p&gt;
+</content><link href="/archives/2020-02-06-01/" rel="alternate"/><published>2020-02-06T00:00:00+08:06</published></entry></feed>
