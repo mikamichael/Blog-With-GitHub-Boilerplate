@@ -1,46 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>外贸启航站</title><link>/</link><description>外贸路上，愿我们都不再孤单。</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://cdn.jsdelivr.net/gh/mikamichael/Blog-With-GitHub-Boilerplate@gh-pages/logo.png</url><title>外贸启航站</title><link>/</link></image><language>zh-CN</language><lastBuildDate>Thu, 06 Feb 2020 05:08:56 +0806</lastBuildDate><pubDate>Thu, 06 Feb 2020 05:08:56 +0806</pubDate><item><title>外贸案例-货物的复验权和最终检验权</title><link>/archives/2020-02-02-01/</link><description>&lt;h3&gt;案情&lt;/h3&gt;
-&lt;p&gt;中国甲公司和印度乙公司于某年1月24日签订了购买纺织品布防5,000米买卖合同，该布料是受某服装加工厂委托进口的，用于加工服装出口欧盟，
-因此合同规定按OKO-TEX100标准，其中甲醛最高含量不超过100PPM，单价为每米3美元，以即期信用证的方式结汇，贸易术语采用CIF。合同
-规定的检验条款为：货物在目的港卸后30天内经中国商检机关的复检，如发现品质或规格与本合同规定不符的，除术语保险公司或船公司
-负责外，卖方可以拒绝收获或凭商检机关的检验证书向卖方索赔。在此情况下，如卖方要求，买方可将样品寄送卖方再交第三方检验。&lt;/p&gt;
-&lt;p&gt;某年3月9日，乙公司向印度商检机构申请检验，商检机构出具了检验分析证书，表明甲醛含量为95PPM。之后，货物装箱后运至中国上海。
-3月29日，货物卸毕。同时，乙公司通过银行议付全部货款。&lt;/p&gt;
-&lt;p&gt;甲公司与某市服装加工厂签订合同的货物品质与外贸合同相同。4月12日，某市服装加工厂在收到货物后，向某市商检局提出货物检验的
-申请。4月20日，商检局出具了货物品质检验证书，表明货物的甲醛含量为105PPM，与合同规定的不符。服装叫工厂速报甲公司并要求甲公司赔偿
-损失。家公司在收到报告后与4月25日通知乙公司，并基础商检证书，正式提出索赔，要求全部退货并赔偿损失。5月5日，乙公司回函要求抽样再次
-检验货物。5月21日乙公司亲自抽取货物样品，6月5日送到瑞士纺织品检定有限公司进行检验。该代表处7月3i出具证书，表明货物甲醛
-含量为102PPM，略高于合同规定。&lt;/p&gt;
-&lt;p&gt;之后，双方为两份质检证书的法律效力产生纠纷，协商未果，甲公司提起仲裁。&lt;/p&gt;
-&lt;h3&gt;结果&lt;/h3&gt;
-&lt;p&gt;甲公司认为本案合同系品质保证，术语到岸30天内品质交货，中国商检机构的复检证书居于偶效力系双方事先约定。检验程序合法，结果
-具有法律效力。乙公司辩称，货物在发运地装货时，质量符合合同规定，乙公司履行了交付符合合同规定的货物的义务。&lt;/p&gt;
-&lt;p&gt;仲裁法庭认为，由于使用不同检验标准和检验手段，尽管后两次检验的记过之间存在差距，但均表明货物甲醛含量的指标超过了合同规定
-的标准，据此认定货物的品质不完全符合合同的固定，卖方乙公司没有完全履行合同义务，经仲裁法庭调解，各方统一货物降价10%处理，
-服装加工厂将用该布料生词的服装转销其他国家。&lt;/p&gt;
-&lt;h3&gt;评析&lt;/h3&gt;
-&lt;p&gt;本案涉及检验权和检验证书的法律效力。在国际货物买卖中，货物交付后的检验权直接关系到买卖双方在货物交接过程中的权力和义务。
-因此，为了明确责任，买卖双方通常在买卖合同种就买方是否行使和如何行驶检验标准、检验地点、检验机构和最终检验权的归属直接于
-保护各方当事人的权力相关。&lt;/p&gt;
-&lt;p&gt;本案种的货物经过三次减员。第一次检验在装运港由印度检验部门使用印度标准具体检验并提供法律文件。由于合同规定复检权为买方，
-卖方不能为自己的行为提供证明，因此，在双方发生品质纠纷时，该份检验证书在法律上不具有足够的效力。&lt;/p&gt;
-&lt;p&gt;第二次检验系买方根据合同在用货地进行，使用中国标准，证明货物的健全含量不符合合同的要求。由于该次检验系依据合同进行，并
-由中国法定检验机构进行，因此其出具的检验证书具有法律效力。&lt;/p&gt;
-&lt;p&gt;第三次检验系卖方抽取样品后经第三方再检验。根据合同规定，“如卖方要求，买方可将样品寄送卖方再交第三方检验”，实际上最终检验权归卖方。
-因此，买方的检验不能认为时确定货物品质的最终检验。在买方检验机构发现品质问题的情况下，卖方有权几招合同对货物品质重新进行
-检验确认。卖方委托第三方再检验，由于该次检验也系合同允许，因此，上述两次检验结果均能表明货物品质。据此，仲裁法庭认定货物
-的品质不完全符合合同的规定，卖方乙公司买油完全履行合同义务，并采取调解手段，货物按降价处理；而不是认定品质根本不符合合同的
-规定，完全没有履行合同义务，裁决全部退货并赔偿损失。这样做是合理的。&lt;/p&gt;
-&lt;p&gt;在本案中，合同规定检验、复检和再验，明确了最终检验权的归属，检验条款是比较完整的。在实际履行中，除了条款规定外，要使
-检验及索赔有效，当事人还需特别注意如下几个方面的问题：&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;检验必须由双方在合同中规定的商检机构进行，商检证书由该机构出具。&lt;/li&gt;
-&lt;li&gt;买方必须凭约定的商检机构出具的有效商检证书向卖方提出索赔。若货到目的港后，卖方发现货物的质量、数量、公量或包装于合同
-规定不符，即使双方在合同规定的期限内向卖方提出索赔要求，但如果没有出具约定的有效商检证书，则从法律上将这种索赔时无效的。&lt;/li&gt;
-&lt;li&gt;买方必须凭约定的有效商检证书在儿胡同规定的索赔期限内向卖方提出索赔，从法律上来讲任何超过期限的索赔都不是有效索赔。本案中，
-甲方时在合同规定索赔期限内提出索赔的，虽然第三次检验超过了30天。&lt;/li&gt;
-&lt;/ul&gt;
-</description><author>359911923@qq.com (MIKA)</author><guid isPermaLink="true">/archives/2020-02-02-01/</guid><pubDate>Sun, 02 Feb 2020 00:00:00 +0806</pubDate></item><item><title>商务英语之价格谈判</title><link>/archives/2020-02-03-02/</link><description>&lt;p&gt;&lt;strong&gt;What do you think about the price?&lt;/strong&gt;&lt;/p&gt;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>外贸启航站</title><link>/</link><description>外贸路上，愿我们都不再孤单。</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://cdn.jsdelivr.net/gh/mikamichael/Blog-With-GitHub-Boilerplate@gh-pages/logo.png</url><title>外贸启航站</title><link>/</link></image><language>zh-CN</language><lastBuildDate>Thu, 06 Feb 2020 05:33:11 +0806</lastBuildDate><pubDate>Thu, 06 Feb 2020 05:33:11 +0806</pubDate><item><title>商务英语之价格谈判</title><link>/archives/2020-02-03-02/</link><description>&lt;p&gt;&lt;strong&gt;What do you think about the price?&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;这个价格你觉得怎么样？&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;p&gt;It seems acceptable.
@@ -1000,7 +959,7 @@ abroad today. He wanted me to convey his apoligy to Mr. Wang.&lt;/p&gt;
 &lt;p&gt;introduce 动词 引进，介绍&lt;/p&gt;
 &lt;p&gt;have an opening 有空&lt;/p&gt;
 &lt;p&gt;make an appointment 约会，商务会晤&lt;/p&gt;
-</description><author>359911923@qq.com (MIKA)</author><guid isPermaLink="true">/archives/2020-02-06-01/</guid><pubDate>Thu, 06 Feb 2020 00:00:00 +0806</pubDate></item><item><title>外贸案例-品质条款变更后价格条款未修改造成损失</title><link>/archives/2020-02-06-02/</link><description>&lt;h3&gt;案情&lt;/h3&gt;
+</description><author>359911923@qq.com (MIKA)</author><guid isPermaLink="true">/archives/2020-02-06-01/</guid><pubDate>Thu, 06 Feb 2020 00:00:00 +0806</pubDate></item><item><title>测试</title><link>/archives/2020-02-06-10/</link><description>&lt;div class="dplayer"  data-url="https://github.com/astonish0129/xue/blob/master/remember/video/1.mp4"&gt;&lt;/div&gt;</description><author>359911923@qq.com (MIKA)</author><guid isPermaLink="true">/archives/2020-02-06-10/</guid><pubDate>Thu, 06 Feb 2020 00:00:00 +0806</pubDate></item><item><title>外贸案例-品质条款变更后价格条款未修改造成损失</title><link>/archives/2020-02-06-02/</link><description>&lt;h3&gt;案情&lt;/h3&gt;
 &lt;p&gt;某年6月20日，香港甲公司和国内乙公司再广州签订合同，乙公司向甲公司购买日本生产的家电零配件和维修设备，并就价格问题
 达成了一致意见。合同的总金额为10万美元，最迟不应晚于7月10日装船发运。合同签订后，甲公司与6月15日电话通知乙公司，由于
 香港市场的日本产家电零配件短缺，且价格上涨，询问可否接受其他国家或地区的产品。乙公司于6月20日回函称，同意再保证
