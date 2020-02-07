@@ -1,77 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-CN"><id>/</id><title>外贸启航站</title><updated>2020-02-07T04:13:51.576245+08:06</updated><author><name>MIKA</name><email>359911923@qq.com</email></author><link href="/" rel="alternate"/><generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator><logo>https://cdn.jsdelivr.net/gh/mikamichael/Blog-With-GitHub-Boilerplate@gh-pages/logo.png</logo><subtitle>外贸路上，愿我们都不再孤单。</subtitle><entry><id>/archives/2020-02-04-01/</id><title>市场调查之越南（三）</title><updated>2020-02-07T04:13:51.576617+00:00</updated><author><name>MIKA</name><email>359911923@qq.com</email><uri>https://www.wangxfei.com</uri></author><content>&lt;h3&gt;中国是越南最大的贸易伙伴&lt;/h3&gt;
-&lt;p&gt;自1991年起，中越关系明显缓和，中越之间的贸易显著增加，双方在对彼此的经济发展中突飞猛进。这对中国和越南的经济贸易关系稳步发展
-有着至关重要的作用。&lt;/p&gt;
-&lt;p&gt;中国和越南有着很长一段的共同边界线，可以说经贸合作也是历史的需要。双方都本着“尊重主权与自国的领土完整，互不侵犯，互不干涉内政，横向
-写作与和平”的规则。&lt;/p&gt;
-&lt;p&gt;据越南海关总局数据显示，2018年中国与越南双边贸易额达1060亿美元，同比增长14%。中国也成为与越南双边贸易额达1000亿美元的首个贸易合作
-伙伴。&lt;/p&gt;
-&lt;p&gt;其中，越南对中国的商品出口额达412.68亿美元，同比增长58.64亿美元，增幅为16.6%。越南从中国进口额约达654.38亿美元，同比增长68.46亿美元，
-增幅为11.7%。&lt;/p&gt;
-&lt;p&gt;2019年中国仍然是越南最大的贸易伙伴。数据显示，2019年中越进出口总额达1168.7亿美元，两国间贸易额连续第二年突破1000亿美元。&lt;/p&gt;
-&lt;p&gt;其中，越南对中国出口额为414.1亿美元，同比仅增长1.5亿美元，增幅为0.36%，自中国进口额为754.52亿美元，同比增长100亿美元，增幅为15.3%。相比
-起2018年前11个月超22%的增速，越南商品的对华出口增长正在急速放缓。&lt;/p&gt;
-&lt;h3&gt;越南自中国进口产品以半成品和生产原料为主&lt;/h3&gt;
-&lt;p&gt;&lt;figure&gt;&lt;img data-width="766" data-height="400" src="https://cdn.jsdelivr.net/gh/mikamichael/Blog-With-GitHub-Boilerplate@gh-pages/archives/assets/8210f61dc5715d45dc38ce31c0830dab.png" alt="越南进口类别" /&gt;&lt;figcaption&gt;越南进口类别&lt;/figcaption&gt;&lt;/figure&gt;&lt;/p&gt;
-&lt;p&gt;2018年越南对中国进口额超10亿美元的商品有14个，同比增长4个。&lt;/p&gt;
-&lt;p&gt;其中，汽油进口额超10亿美元（2017年为5.18亿美元）；原料塑料11.1亿美元（2017年为9.18亿美元）；纤维、纱线为12.34亿美元（
-2017年为8.78亿美元）；普通金属为13.31亿美元（2017年为9.85亿美元）&lt;/p&gt;
-&lt;p&gt;2019年，越南自华出口额为754.52亿美元，同比增长15.3%，约为100亿美元。部分数据如下：&lt;/p&gt;
-&lt;p&gt;中国是越南的第二大计算机、电子产品和组件进口市场，前11个月云娜自中国进口为110.9亿美元，同比增长49.25%。&lt;/p&gt;
-&lt;p&gt;中国是越南最大的机械设备、零件的进口来源国，前11个月越南自中国进口为133.6亿美元，同比增长26.4%。&lt;/p&gt;
-&lt;p&gt;中国是越南最大的塑料产品进口来源国，前11个月越南来自中国进口为35.8亿美元，同比增长22.7%。&lt;/p&gt;
-&lt;p&gt;中国是越南最大的钢铁产品进口来源国，前11个月越南自中国进口为489万吨，同比下降15%。&lt;/p&gt;
-&lt;p&gt;中国是越南最大的化工产品进口来源国，前11一个月越南自中国进口为29.2亿美元，同比增长7.7%。&lt;/p&gt;
-&lt;p&gt;中国是越南最大的纺织品、服装、皮革和鞋类材料进口来源国，前11个月越南自中国进口为105亿美元，同比增长8.8%。&lt;/p&gt;
-&lt;h3&gt;越南对中国出口产品以农产品为主&lt;/h3&gt;
-&lt;p&gt;&lt;figure&gt;&lt;img data-width="766" data-height="400" src="https://cdn.jsdelivr.net/gh/mikamichael/Blog-With-GitHub-Boilerplate@gh-pages/archives/assets/f50d697fb2116abbbc674ca567309207.png" alt="越南出口类别" /&gt;&lt;figcaption&gt;越南出口类别&lt;/figcaption&gt;&lt;/figure&gt;&lt;/p&gt;
-&lt;p&gt;2018年越南对中国出口商品额分别为：手机零件为93.75亿美元，同比增长22.23亿美元，增幅为31.1%；电脑、电子产品及零件约83.64亿
-美元，增长15.04亿美元，增幅为21.9%；照相机、摄像机及零件约28.01亿美元；蔬果约27.84亿美元；纤维、纱线为22.16亿美元；
-纺织品约15.41亿美元；鞋类约为14.92亿美元；木材及木制品约为10.72亿美元。&lt;/p&gt;
-&lt;p&gt;越南对中国出口产品机构朝着积极方向转移，工业产品、农业水产品比重增加，原料、燃料和矿产出口比重下降。&lt;/p&gt;
-&lt;p&gt;2019年越南对中国出口额为414.1亿美元，同比增长0.36%，约为1.5亿美元。&lt;/p&gt;
-&lt;p&gt;中国作为越南农产品的最大出口市场，前11个月中国自越南进口额为53.3亿美元，同比下降9.4%。由于中国提高了进口标准，2019年越南
-对华出口的果蔬产品总额同比下降了13.2%。此外，越南大米、白虾等多种产品的对华出口也出现了下跌。&lt;/p&gt;
-&lt;h3&gt;越南对中国是逆差，但中国依旧占据主动权&lt;/h3&gt;
-&lt;p&gt;中国与越南的贸易情况，不能按传统的贸易顺差、逆差来进行分析。&lt;/p&gt;
-&lt;p&gt;由于中国对越南出口的产品，大部分是半成品，这些产品在越南加工后出口到美欧等国家，越南可以从中得到顺差。但是，越南向中国
-出口的产品，确实农产品等。中国在这方面的选择比较多，既可以选择越南的，也可以选择其他国家的。&lt;/p&gt;
-&lt;p&gt;因此，中国对越南是顺差，越南对中国是逆差，但在经贸关系中，中国既然占据着主动权。&lt;/p&gt;
-&lt;p&gt;2019年越南向中国出口额为414.1亿美元，同比增长0.36%；从中国进口额为754.52亿美元，同比增长15.3%。&lt;/p&gt;
-&lt;p&gt;仅仅从数据商来看，越南对中国的贸易逆差已超过300亿美元。&lt;/p&gt;
-&lt;p&gt;然而这其实并不是关键，中国和越南之间贸易产品的差距，决定了这二者有着更深入的关联。&lt;/p&gt;
-&lt;p&gt;中国对越南出口的产品，有一个明显的特点比如机械设备、零件、金属、塑料这些产品，都是半成品，甚至可以说是生产原料。&lt;/p&gt;
-&lt;p&gt;越南拿到这些产品后，经过国内的生产，然后向欧美、全世界进行输出。在折衷情况下，中国对越南的出口，非但不能争抢越南国内的市场，反而会增加
-越南的生产能力。&lt;/p&gt;
-&lt;p&gt;从越南的角度来说，显然不能限制从中国的进口，因为这是越南出口的根源。只有从中国进口了零件、生产原料，越南菜有向
-美欧出口的根本。&lt;/p&gt;
-&lt;p&gt;从中国的角度来说，限制从越南进口却对中国经济不会造成什么重大损失，越南到中国出口的产品，是一些农产品，这些农产品中国向其他
-地区或国家购买也是可以的。&lt;/p&gt;
-&lt;h3&gt;越南经济发展与中国对比&lt;/h3&gt;
-&lt;h4&gt;相似点&lt;/h4&gt;
-&lt;p&gt;第一、越南政治体制和文化传统与中国相似，使得越南非常容易理解并模仿中国的各类经济政策。&lt;/p&gt;
-&lt;p&gt;第二、越南劳动力较为丰富。截至2018年底，越南人口已接近1亿人。&lt;/p&gt;
-&lt;p&gt;第三、越南国土狭长，海岸线长，便于参与国际贸易。&lt;/p&gt;
-&lt;p&gt;第四、越南国有企业较多，可以效仿中国在基础设施投资和建设领域发挥重要作用。&lt;/p&gt;
-&lt;h4&gt;优势&lt;/h4&gt;
-&lt;p&gt;与中国相比，越南目前有两点优势。&lt;/p&gt;
-&lt;p&gt;首先，越南劳动力成本更低。越南最低平均工资一类地区；约合人民币1230元/月。二类地区：约合人民币1092元/月。三类地区：
-约合人民币965元/月。四类地区：约合人民币859元/月。&lt;/p&gt;
-&lt;h4&gt;劣势&lt;/h4&gt;
-&lt;p&gt;与中国相比，越南的劣势。&lt;/p&gt;
-&lt;p&gt;第一、虽然劳动力丰富，但是技术人员短缺，较多都是廉价劳动力，优质劳动力不足。&lt;/p&gt;
-&lt;p&gt;第二、越南资源匮乏，整个国家以农业生产为主，工业基础薄弱。&lt;/p&gt;
-&lt;p&gt;第三、基础设施建设落后，供应链不完整。公路建设不佳，铁路、港口等设施不够发达，运输和物流方面都不够完善，产业配套也不
-完备。尚未达到许多国际公司的标准。&lt;/p&gt;
-&lt;p&gt;第四、品质保证不高。越南制造的产品虽然价格低廉，但是质量却有待考虑，还未做到真正的物美价廉。&lt;/p&gt;
-&lt;h3&gt;未来趋势&lt;/h3&gt;
-&lt;p&gt;当然中越贸易和投资势头良好，经贸合作迈上新台阶。中国和越南都支持自由贸易，通过双方共同努力，中越贸易规模快速扩大，
-中国成为越南最重要的进出口市场之一。&lt;/p&gt;
-&lt;p&gt;一、完善双边经济发展的优惠政策。&lt;/p&gt;
-&lt;p&gt;二、做好协调与沟通，缩小非经济因素带来的影响。&lt;/p&gt;
-&lt;p&gt;三、严厉打击走私与贸易偷运等问题。&lt;/p&gt;
-&lt;p&gt;&lt;font color=#DCDCDC size=1&gt;（PS:  本文部分数据参考商务部、tradingeconomics等，由外跨研究中心综合整理，转载请务必标明出处。）&lt;/font&gt;&lt;/p&gt;
-</content><link href="/archives/2020-02-04-01/" rel="alternate"/><published>2020-02-04T00:00:00+08:06</published></entry><entry><id>/archives/2020-02-04-03/</id><title>商务英语之订货交货</title><updated>2020-02-07T04:13:51.576589+00:00</updated><author><name>MIKA</name><email>359911923@qq.com</email><uri>https://www.wangxfei.com</uri></author><content>&lt;p&gt;&lt;strong&gt; Can you accept this order?&lt;/strong&gt;&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-CN"><id>/</id><title>外贸启航站</title><updated>2020-02-07T08:14:42.117853+08:06</updated><author><name>MIKA</name><email>359911923@qq.com</email></author><link href="/" rel="alternate"/><generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator><logo>https://cdn.jsdelivr.net/gh/mikamichael/Blog-With-GitHub-Boilerplate@gh-pages/logo.png</logo><subtitle>外贸路上，愿我们都不再孤单。</subtitle><entry><id>/archives/2020-02-04-03/</id><title>商务英语之订货交货</title><updated>2020-02-07T08:14:42.118330+00:00</updated><author><name>MIKA</name><email>359911923@qq.com</email><uri>https://www.wangxfei.com</uri></author><content>&lt;p&gt;&lt;strong&gt; Can you accept this order?&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt; 你接受这份订单吗？&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;p&gt;Please cancel this order. 
@@ -261,7 +189,7 @@ can be dispatched promptly after you get my L/C.&lt;/p&gt;
 &lt;p&gt;draw on sb 向······开会汇票&lt;/p&gt;
 &lt;p&gt;deliver the goods in three lots 货物分三批装运&lt;/p&gt;
 &lt;p&gt;shipment within one month 一个月内装船&lt;/p&gt;
-</content><link href="/archives/2020-02-04-03/" rel="alternate"/><published>2020-02-04T00:00:00+08:06</published></entry><entry><id>/archives/2020-02-04-02/</id><title>外贸案例-合同未按规定检验条款，货物品质争议如何解决</title><updated>2020-02-07T04:13:51.576562+00:00</updated><author><name>MIKA</name><email>359911923@qq.com</email><uri>https://www.wangxfei.com</uri></author><content>&lt;h3&gt;案情&lt;/h3&gt;
+</content><link href="/archives/2020-02-04-03/" rel="alternate"/><published>2020-02-04T00:00:00+08:06</published></entry><entry><id>/archives/2020-02-04-02/</id><title>外贸案例-合同未按规定检验条款，货物品质争议如何解决</title><updated>2020-02-07T08:14:42.118287+00:00</updated><author><name>MIKA</name><email>359911923@qq.com</email><uri>https://www.wangxfei.com</uri></author><content>&lt;h3&gt;案情&lt;/h3&gt;
 &lt;p&gt;我国甲公司与印度尼西亚乙公司，分别于某年4月26日、9月2日和9月20日定理3份售货确认书，由甲公司向印度尼西亚出售T恤衫、背心等纺织品，3月份确认书
 的总金额未91.2141万美元，约定付款方式为D/A 90天。上述确认书签订后，甲公司按合约全面履行了供货义务，而印度尼西亚乙公司仅支付了20万美元的货款，
 其余货款未付。印度尼西亚乙公司称，甲公司提供的T恤衫存在多处质量问题：使用多年库存的布料；T恤衫重量轻于被申请人要求的规定；T恤衫的长度
@@ -283,7 +211,7 @@ can be dispatched promptly after you get my L/C.&lt;/p&gt;
 将他认为不符合买卖合同的事情通知卖方。如果提不出这种通知，卖方便丧失其拒绝接受货物的权力。” 在本案中，被申请人接受了货物，不仅未在检验
 后的3日内向卖方发出检验不合格的通知，而且始终未向卖方和仲裁法庭提交任何足以证明上述货物质量不符的检验证书，说明其声称的质量问题，没有
 经相关检验机构检验。因此，被申请人就丧失声称货物不符合同的权力。仲裁法庭对被申请人提出的退货、折价等主张均不予支持时正确的。&lt;/p&gt;
-</content><link href="/archives/2020-02-04-02/" rel="alternate"/><published>2020-02-04T00:00:00+08:06</published></entry><entry><id>/archives/2020-02-05-02/</id><title>商务英语之风险控制</title><updated>2020-02-07T04:13:51.576535+00:00</updated><author><name>MIKA</name><email>359911923@qq.com</email><uri>https://www.wangxfei.com</uri></author><content>&lt;p&gt;&lt;strong&gt; Do you wish to arrange for WPA and additional overage agaist Risk of Breakage?&lt;/strong&gt;&lt;/p&gt;
+</content><link href="/archives/2020-02-04-02/" rel="alternate"/><published>2020-02-04T00:00:00+08:06</published></entry><entry><id>/archives/2020-02-05-02/</id><title>商务英语之风险控制</title><updated>2020-02-07T08:14:42.118256+00:00</updated><author><name>MIKA</name><email>359911923@qq.com</email><uri>https://www.wangxfei.com</uri></author><content>&lt;p&gt;&lt;strong&gt; Do you wish to arrange for WPA and additional overage agaist Risk of Breakage?&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;你是项保水渍险和附加破损险吗？&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;p&gt;Yes. WPA coverage is too narrow for a shipment of this nature, please extend the coverage to include Risk of
@@ -477,7 +405,7 @@ arbitrator's decision on the dispute is final and binding on the both parties.&l
 &lt;p&gt;clean bill of loaing 清洁提单&lt;/p&gt;
 &lt;p&gt;certificate of inspection 原产地证&lt;/p&gt;
 &lt;p&gt;letter of indemnity 赔偿书&lt;/p&gt;
-</content><link href="/archives/2020-02-05-02/" rel="alternate"/><published>2020-02-05T00:00:00+08:06</published></entry><entry><id>/archives/2020-02-05-01/</id><title>外贸案例-出口企业贸易合同履行瑕疵案引发的思考</title><updated>2020-02-07T04:13:51.576507+00:00</updated><author><name>MIKA</name><email>359911923@qq.com</email><uri>https://www.wangxfei.com</uri></author><content>&lt;h3&gt;案情&lt;/h3&gt;
+</content><link href="/archives/2020-02-05-02/" rel="alternate"/><published>2020-02-05T00:00:00+08:06</published></entry><entry><id>/archives/2020-02-05-01/</id><title>外贸案例-出口企业贸易合同履行瑕疵案引发的思考</title><updated>2020-02-07T08:14:42.118226+00:00</updated><author><name>MIKA</name><email>359911923@qq.com</email><uri>https://www.wangxfei.com</uri></author><content>&lt;h3&gt;案情&lt;/h3&gt;
 &lt;p&gt;某年11月至12月间，被保险人H向国外买方C出口价值27万美元的宽屏电视，C收获后以货物存在质量问题为由拒绝支付全部货款。次年4月，H按照保险合同
 要求向中国出口信用保险公司通报相关损失。&lt;/p&gt;
 &lt;p&gt;经了解，C为华人企业，经营电器进口及销售业务，拥有自主品牌，产品再当地中低档电器市场中具有一定影响力。C的采购基本来自中国，以OEM方式
@@ -520,7 +448,7 @@ arbitrator's decision on the dispute is final and binding on the both parties.&l
 问题。争议的处理方式往往体现了出口企业对产品及服务的负责态度，以及企业对其信誉的重视程度。按期收回货款固然可以实现企业的眼前利益，
 但商誉和口碑才是企业的长远利益，是企业生存和发展的重要依托。出现争议时，出口企业只有积极应对，掌握主动权，才能妥善解决问题，达成双方
 满意的处理结果。&lt;/p&gt;
-</content><link href="/archives/2020-02-05-01/" rel="alternate"/><published>2020-02-05T00:00:00+08:06</published></entry><entry><id>/archives/2020-02-06-03/</id><title>市场调查之越南（四）</title><updated>2020-02-07T04:13:51.576472+00:00</updated><author><name>MIKA</name><email>359911923@qq.com</email><uri>https://www.wangxfei.com</uri></author><content>&lt;h3&gt;进出口总值突破5000亿美元&lt;/h3&gt;
+</content><link href="/archives/2020-02-05-01/" rel="alternate"/><published>2020-02-05T00:00:00+08:06</published></entry><entry><id>/archives/2020-02-06-03/</id><title>市场调查之越南（四）</title><updated>2020-02-07T08:14:42.118196+00:00</updated><author><name>MIKA</name><email>359911923@qq.com</email><uri>https://www.wangxfei.com</uri></author><content>&lt;h3&gt;进出口总值突破5000亿美元&lt;/h3&gt;
 &lt;p&gt;&lt;figure&gt;&lt;img data-width="730" data-height="340" src="https://cdn.jsdelivr.net/gh/mikamichael/Blog-With-GitHub-Boilerplate@gh-pages/archives/assets/fdb95f310d350ba1b4b404801b8b7173.png" alt="2008年-2019年越南进口额（单位：百万美元）" /&gt;&lt;figcaption&gt;2008年-2019年越南进口额（单位：百万美元）&lt;/figcaption&gt;&lt;/figure&gt;
 &lt;figure&gt;&lt;img data-width="730" data-height="340" src="https://cdn.jsdelivr.net/gh/mikamichael/Blog-With-GitHub-Boilerplate@gh-pages/archives/assets/913a5d4cfcaaab25b4a38b93547883d7.png" alt="2008年-2019年越南出口额（单位：百万美元）" /&gt;&lt;figcaption&gt;2008年-2019年越南出口额（单位：百万美元）&lt;/figcaption&gt;&lt;/figure&gt;&lt;/p&gt;
 &lt;p&gt;在世界和区域经济复杂波动得背景下，2019年越南经济仍保持令人深刻得增长势头。自2008年至2019年得12年间进出口额不断增长，
@@ -667,7 +595,7 @@ arbitrator's decision on the dispute is final and binding on the both parties.&l
 &lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
-</content><link href="/archives/2020-02-06-03/" rel="alternate"/><published>2020-02-06T00:00:00+08:06</published></entry><entry><id>/archives/2020-02-06-01/</id><title>商务英语之贸易伙伴</title><updated>2020-02-07T04:13:51.576445+00:00</updated><author><name>MIKA</name><email>359911923@qq.com</email><uri>https://www.wangxfei.com</uri></author><content>&lt;p&gt;&lt;strong&gt; Hello, Is there anything I can help you with?&lt;/strong&gt;&lt;/p&gt;
+</content><link href="/archives/2020-02-06-03/" rel="alternate"/><published>2020-02-06T00:00:00+08:06</published></entry><entry><id>/archives/2020-02-06-01/</id><title>商务英语之贸易伙伴</title><updated>2020-02-07T08:14:42.118165+00:00</updated><author><name>MIKA</name><email>359911923@qq.com</email><uri>https://www.wangxfei.com</uri></author><content>&lt;p&gt;&lt;strong&gt; Hello, Is there anything I can help you with?&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt; 有什么可以帮忙的地方么？&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;p&gt;Oh! Thanks for your asking! But just browsing!
@@ -871,7 +799,7 @@ abroad today. He wanted me to convey his apoligy to Mr. Wang.&lt;/p&gt;
 &lt;p&gt;introduce 动词 引进，介绍&lt;/p&gt;
 &lt;p&gt;have an opening 有空&lt;/p&gt;
 &lt;p&gt;make an appointment 约会，商务会晤&lt;/p&gt;
-</content><link href="/archives/2020-02-06-01/" rel="alternate"/><published>2020-02-06T00:00:00+08:06</published></entry><entry><id>/archives/2020-02-06-02/</id><title>外贸案例-品质条款变更后价格条款未修改造成损失</title><updated>2020-02-07T04:13:51.576415+00:00</updated><author><name>MIKA</name><email>359911923@qq.com</email><uri>https://www.wangxfei.com</uri></author><content>&lt;h3&gt;案情&lt;/h3&gt;
+</content><link href="/archives/2020-02-06-01/" rel="alternate"/><published>2020-02-06T00:00:00+08:06</published></entry><entry><id>/archives/2020-02-06-02/</id><title>外贸案例-品质条款变更后价格条款未修改造成损失</title><updated>2020-02-07T08:14:42.118133+00:00</updated><author><name>MIKA</name><email>359911923@qq.com</email><uri>https://www.wangxfei.com</uri></author><content>&lt;h3&gt;案情&lt;/h3&gt;
 &lt;p&gt;某年6月20日，香港甲公司和国内乙公司再广州签订合同，乙公司向甲公司购买日本生产的家电零配件和维修设备，并就价格问题
 达成了一致意见。合同的总金额为10万美元，最迟不应晚于7月10日装船发运。合同签订后，甲公司与6月15日电话通知乙公司，由于
 香港市场的日本产家电零配件短缺，且价格上涨，询问可否接受其他国家或地区的产品。乙公司于6月20日回函称，同意再保证
@@ -909,7 +837,7 @@ abroad today. He wanted me to convey his apoligy to Mr. Wang.&lt;/p&gt;
 乙公司在同意甲公司更改货物产地（品质条款）时理应考虑到不同产地商品的价格问题，但因急于要货而疏忽。在经过商检机关检验和
 自行验收后，乃至按照合同约定的价格和发票的价格实际汇付部分货款时，一直未对货物的价格提出任何异议，等到对方索要全部
 货款时才以非日本产品为由拒付，实属不该。&lt;/p&gt;
-</content><link href="/archives/2020-02-06-02/" rel="alternate"/><published>2020-02-06T00:00:00+08:06</published></entry><entry><id>/archives/2020-02-07-01/</id><title>商务英语之贸易使团（一）</title><updated>2020-02-07T04:13:51.576381+00:00</updated><author><name>MIKA</name><email>359911923@qq.com</email><uri>https://www.wangxfei.com</uri></author><content>&lt;p&gt;&lt;strong&gt; Let me introduce first. This is Mr. Smith, the CEO of our company.&lt;/strong&gt;&lt;/p&gt;
+</content><link href="/archives/2020-02-06-02/" rel="alternate"/><published>2020-02-06T00:00:00+08:06</published></entry><entry><id>/archives/2020-02-07-01/</id><title>商务英语之贸易使团（一）</title><updated>2020-02-07T08:14:42.118099+00:00</updated><author><name>MIKA</name><email>359911923@qq.com</email><uri>https://www.wangxfei.com</uri></author><content>&lt;p&gt;&lt;strong&gt; Let me introduce first. This is Mr. Smith, the CEO of our company.&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt; 让我来介绍以下，这位是我们公司的总裁，史密斯先生。&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;p&gt;Nice to meet you. 
@@ -1089,7 +1017,7 @@ more slip, colorful and faddish than others'. You can have a look.&lt;/p&gt;
 &lt;h4&gt;固定用法&lt;/h4&gt;
 &lt;p&gt;help yourself to：随便吃，常用于请客人吃饭时招呼客人。&lt;/p&gt;
 &lt;p&gt;例如：Help yourself to some cakes. 请用点心。&lt;/p&gt;
-</content><link href="/archives/2020-02-07-01/" rel="alternate"/><published>2020-02-07T00:00:00+08:06</published></entry><entry><id>/archives/2020-02-07-02/</id><title>商务英语之贸易使团（二）</title><updated>2020-02-07T04:13:51.576318+00:00</updated><author><name>MIKA</name><email>359911923@qq.com</email><uri>https://www.wangxfei.com</uri></author><content>&lt;h3&gt;五、Go sightseeing 观光旅游招待&lt;/h3&gt;
+</content><link href="/archives/2020-02-07-01/" rel="alternate"/><published>2020-02-07T00:00:00+08:06</published></entry><entry><id>/archives/2020-02-07-02/</id><title>商务英语之贸易使团（二）</title><updated>2020-02-07T08:14:42.118059+00:00</updated><author><name>MIKA</name><email>359911923@qq.com</email><uri>https://www.wangxfei.com</uri></author><content>&lt;h3&gt;五、Go sightseeing 观光旅游招待&lt;/h3&gt;
 &lt;p&gt;A: What about visiting the Great Wall this weekend? The weather is great tomorrow.&lt;/p&gt;
 &lt;p&gt;A: 这个周末去登长城怎么样？明天天气很好。&lt;/p&gt;
 &lt;p&gt;B: That's a good idea.&lt;/p&gt;
@@ -1139,7 +1067,7 @@ Suzhou and Huangzhou."&lt;/p&gt;
 &lt;p&gt;ancient 形容词 古老的&lt;/p&gt;
 &lt;h4&gt;固定用法&lt;/h4&gt;
 &lt;p&gt;It's on me.：我请客，口语中经常用到，同义说法还有 This is my treat.（这次我请客）&lt;/p&gt;
-&lt;h3&gt;Say goodbye 送客&lt;/h3&gt;
+&lt;h3&gt;七、Say goodbye 送客&lt;/h3&gt;
 &lt;p&gt;A: We have been here for about five days and I have to leave now.&lt;/p&gt;
 &lt;p&gt;A: 我已经在这里待五天了，必须得走了。&lt;/p&gt;
 &lt;p&gt;B: Ok! You know you're always welcome here. Did you enjoy your stay?&lt;/p&gt;
@@ -1197,4 +1125,68 @@ Suzhou and Huangzhou."&lt;/p&gt;
 &lt;p&gt;sightseeing 名词 观光&lt;/p&gt;
 &lt;p&gt;trunk 名词 行李箱&lt;/p&gt;
 &lt;p&gt;banquet 名词 晚宴&lt;/p&gt;
-</content><link href="/archives/2020-02-07-02/" rel="alternate"/><published>2020-02-07T00:00:00+08:06</published></entry></feed>
+</content><link href="/archives/2020-02-07-02/" rel="alternate"/><published>2020-02-07T00:00:00+08:06</published></entry><entry><id>/archives/2020-02-07-03/</id><title>外贸案例-谁才是真正的卖方</title><updated>2020-02-07T08:14:42.117922+00:00</updated><author><name>MIKA</name><email>359911923@qq.com</email><uri>https://www.wangxfei.com</uri></author><content>&lt;h3&gt;案例&lt;/h3&gt;
+&lt;p&gt;某年6月28日，我国甲公司与韩国乙公司签订了一份售货合同。合同约定：由乙公司购买甲公司的中药1万千克，单价5美元/千克，
+总金额5万美元。该合同采用了甲公司的格式售货合同纸，在合同卖方一栏中写有“甲公司”字样，但只有陈某的签字，未加盖甲公司的印章。
+合同签订后，乙公司于7月2日申请开列了以甲公司为受益人，金额为5万美元的即期信用证。7月19日，甲公司向乙公司出具了
+发票，金额为5万美元，并装运发货，向银行交单议付。8月7日，乙公司向甲公司出具了退货提单及托货发票，载明的退货理由
+为“无商业价值”。甲公司致函乙公司：同意退货，并由我方承担退货海运费。事后，甲公司未向乙公司再发新货，同时未将货款退回。&lt;/p&gt;
+&lt;p&gt;为此，乙公司向法院起诉，请求法院判令被告甲公司立即偿还原告货款及利息，并承担本案的诉讼费。&lt;/p&gt;
+&lt;h3&gt;结果&lt;/h3&gt;
+&lt;p&gt;在庭审中，被告答辩称，甲公司不应作为被告，理由是：本案争议的售货合同所约定的权力和义务依据我国《合同法》第402条
+规定应由原告和陈某承担。《合同法》第402条规定：“受托人在订立合同同时知道受托人于委托人之间的代理关系的，该合同直接
+约束委托人和第三人。”该条正式参考《国际货物销售代理公约》第12条指定的。该公约第12条规定：“代理人与其权限范围内代理本人
+实施行为，而且第三人知道或理应知道代理人是以代理身份实施行为时，代理人的行为直接约束本人于第三人。”本案中，甲公司
+作为具有外贸经营资格的公司与陈某签订了代理协议，陈某与一公司签订了出口货物的合同。原告在订立合同同时已经知道了委托人与
+受托人之间的代理关系，允许陈某直接以个人名义签字生效，而不是以家公司的名义盖章生效。因此，本案完全适用于《合同法》
+第402条之规定，原告应九合同的事由直接起诉陈某，陈某也应直接承担未履行合同义务的后果。而甲公司作为受托人不应作为
+被告为该合同承担责任，请求法院驳回原告的起诉。&lt;/p&gt;
+&lt;p&gt;被告对原告提供的证据的真实性没有异议，对证据所证明的问题提出了异议。被告认为各项证据（包括合同、往来信函）的签名都是
+陈某，表明买卖的双方都原告和陈某，陈某与被告没有直接关系。&lt;/p&gt;
+&lt;p&gt;原告认为在售货合同卖方一栏签字的时陈某，陈某出具信函的纸张印有被告抬头，发传真的传真机也是被告的，其只能认为陈某时被告的工作
+人员，陈某的行为是职务行为。对被告提供的两年前12月16日被告与陈某签订的代理出口日用品的协议，原告称不知道。但对证据
+的真实性没有异议，并认为被告与陈某的协议是关于日用品的出口问题，与本案诉争的中药没有直接关系。&lt;/p&gt;
+&lt;p&gt;法院审查后认为，被告提供的证据“代理出口协议书”真实、合法，证明了陈某曾于两年前未退被告代理出口日用品，但不能证明陈某
+在两年后仍然委托被告代理出口，也不饿能横眉陈某除委托被告代理出口日用品外又委托被告代理出口中药，所以，该证据与案情
+没有关联，法院不予采信。原告提供的证据真实、合法，与争议的事实实有关联，法院予以采信。&lt;/p&gt;
+&lt;p&gt;法院认为，原告要求被告返还货款的请求，证据充分、理由成立，予以支持；被告的“甲公司不应作为被告”的抗辩意见，不予采纳。
+依照《中华人民共和国民法通则》第66条第1款、第111条，《中华人民共和国合同法》第7条、第60条第1款、第107条之规定，
+判决被告甲公司返还原告乙公司货款5万美元及利息；案件受理费由被告甲公司承担。&lt;/p&gt;
+&lt;h3&gt;评析&lt;/h3&gt;
+&lt;p&gt;本案争议的焦点是合同的当事人是谁。买方是原告，这是毫无意义的；卖方是甲公司，还是陈某个人，这个问题关系适合资格
+被告的确定。从原告、被告提供的证据看，有的证据表明卖方是陈某，有的证据表明卖方是甲公司。&lt;/p&gt;
+&lt;p&gt;表明卖方是陈某的证据有：售货合同，卖方签字处只有陈某签字，没有法人印章；从往来信函证据来看，均是陈某的签名，这些
+证明表明合同中的卖方有核能是陈某。&lt;/p&gt;
+&lt;p&gt;表明卖方是甲公司的证据有：其一，售货合同书，该售货合同书是被告的格式合同，合同的卖方一栏写的是被告的名称：其二，装箱单、
+提单、发票、退货同意书。这些证据表明被告接受了合同条款的约束，并实际履行了合同。从以上两个方面看，陈某以被告的
+名义签订了合同，被告以实际履行的行为认可了陈某签订合同的代理行为。对于被告，陈某在这次交易活动中是由代理权的。这就使
+原告有理由相信，陈某是被告的工作人员，陈某的行为是职务行为。&lt;/p&gt;
+&lt;p&gt;关于被告“在售货合同卖方一栏签字的陈某是被告的工作人员，陈某的行为是职务行为”的主张，原告没有提供证明证明陈某是被告
+的工作人员，只是陈某用被告的格式合同纸与其签订合同、用印有被告抬头的纸张出具信函的行为，被告实际履行了陈某签订的
+合同，使其认为并相信陈某的行为是职务行为，虽然法律并没有规定相对人认为行为人的行为是职务行为就认定为职务行为。但是，
+陈某签订合同的行为与被告履行合同的行为是有联系的。陈某虽然没有代理权（代理甲公司签发合同），但其以被告的名义与原告签订
+了售货合同，被告履行了该合同，
+证明被告知道并认可了陈某以其名义签订合同的行为，与《民法通则》第66条第1款“没有代理权、超越代理权或者代理权终止后的行为，
+只有经过被代理人的追认，被代理人才承担民事责任”之规定相符。陈某与被告之间形成了代理关系，陈某的代理行为因被告的
+追认而有效，被告应该对该代理行为的法律后果承担责任。&lt;/p&gt;
+&lt;p&gt;关于被告提出的“本案争议的售货合同所约定的权力和义务依据《合同法》第402条规定应由原告和陈某承担”的抗辩意见，被告援引
+《国际货物销售代理公约》第12条“代理人于其职权范围内代理本人实施行为，而且第三人知道或理应知道代理人是以代理身份
+实施行为时，代理人的行为直接约束本人于第三人”的规定，作为其主张适用《合同法》第402条的依据，被告援引这一规定的前提
+是其与陈某之间存在出口代理关系，被告认为其与陈某之间存在代理关系的依据是其向法庭触角的证据代理出口日用品协议书。
+但如前文所述，该代理出口协议书因为本案无关联性而未被法院采信，故被告以《国际货物销售代理公约》第12条的规定作为其主张
+适用《合同法》第402条的依据的事实基础是不存在的。同时，被告将《合同法》第402条的规定作为其抗辩依据是不准确的。
+纵如被告所言，陈某是委托人，被告是受托人，原告是第三人，情况与《合同法》第402条的规定是不符的。按照被告的理解，
+应该是被告（受托人）以自己的名义再陈某（委托人）授权的范围内与原告（第三人）签订了合同，若事实如此，被告的理解
+无疑是正确的。但恰恰相反，本案中能够确认的事实是陈某以自己和被告的名义与原告签订了合同。被告认为陈某是委托人，
+被告是受托人，按照《合同法》第402条的规定，与第三人签订合同的应该是受托人，本案中即为被告，但被认为与第三人
+签订合同的是陈某，即被告定义的委托人，这种理解与该规定是完全相反的。因此被告的这一抗辩理由不能成立。&lt;/p&gt;
+&lt;p&gt;笔者认为，法院在没有证据证明原告在签订和履行合同时已清楚地知道陈某的行为是个人行为的情况下，基于现有证据，认定
+买卖合同是原、被告签订的，比认定合同是由陈某本人与原告签订的理由更充足。因此，该半决是合理的。但是事实上，陈某是
+真正卖方的可能性更大。如果不幸言中，甲公司虽然在赔偿乙公司后，再向陈某追索，但能否如数（包括利息、诉讼费律师费等）
+追回，却很难预测。&lt;/p&gt;
+&lt;p&gt;在我国进出口经营中，代理关系很负责，有的有代理协议，有的没有；有的代理协议以及代理行为很不规范，常常引起纠纷。
+归纳起来，主要有以下几种：1. 不签订委托协议，仅凭订单办事；2. 代理人超越授权范围，越权代理； 3. 签订外贸合同
+在先，而委托协议在后； 4. 代理协议与合同条款内容不一致，责任归属不清楚； 5. 表面未外贸代理，实际是出口合同。&lt;/p&gt;
+&lt;p&gt;本案的家公司根本没有注意到自身作为进出口合同一方当事人的法律责任和义务，导致其在合同履行过程中出现问题时，
+未获得任何利益，却担负了全部的责任。教训不可谓不深重。本案很有代表性，指的有进出口经营资格的公司引以为鉴。&lt;/p&gt;
+</content><link href="/archives/2020-02-07-03/" rel="alternate"/><published>2020-02-07T00:00:00+08:06</published></entry></feed>
