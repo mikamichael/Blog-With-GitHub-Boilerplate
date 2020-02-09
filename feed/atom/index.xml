@@ -1,43 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-CN"><id>/</id><title>外贸启航站</title><updated>2020-02-08T13:02:41.531617+08:06</updated><author><name>MIKA</name><email>359911923@qq.com</email></author><link href="/" rel="alternate"/><generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator><logo>https://cdn.jsdelivr.net/gh/mikamichael/Blog-With-GitHub-Boilerplate@gh-pages/logo.png</logo><subtitle>外贸路上，愿我们都不再孤单。</subtitle><entry><id>/archives/2020-02-06-02/</id><title>外贸案例-品质条款变更后价格条款未修改造成损失</title><updated>2020-02-08T13:02:41.531959+00:00</updated><author><name>MIKA</name><email>359911923@qq.com</email><uri>https://www.wangxfei.com</uri></author><content>&lt;h3&gt;案情&lt;/h3&gt;
-&lt;p&gt;某年6月20日，香港甲公司和国内乙公司再广州签订合同，乙公司向甲公司购买日本生产的家电零配件和维修设备，并就价格问题
-达成了一致意见。合同的总金额为10万美元，最迟不应晚于7月10日装船发运。合同签订后，甲公司与6月15日电话通知乙公司，由于
-香港市场的日本产家电零配件短缺，且价格上涨，询问可否接受其他国家或地区的产品。乙公司于6月20日回函称，同意再保证
-质量的前提下，接受台湾或韩国产品。并要求立即供货。双方未就改变零配件产地条件后的产品价格问题进行协商。6月27日，甲
-公司向乙公司提供合同规定数量的货物，发票金额为10万美元。&lt;/p&gt;
-&lt;p&gt;货到后，乙公司进行了检验。经中国商检部门的检验，上述零配件均系韩国与台湾的产品，7月25日取得商检部门的商检证书。
-乙公司支付了5万美元。9月25日，甲公司要求乙公司支付余款5万美元。10月5日，乙公司致函甲公司，称该批货物非日本产品，
-要求换货，如不能换货，则要求退货，并要求甲公司承担有关费用损失。甲公司回函称，乙公司已经同意接受非日本产品，不能
-以产品为非日本生产而索赔。10月15日，乙公司再次致函称有些零件再使用中已发生问题，因而要求退货，如退货困难，要求
-重新核定产品价格并赔偿自身由此而遭受的经济损失5万美元。甲公司回函曾，货物已经商检部门检验，乙公司再货物入库前已
-详细检查、核对，且投入使用，因而再次拒绝赔偿，并要求支付货款。&lt;/p&gt;
-&lt;p&gt;甲公司因为一致未收到所欠货款，与12月25日提起仲裁，要求乙公司立即偿还所欠货款5万美元及利息损失。&lt;/p&gt;
-&lt;h3&gt;结果&lt;/h3&gt;
-&lt;p&gt;在仲裁审理中，乙公司辩称，甲公司的赔偿请求不能成立，因为货款的价格是以日本生产的产品标准来指定的，而甲公司提供的
-并非日本生产的产品，价格差别很大，不能以非正品交货而收取正品的价金。同时，甲公司提供的货物品质不良。&lt;/p&gt;
-&lt;p&gt;仲裁法庭裁定，乙公司偿还所欠货款5万美元。&lt;/p&gt;
-&lt;h3&gt;评析&lt;/h3&gt;
-&lt;p&gt;&lt;strong&gt; 合同依法成立，双方当事人应带履行合同义务&lt;/strong&gt;
-《中华人民共和国合同法》第8条规定，“依法成立的合同，对当事人具有法律约束力。当事人应带按照约定履行自己的义务，不得
-擅自变更或者解除合同。” 本案合同系双方真实意思表示，属于依法成立的有效合同，当事人应当履行合同的约定义务。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt; 关于合同条款修改的效力&lt;/strong&gt;
-本案中，双方当事人在签订合同时，对产品的价格和产地作了明确规定。在合同履行过程中，甲公司提出变更货物的产品，根据
-《合同法》第77条规定，“当事人协商一致，可以变更合同。” 经当事人协商同意后，合同条款可以修改变更。在接到甲公司的
-变更请求后，乙公司表示同意，这样经双方协商一致，就合同有关产品产地的条款进行了依法变更，符合法律的规定，应当认定
-为合法有效。&lt;/p&gt;
-&lt;p&gt;关于货物价格条款，合同双方在协商变更货物产地的同时未就货物的价格调整进行协商，乙公司在收到货物和发票的同时，以及
-在经过商检机关检验和自行验收后，一致未提出任何异议。同时乙公司还按照合同约定的价格和发票的价格实际汇付了部分货款，
-并未对货物的价格提出任何异议。因此，乙公司的事实行为表明七已经接受了甲公司在发票中所提的价格。&lt;/p&gt;
-&lt;p&gt;因此，在合同合法成立后，双方当事人通过协商进队合同项下货物的产地条款进行了双方一致同意的变更，除此之外，合同的当事人
-并未就合同项下货物的价格调整做出意思表示，决定有关货物价格的规定仍应依照原合同中的规定。&lt;/p&gt;
-&lt;p&gt;合同依法成立后，当事人应当履行合同约定的义务，这是法律确定的基本规定。在本案中，作为买方的乙公司收取货物后应当
-依约支付货款，从而完成自身的法律义务。但实际商乙公司在收取货物后，仅仅支付了部分货款，尚欠部分货款未付，至仲裁提起时
-乙公司仍未履行义务，其行为已经违反合同的规定，属于违约行为。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt; 乙公司应吸取的教训&lt;/strong&gt;
-乙公司在同意甲公司更改货物产地（品质条款）时理应考虑到不同产地商品的价格问题，但因急于要货而疏忽。在经过商检机关检验和
-自行验收后，乃至按照合同约定的价格和发票的价格实际汇付部分货款时，一直未对货物的价格提出任何异议，等到对方索要全部
-货款时才以非日本产品为由拒付，实属不该。&lt;/p&gt;
-</content><link href="/archives/2020-02-06-02/" rel="alternate"/><published>2020-02-06T00:00:00+08:06</published></entry><entry><id>/archives/2020-02-07-01/</id><title>商务英语之贸易使团（一）</title><updated>2020-02-08T13:02:41.531933+00:00</updated><author><name>MIKA</name><email>359911923@qq.com</email><uri>https://www.wangxfei.com</uri></author><content>&lt;p&gt;&lt;strong&gt; Let me introduce first. This is Mr. Smith, the CEO of our company.&lt;/strong&gt;&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-CN"><id>/</id><title>外贸启航站</title><updated>2020-02-09T05:29:07.019066+08:06</updated><author><name>MIKA</name><email>359911923@qq.com</email></author><link href="/" rel="alternate"/><generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator><logo>https://cdn.jsdelivr.net/gh/mikamichael/Blog-With-GitHub-Boilerplate@gh-pages/logo.png</logo><subtitle>外贸路上，愿我们都不再孤单。</subtitle><entry><id>/archives/2020-02-07-01/</id><title>商务英语之贸易使团（一）</title><updated>2020-02-09T05:29:07.019487+00:00</updated><author><name>MIKA</name><email>359911923@qq.com</email><uri>https://www.wangxfei.com</uri></author><content>&lt;p&gt;&lt;strong&gt; Let me introduce first. This is Mr. Smith, the CEO of our company.&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt; 让我来介绍以下，这位是我们公司的总裁，史密斯先生。&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;p&gt;Nice to meet you. 
@@ -217,7 +179,7 @@ more slip, colorful and faddish than others'. You can have a look.&lt;/p&gt;
 &lt;h4&gt;固定用法&lt;/h4&gt;
 &lt;p&gt;help yourself to：随便吃，常用于请客人吃饭时招呼客人。&lt;/p&gt;
 &lt;p&gt;例如：Help yourself to some cakes. 请用点心。&lt;/p&gt;
-</content><link href="/archives/2020-02-07-01/" rel="alternate"/><published>2020-02-07T00:00:00+08:06</published></entry><entry><id>/archives/2020-02-07-02/</id><title>商务英语之贸易使团（二）</title><updated>2020-02-08T13:02:41.531908+00:00</updated><author><name>MIKA</name><email>359911923@qq.com</email><uri>https://www.wangxfei.com</uri></author><content>&lt;h3&gt;五、Go sightseeing 观光旅游招待&lt;/h3&gt;
+</content><link href="/archives/2020-02-07-01/" rel="alternate"/><published>2020-02-07T00:00:00+08:06</published></entry><entry><id>/archives/2020-02-07-02/</id><title>商务英语之贸易使团（二）</title><updated>2020-02-09T05:29:07.019455+00:00</updated><author><name>MIKA</name><email>359911923@qq.com</email><uri>https://www.wangxfei.com</uri></author><content>&lt;h3&gt;五、Go sightseeing 观光旅游招待&lt;/h3&gt;
 &lt;p&gt;A: What about visiting the Great Wall this weekend? The weather is great tomorrow.&lt;/p&gt;
 &lt;p&gt;A: 这个周末去登长城怎么样？明天天气很好。&lt;/p&gt;
 &lt;p&gt;B: That's a good idea.&lt;/p&gt;
@@ -325,7 +287,7 @@ Suzhou and Huangzhou."&lt;/p&gt;
 &lt;p&gt;sightseeing 名词 观光&lt;/p&gt;
 &lt;p&gt;trunk 名词 行李箱&lt;/p&gt;
 &lt;p&gt;banquet 名词 晚宴&lt;/p&gt;
-</content><link href="/archives/2020-02-07-02/" rel="alternate"/><published>2020-02-07T00:00:00+08:06</published></entry><entry><id>/archives/2020-02-07-05/</id><title>2020年二月节日</title><updated>2020-02-08T13:02:41.531881+00:00</updated><author><name>MIKA</name><email>359911923@qq.com</email><uri>https://www.wangxfei.com</uri></author><content>&lt;p&gt;&lt;figure&gt;&lt;img data-width="1119" data-height="580" src="https://cdn.jsdelivr.net/gh/mikamichael/Blog-With-GitHub-Boilerplate@gh-pages/archives/assets/577a369e86973d4723800f9d52ff1966.png" alt="二月节日" /&gt;&lt;figcaption&gt;二月节日&lt;/figcaption&gt;&lt;/figure&gt;&lt;/p&gt;
+</content><link href="/archives/2020-02-07-02/" rel="alternate"/><published>2020-02-07T00:00:00+08:06</published></entry><entry><id>/archives/2020-02-07-05/</id><title>2020年二月节日</title><updated>2020-02-09T05:29:07.019425+00:00</updated><author><name>MIKA</name><email>359911923@qq.com</email><uri>https://www.wangxfei.com</uri></author><content>&lt;p&gt;&lt;figure&gt;&lt;img data-width="1119" data-height="580" src="https://cdn.jsdelivr.net/gh/mikamichael/Blog-With-GitHub-Boilerplate@gh-pages/archives/assets/577a369e86973d4723800f9d52ff1966.png" alt="二月节日" /&gt;&lt;figcaption&gt;二月节日&lt;/figcaption&gt;&lt;/figure&gt;&lt;/p&gt;
 &lt;h4&gt;2月4日&lt;br&gt; 斯里兰卡·国庆日 Nationanl Day&lt;/h4&gt;
 &lt;p&gt;1948年2月4日斯里兰卡民主社会主义共和国获得独立，也是该国的独立日&lt;/p&gt;
 &lt;h4&gt;2月6日&lt;br&gt; 新西兰·国庆日 Waitangi Day&lt;/h4&gt;
@@ -354,7 +316,7 @@ Suzhou and Huangzhou."&lt;/p&gt;
 &lt;p&gt;西班牙特内里费狂欢节（2月20日-3月1日）&lt;/p&gt;
 &lt;p&gt;巴西里约热内卢狂欢节（2月21日-2月26日）&lt;/p&gt;
 &lt;p&gt;&lt;font color=#DCDCDC size=1&gt;（PS: 本文由外跨研究中心综合整理，转载请务必标明出处。）&lt;/font&gt;&lt;/p&gt;
-</content><link href="/archives/2020-02-07-05/" rel="alternate"/><published>2020-02-07T00:00:00+08:06</published></entry><entry><id>/archives/2020-02-07-04/</id><title>英文中不可抗力条款的约定</title><updated>2020-02-08T13:02:41.531856+00:00</updated><author><name>MIKA</name><email>359911923@qq.com</email><uri>https://www.wangxfei.com</uri></author><content>&lt;h3&gt;一、Force Majeure Clause 什么是不可抗力i你条款&lt;/h3&gt;
+</content><link href="/archives/2020-02-07-05/" rel="alternate"/><published>2020-02-07T00:00:00+08:06</published></entry><entry><id>/archives/2020-02-07-04/</id><title>英文中不可抗力条款的约定</title><updated>2020-02-09T05:29:07.019395+00:00</updated><author><name>MIKA</name><email>359911923@qq.com</email><uri>https://www.wangxfei.com</uri></author><content>&lt;h3&gt;一、Force Majeure Clause 什么是不可抗力i你条款&lt;/h3&gt;
 &lt;p&gt;合同一经制定，合约双方都希望能够按照合同规定顺利履行。但是有时候因情势变更，往往会出现一些出乎当事人意料的事情发生，而导致
 当事人无法履行合同。这种由于当事人所不能控制的事故而导致合同不能履行的，就是不可抗力（Force Majeure），合同中关于这一项
 的约定的条款就是不可抗力条款（Force Majeure Clause）。该条款实际上也是一项免责条款。&lt;/p&gt;
@@ -483,7 +445,7 @@ of the Agreement.&lt;/p&gt;
 &lt;p&gt;由于不可抗力造成一方当事人无法履行或延迟履行本合同义务时，该方当事人可以免责；在不可抗力期间，受影响的一方
 当事人在不可抗力发生期间可以暂停履行本可通。若不可抗力事件在本合同签订前已发生，且其对本合同履行的影响在
 签订合同时无法预见，有权暂停。&lt;/p&gt;
-</content><link href="/archives/2020-02-07-04/" rel="alternate"/><published>2020-02-07T00:00:00+08:06</published></entry><entry><id>/archives/2020-02-07-03/</id><title>外贸案例-谁才是真正的卖方</title><updated>2020-02-08T13:02:41.531830+00:00</updated><author><name>MIKA</name><email>359911923@qq.com</email><uri>https://www.wangxfei.com</uri></author><content>&lt;h3&gt;案例&lt;/h3&gt;
+</content><link href="/archives/2020-02-07-04/" rel="alternate"/><published>2020-02-07T00:00:00+08:06</published></entry><entry><id>/archives/2020-02-07-03/</id><title>外贸案例-谁才是真正的卖方</title><updated>2020-02-09T05:29:07.019362+00:00</updated><author><name>MIKA</name><email>359911923@qq.com</email><uri>https://www.wangxfei.com</uri></author><content>&lt;h3&gt;案例&lt;/h3&gt;
 &lt;p&gt;某年6月28日，我国甲公司与韩国乙公司签订了一份售货合同。合同约定：由乙公司购买甲公司的中药1万千克，单价5美元/千克，
 总金额5万美元。该合同采用了甲公司的格式售货合同纸，在合同卖方一栏中写有“甲公司”字样，但只有陈某的签字，未加盖甲公司的印章。
 合同签订后，乙公司于7月2日申请开列了以甲公司为受益人，金额为5万美元的即期信用证。7月19日，甲公司向乙公司出具了
@@ -547,7 +509,7 @@ of the Agreement.&lt;/p&gt;
 在先，而委托协议在后； 4. 代理协议与合同条款内容不一致，责任归属不清楚； 5. 表面未外贸代理，实际是出口合同。&lt;/p&gt;
 &lt;p&gt;本案的家公司根本没有注意到自身作为进出口合同一方当事人的法律责任和义务，导致其在合同履行过程中出现问题时，
 未获得任何利益，却担负了全部的责任。教训不可谓不深重。本案很有代表性，指的有进出口经营资格的公司引以为鉴。&lt;/p&gt;
-</content><link href="/archives/2020-02-07-03/" rel="alternate"/><published>2020-02-07T00:00:00+08:06</published></entry><entry><id>/archives/2020-02-08-02/</id><title>商务英语之贸易对象（二）</title><updated>2020-02-08T13:02:41.531804+00:00</updated><author><name>MIKA</name><email>359911923@qq.com</email><uri>https://www.wangxfei.com</uri></author><content>&lt;h3&gt;六、To the taste of foreign market 符合国外市场口味&lt;/h3&gt;
+</content><link href="/archives/2020-02-07-03/" rel="alternate"/><published>2020-02-07T00:00:00+08:06</published></entry><entry><id>/archives/2020-02-08-02/</id><title>商务英语之贸易对象（二）</title><updated>2020-02-09T05:29:07.019329+00:00</updated><author><name>MIKA</name><email>359911923@qq.com</email><uri>https://www.wangxfei.com</uri></author><content>&lt;h3&gt;六、To the taste of foreign market 符合国外市场口味&lt;/h3&gt;
 &lt;p&gt;A: I am here to tell you that the clothes are very much to taste of our market and the customers are quite with the excellent quality.&lt;/p&gt;
 &lt;p&gt;A: 在这我想说，衣服很符合市场口味，消费者对它的品质相当满意。&lt;/p&gt;
 &lt;p&gt;B: We are very glad to hear that. We are sure that there will be a bigger market for our products in this country.&lt;/p&gt;
@@ -666,7 +628,7 @@ the northeast market here. I'm thinking that we'll have some business opportunit
 &lt;p&gt;historical 形容词 历史的，有关历史的&lt;/p&gt;
 &lt;p&gt;promising customer 潜在顾客&lt;/p&gt;
 &lt;p&gt;overseas 形容词 海外&lt;/p&gt;
-</content><link href="/archives/2020-02-08-02/" rel="alternate"/><published>2020-02-08T00:00:00+08:06</published></entry><entry><id>/archives/2020-02-08-01/</id><title>商务英语之贸易对象（一）</title><updated>2020-02-08T13:02:41.531777+00:00</updated><author><name>MIKA</name><email>359911923@qq.com</email><uri>https://www.wangxfei.com</uri></author><content>&lt;p&gt;&lt;strong&gt; Do you think it's necessary to do export market research before exporting?&lt;/strong&gt;&lt;/p&gt;
+</content><link href="/archives/2020-02-08-02/" rel="alternate"/><published>2020-02-08T00:00:00+08:06</published></entry><entry><id>/archives/2020-02-08-01/</id><title>商务英语之贸易对象（一）</title><updated>2020-02-09T05:29:07.019296+00:00</updated><author><name>MIKA</name><email>359911923@qq.com</email><uri>https://www.wangxfei.com</uri></author><content>&lt;p&gt;&lt;strong&gt; Do you think it's necessary to do export market research before exporting?&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt; 你认为出口前进行市场调差有必要吗？&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;p&gt;Yes, I think so.
@@ -840,7 +802,7 @@ outlooks for cultural, political, religions.&lt;/p&gt;
 &lt;h4&gt;固定用法&lt;/h4&gt;
 &lt;p&gt;deal with：处理，对付&lt;/p&gt;
 &lt;p&gt;例如：He does not know how to deal with this matter.（他不知道该如何处理这件事情。）&lt;/p&gt;
-</content><link href="/archives/2020-02-08-01/" rel="alternate"/><published>2020-02-08T00:00:00+08:06</published></entry><entry><id>/archives/2020-02-08-03/</id><title>分享一些工具网站</title><updated>2020-02-08T13:02:41.531745+00:00</updated><author><name>MIKA</name><email>359911923@qq.com</email><uri>https://www.wangxfei.com</uri></author><content>&lt;h3&gt;任意网站免注册登录&lt;/h3&gt;
+</content><link href="/archives/2020-02-08-01/" rel="alternate"/><published>2020-02-08T00:00:00+08:06</published></entry><entry><id>/archives/2020-02-08-03/</id><title>分享一些工具网站</title><updated>2020-02-09T05:29:07.019260+00:00</updated><author><name>MIKA</name><email>359911923@qq.com</email><uri>https://www.wangxfei.com</uri></author><content>&lt;h3&gt;任意网站免注册登录&lt;/h3&gt;
 &lt;p&gt;&lt;a href="http://www.bugmenot.com"&gt;免注册登录链接&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;有时候，我们访问某网站的内容，往往需要登录或者回复才能看到。这样还得注册有时甚至关闭注册，
 这样我们根本看到需要的信息。今天的这个网站解决了这一难题，它主要十让网友共享某网站的用户
@@ -877,7 +839,7 @@ outlooks for cultural, political, religions.&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://www.acronymfinder.com/"&gt;英文缩写查询链接&lt;/a&gt;&lt;/p&gt;
 &lt;h3&gt;通过照片发掘更多信息&lt;/h3&gt;
 &lt;p&gt;&lt;a href="https://www.camerasummary.com/"&gt;通过照片发掘更多信息链接&lt;/a&gt;&lt;/p&gt;
-</content><link href="/archives/2020-02-08-03/" rel="alternate"/><published>2020-02-08T00:00:00+08:06</published></entry><entry><id>/archives/2020-02-08-04/</id><title>外贸案例-外贸业务解惑500例（一）</title><updated>2020-02-08T13:02:41.531690+00:00</updated><author><name>MIKA</name><email>359911923@qq.com</email><uri>https://www.wangxfei.com</uri></author><content>&lt;h3&gt;疑惑一&lt;/h3&gt;
+</content><link href="/archives/2020-02-08-03/" rel="alternate"/><published>2020-02-08T00:00:00+08:06</published></entry><entry><id>/archives/2020-02-08-04/</id><title>外贸案例-外贸业务解惑500例（一）</title><updated>2020-02-09T05:29:07.019220+00:00</updated><author><name>MIKA</name><email>359911923@qq.com</email><uri>https://www.wangxfei.com</uri></author><content>&lt;h3&gt;疑惑一&lt;/h3&gt;
 &lt;p&gt;一家进出口公司再6月份要出口一批货物。但是遇到台风，出口商不得不推迟装船期。因为付款十信用证结算。这样，
 再出口单据里，就过了装船有效期，产生不符点。作为出口商该如何做？&lt;/p&gt;
 &lt;h4&gt;解惑&lt;/h4&gt;
@@ -916,4 +878,79 @@ outlooks for cultural, political, religions.&lt;/p&gt;
 &lt;p&gt;因为是纯代理业务，外贸公司与国内生产企业签订合同时九应列明双方的责任与义务；外贸公司只是代理出口，运保费
 是在结汇后的货款中扣除。如果因为产品质量问题而无法结汇，所产生多的运保费应该由出口企业付清。这样，外贸公司
 九不会陷入债务纠纷。&lt;/p&gt;
-</content><link href="/archives/2020-02-08-04/" rel="alternate"/><published>2020-02-08T00:00:00+08:06</published></entry></feed>
+</content><link href="/archives/2020-02-08-04/" rel="alternate"/><published>2020-02-08T00:00:00+08:06</published></entry><entry><id>/archives/2020-02-09-01/</id><title>商务英语之签署协议</title><updated>2020-02-09T05:29:07.019151+00:00</updated><author><name>MIKA</name><email>359911923@qq.com</email><uri>https://www.wangxfei.com</uri></author><content>&lt;p&gt;&lt;strong&gt; Shall we sign the agreement now?&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt; 我们现在签订协议好吗？&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Ok, the agreement is ready for signature.
+好的，协议已经拟好准备签字。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;We both want to sign an agreement, and we have to make some concessions to do it.
+我们都想签协议，因此双方都要做些让步。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;We can't accept the agreement and we decide to cancel the agreement. 
+我们无法接受此协议，并决定取消合作。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;I'm sorry, the agreement hasn't been full prepared.
+对不起，协议还没有完全准备好。&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt; Do you always make out an agreement for every deal?&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt; 每笔交易都需要订一份协议吗？&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;You cannot cancel the agreement, without first securing our agreement.
+如果没有事先征得我们统一，你们不能取消合同。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Yes, agreement is absolutely necessary.
+是的，协议是必不可少的。&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt; Are you worrying about the non-execution of the agreement and non-payment on our part?&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt; 你是否担心我们不履行协议或者拒不付款？&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;This agreement will come into force as soon as it is signed by two parties.
+合同一经双方签订立即生效。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;You have no gounds for backing out of the agreement.
+你们没有正当理由背弃合同。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;The buyer has the option of canceling the agreement.
+买方有权撤销合同。&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt; What are the main clauses in the contract?&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt; 合同中的主要条款有哪些？&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;All terms and conditions will be the same as those in your previous agreement number F1786.
+所有条款与你们过去签订的第F1786号协议规定的各项条款相同。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;The buyer shall open an irrevocable, confirmed and partial shipment letter of credit.
+买方需要开出不可撤销的，保兑的，允许分批装运的信用证。&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt; Please go over the draft and see if any modifications are needed?&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt; 请过目以下协议稿，看是否需要有修改的地方？&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Well, it contains basically all we have agreed upon.
+协议基本包括了我们商定的全部内容。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;The agreement still needs some modifications, such as the payment.
+协议仍需要做某些修改，例如支付条款。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;We cannot comply with your special requests concerning the agreement.
+我方无法接受贵方有关协议的特别要求。&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt; Do you have any comments?&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt; 你方还有什么需要说明的吗？&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;No, the agreement seems reasonable, shall we sign it as soon as possible?
+协议合情合理，我们能尽早签订协议吗？&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;If cancel the agreement, it must be in writing.
+取消协议，需书面通知。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;If one part of the agreement has been breached, it does not necessarily mean a termination of the entire agreement.
+如果该协议的一部分有所违约，这并一定意味着整个合同的终止。&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+</content><link href="/archives/2020-02-09-01/" rel="alternate"/><published>2020-02-09T00:00:00+08:06</published></entry></feed>
