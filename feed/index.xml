@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>外贸启航站</title><link>/</link><description>外贸路上，愿我们都不再孤单。</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://cdn.jsdelivr.net/gh/mikamichael/Blog-With-GitHub-Boilerplate@gh-pages/logo.png</url><title>外贸启航站</title><link>/</link></image><language>zh-CN</language><lastBuildDate>Sun, 09 Feb 2020 05:29:07 +0806</lastBuildDate><pubDate>Sun, 09 Feb 2020 05:29:07 +0806</pubDate><item><title>商务英语之贸易使团（一）</title><link>/archives/2020-02-07-01/</link><description>&lt;p&gt;&lt;strong&gt; Let me introduce first. This is Mr. Smith, the CEO of our company.&lt;/strong&gt;&lt;/p&gt;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>外贸启航站</title><link>/</link><description>外贸路上，愿我们都不再孤单。</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://cdn.jsdelivr.net/gh/mikamichael/Blog-With-GitHub-Boilerplate@gh-pages/logo.png</url><title>外贸启航站</title><link>/</link></image><language>zh-CN</language><lastBuildDate>Sun, 09 Feb 2020 06:38:54 +0806</lastBuildDate><pubDate>Sun, 09 Feb 2020 06:38:54 +0806</pubDate><item><title>商务英语之贸易使团（一）</title><link>/archives/2020-02-07-01/</link><description>&lt;p&gt;&lt;strong&gt; Let me introduce first. This is Mr. Smith, the CEO of our company.&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt; 让我来介绍以下，这位是我们公司的总裁，史密斯先生。&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;p&gt;Nice to meet you. 
@@ -953,4 +953,151 @@ outlooks for cultural, political, religions.&lt;/p&gt;
 如果该协议的一部分有所违约，这并一定意味着整个合同的终止。&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
+&lt;h3&gt;一、The agreement is to be fully prepared 备好协议待签&lt;/h3&gt;
+&lt;p&gt;A: I'm here to sign the agreement.&lt;/p&gt;
+&lt;p&gt;A: 我来签署协议。&lt;/p&gt;
+&lt;p&gt;B: I'm sorry. The agreement hasn't been fully prepared. It will be ready by tomorrow.&lt;/p&gt;
+&lt;p&gt;B: 对不起，协议还没有完全准备号，请等到明天。&lt;/p&gt;
+&lt;p&gt;A: Can you speed it up and let us have it today?&lt;/p&gt;
+&lt;p&gt;A: 你能否加快一些，让我们今天拿到这个协议？&lt;/p&gt;
+&lt;p&gt;B: I'll try my best. Here is the draft. Would you please go over it and see if any modifications are needed?&lt;/p&gt;
+&lt;p&gt;B: 我一定尽力。这是协议的草稿。你先过目一下，看是否还有需要修改的内容，好吗？&lt;/p&gt;
+&lt;p&gt;A: Let me have a look, well, it contains basically all we have agreed upon.&lt;/p&gt;
+&lt;p&gt;A: 让我看一下。协议基本上包括了我们商定的全部内容。&lt;/p&gt;
+&lt;p&gt;B: How about the terms concerning packing.&lt;/p&gt;
+&lt;p&gt;B: 包装方面的规定还有什么需要修改的吗？&lt;/p&gt;
+&lt;p&gt;A: I don't think so.&lt;/p&gt;
+&lt;p&gt;A: 没有了。&lt;/p&gt;
+&lt;p&gt;B: If you totally agree. I'll type the agreement this evening and have it duplicated for signatures.&lt;/p&gt;
+&lt;p&gt;B: 如你完全同意，我今晚把协议打好，并复印出来以便签字。&lt;/p&gt;
+&lt;p&gt;A: That's fine.&lt;/p&gt;
+&lt;p&gt;A: 好的。&lt;/p&gt;
+&lt;h4&gt;生词&lt;/h4&gt;
+&lt;p&gt;modification 名词 更改，修改，修正&lt;/p&gt;
+&lt;p&gt;basically 形容词 基本的，主要的&lt;/p&gt;
+&lt;p&gt;packing 名词 包装，打包，装箱&lt;/p&gt;
+&lt;p&gt;duplicate 动词 复写，打印，复印&lt;/p&gt;
+&lt;h4&gt;固定用法&lt;/h4&gt;
+&lt;p&gt;speed up：加快速度&lt;/p&gt;
+&lt;p&gt;例如：We have sped up the production.（我们已经加快了生产速度。）&lt;/p&gt;
+&lt;p&gt;To have sth. duplicated：将······复印. To have sth done：让某人做某事&lt;/p&gt;
+&lt;p&gt;例如：We have the machine repaired.（我们请人把及其修好了。）&lt;/p&gt;
+&lt;h3&gt;二、Discuss the mode of payment 协商付款方式&lt;/h3&gt;
+&lt;p&gt;A: Mr. Wang, we haven't discussed the mode of payment.&lt;/p&gt;
+&lt;p&gt;A: 王先生，我们还没商讨付款的方式呢。&lt;/p&gt;
+&lt;p&gt;B: You know, Mr. Forster, this is a really large purchase. I'm afraid we can't pay off at one time.
+We have to pay by installment.&lt;/p&gt;
+&lt;p&gt;B: 福斯特先生，你知道这确实是一大笔购货，恐怕我们无法一次性将款项付款，只能分期付款。&lt;/p&gt;
+&lt;p&gt;A: Do you mean you prefer a deferred payment?&lt;/p&gt;
+&lt;p&gt;A: 你是说希望采取延期付款方式？&lt;/p&gt;
+&lt;p&gt;B: Yes, Mr Forster.&lt;/p&gt;
+&lt;p&gt;B: 是的，福斯特先生。&lt;/p&gt;
+&lt;p&gt;A: When do you start the payment then?&lt;/p&gt;
+&lt;p&gt;A: 那么你们什么时候开始付款呢？&lt;/p&gt;
+&lt;p&gt;B: We'll start our payment in half a year and the total amount will be paid off within 2 years by three installments.&lt;/p&gt;
+&lt;p&gt;B: 我么半年后开始付款，所有的款在两年内分三次付清。&lt;/p&gt;
+&lt;p&gt;A: We can accept that, but you have to pay the interest.&lt;/p&gt;
+&lt;p&gt;A: 我们可以接受这一付款方式。&lt;/p&gt;
+&lt;p&gt;B: All right.&lt;/p&gt;
+&lt;p&gt;B: 那好吧。&lt;/p&gt;
+&lt;p&gt;A: Shall we sign the agreement now?&lt;/p&gt;
+&lt;p&gt;A: 我们现在就签署合约好吗？&lt;/p&gt;
+&lt;p&gt;B: Ok, Let's sign it.&lt;/p&gt;
+&lt;p&gt;B: 好的，我们签署吧。&lt;/p&gt;
+&lt;h4&gt;生词&lt;/h4&gt;
+&lt;p&gt;purchase 动词 购买，买&lt;/p&gt;
+&lt;p&gt;installment 名词 就职，装设，分期付款&lt;/p&gt;
+&lt;p&gt;interest 名词 利息&lt;/p&gt;
+&lt;p&gt;deferred 形容词 延期的，缓召的&lt;/p&gt;
+&lt;h4&gt;固定用法&lt;/h4&gt;
+&lt;p&gt;pay of：还清（债务等）付清&lt;/p&gt;
+&lt;p&gt;例如：Next he understook to pay off the debts.（然后，他同意负责偿还债务。）&lt;/p&gt;
+&lt;p&gt;to pay by installment：分期付款&lt;/p&gt;
+&lt;p&gt;例如：He is paying for his car by monthly installment.（他以按月分期付款的方式支付他的购车款。）&lt;/p&gt;
+&lt;h3&gt;三、Draft and sign the agreement 拟定签署协议&lt;/h3&gt;
+&lt;p&gt;A: Good morning, Mr. Zhang. I wonder whether you have got an answer from your superior.&lt;/p&gt;
+&lt;p&gt;A: 张先生，早上好。我想知道你有没有得到上级的答复。&lt;/p&gt;
+&lt;p&gt;B: Yes. We had a meeting about it yesterday afternoon.&lt;/p&gt;
+&lt;p&gt;B: 得到了。我们昨天下午专门为此事开了个会。&lt;/p&gt;
+&lt;p&gt;A: What's the answer?&lt;/p&gt;
+&lt;p&gt;A: 结果如何？&lt;/p&gt;
+&lt;p&gt;B: We decided that we could agree to your price, but we are a bit worried about the slow delivery.&lt;/p&gt;
+&lt;p&gt;B: 我们认为可以接受你们的价格，但是我们有点担心你们的交货很慢。&lt;/p&gt;
+&lt;p&gt;A: Let me see. I quoted your delivery in three months, didn't I?&lt;/p&gt;
+&lt;p&gt;A: 我看看。我报给你们的交货时间是三个月，是吗？&lt;/p&gt;
+&lt;p&gt;B: Yes. But we hope that the wool could reach us as soon as possible.&lt;/p&gt;
+&lt;p&gt;B: 是的。但是我们希望羊毛越早到越好。&lt;/p&gt;
+&lt;p&gt;A: I thought you would be worried about it. So i rang Auckland last night. As you are our biggest customer,
+they agreed to ship the order on the first vessel available that will leave Auckland next month.&lt;/p&gt;
+&lt;p&gt;A: 我也料到你们会为此事担心，因此我昨天晚上给奥克兰打了个电话。由于你是我们的最大客户，他们同意将你订货装运
+第一艘下个月从奥克兰开出的船。&lt;/p&gt;
+&lt;p&gt;B: Good. If you agree we'll draft the agreement right away, and sign it then.&lt;/p&gt;
+&lt;p&gt;B: 那好，如你同意的话，我们便可以拟定协议，然后签订。&lt;/p&gt;
+&lt;p&gt;A: By all means.&lt;/p&gt;
+&lt;p&gt;A: 完全同意。&lt;/p&gt;
+&lt;h4&gt;生词&lt;/h4&gt;
+&lt;p&gt;superior 名词 上级，领导&lt;/p&gt;
+&lt;p&gt;quote 动词 报价，开价&lt;/p&gt;
+&lt;p&gt;vessel 名词 船，舰，飞船&lt;/p&gt;
+&lt;p&gt;available 形容词 可以得到的，可用的，有效的&lt;/p&gt;
+&lt;h4&gt;固定用法&lt;/h4&gt;
+&lt;p&gt;right away：立刻，马上&lt;/p&gt;
+&lt;p&gt;例如：Call the police right away.（我立刻报警）&lt;/p&gt;
+&lt;p&gt;by all means：尽一切办法，一定&lt;/p&gt;
+&lt;p&gt;例如：It should be publicized by all means.（应当通过各种途径宣传它。）&lt;/p&gt;
+&lt;h3&gt;四、Reduce the price and conclude a deal 降价以达成协议&lt;/h3&gt;
+&lt;p&gt;A: Mr. Smith, I'm wondering whether you have found a way of considering my offer.&lt;/p&gt;
+&lt;p&gt;A: 史密斯先生，我想知道你对我们的价格考虑好了吗？&lt;/p&gt;
+&lt;p&gt;B: I cartainly have the will, but I wonder if I've found the way&lt;/p&gt;
+&lt;p&gt;B: 我当然想考虑好，但却无法考虑好。&lt;/p&gt;
+&lt;p&gt;A: You see. I made what I considr to be a reasonable offer based upon the rise in production costs and the
+production costs and the continued fall in the exchange rate of Australian Dollar to U.S. Dollar.&lt;/p&gt;
+&lt;p&gt;A: 你知道，我的报价很合理的，现在生产成本在上涨，澳元与美金的比价在下降呢。&lt;/p&gt;
+&lt;p&gt;B: Let me say something about the falling Australian Dollar. We're both hurt by the rising U.S. Dollar.
+We will have to pay more Renminbi for U.S. Dollar to buy wool from you.&lt;/p&gt;
+&lt;p&gt;B: 澳元贬值的事我也想说说。我们双方都收到美元升值的影响。我也需要付出更多的人民币兑换美元从你那里购入
+羊毛。&lt;/p&gt;
+&lt;p&gt;A: I understand.&lt;/p&gt;
+&lt;p&gt;A: 我懂。&lt;/p&gt;
+&lt;p&gt;B: Do you? Then you can see that we have one wish, that is to conclude this transaction in a way that
+will staisfy both sides. What can you do to help?&lt;/p&gt;
+&lt;p&gt;B: 真的？那我们只有一个愿望，就是把这笔生意做的令双方满意。对此，你有什么举措？&lt;/p&gt;
+&lt;p&gt;A: I think the best way I can do is to reduce our price by 2% and I should think we could conclude a 
+deal at $98.&lt;/p&gt;
+&lt;p&gt;A: 我能做的就是降价2%。我想我们可以以￥98美元的价格达成交易。&lt;/p&gt;
+&lt;p&gt;B: All right. I accept this reduced offer at $98 per metric ton FOB stowed. The other terms and conditions
+shall remain the same as those in previous agreement. Now will you draft the agreement or shann I?&lt;/p&gt;
+&lt;p&gt;B: 好吧。我接受每吨98美元含理仓费的离岸价。其他条款应与前次协议保持一致。由你还是我们来拟定协议？&lt;/p&gt;
+&lt;p&gt;A: Your legal department is very good at these things. We can trust them with the drafting of the 
+agreement.&lt;/p&gt;
+&lt;p&gt;A: 你们法务部很擅长这个工作，就委托他们拟定吧。&lt;/p&gt;
+&lt;p&gt;B: OK. Then we 'll bring it over to you tomorrow morning. You'll sign it first, so it will only need
+my signature. Is that agreeable to you?&lt;/p&gt;
+&lt;p&gt;B: 好的。我们明天商务拿给你签字，接下来我签字，你同意吗？&lt;/p&gt;
+&lt;p&gt;A: Very agreeable, Mr. Smith。 It will only take me a minute to sign it and send it back to you.&lt;/p&gt;
+&lt;p&gt;A: 同意，史密斯先生。签字一会就能完成，然后交给你。&lt;/p&gt;
+&lt;p&gt;B: Good. Let's shake hands on this successful transation.&lt;/p&gt;
+&lt;p&gt;B: 那好。让我们握手祝这次生意的成功。&lt;/p&gt;
+&lt;h4&gt;生词&lt;/h4&gt;
+&lt;p&gt;transaction 名词 处理，执行，交易，事务&lt;/p&gt;
+&lt;p&gt;FOB stowed 含理仓费的离岸价&lt;/p&gt;
+&lt;p&gt;pervious 形容词 先前的，以前的&lt;/p&gt;
+&lt;p&gt;draft 动词 起草&lt;/p&gt;
+&lt;p&gt;shake hands 握手&lt;/p&gt;
+&lt;p&gt;Legal Department 法务部&lt;/p&gt;
+&lt;h3&gt;五、鲜活词汇&lt;/h3&gt;
+&lt;p&gt;concession 名词 让步，妥协，迁就，优惠&lt;/p&gt;
+&lt;p&gt;non-execution 名词 不执行，不履行&lt;/p&gt;
+&lt;p&gt;non-payment 名词 不支付，拒付&lt;/p&gt;
+&lt;p&gt;clause 名词 条款&lt;/p&gt;
+&lt;p&gt;breach 动词 破坏，违反，违背，不履行，侵犯&lt;/p&gt;
+&lt;p&gt;irrevocable 形容词 不可撤销的&lt;/p&gt;
+&lt;p&gt;confirmed 形容词 证实的&lt;/p&gt;
+&lt;p&gt;customary terms 惯例&lt;/p&gt;
+&lt;p&gt;invoice 名词 发票&lt;/p&gt;
+&lt;p&gt;vessel 名词 船&lt;/p&gt;
+&lt;p&gt;non-transferable 形容词 不可转让的&lt;/p&gt;
+&lt;p&gt;buyering agent 采购代理&lt;/p&gt;
+&lt;p&gt;detail 名词 明细&lt;/p&gt;
+&lt;p&gt;metric ton 公吨&lt;/p&gt;
 </description><author>359911923@qq.com (MIKA)</author><guid isPermaLink="true">/archives/2020-02-09-01/</guid><pubDate>Sun, 09 Feb 2020 00:00:00 +0806</pubDate></item></channel></rss>
