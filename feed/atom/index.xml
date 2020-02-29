@@ -1,61 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-CN"><id>/</id><title>外贸启航站</title><updated>2020-02-29T13:11:18.166748+08:06</updated><author><name>MIKA</name><email>359911923@qq.com</email></author><link href="/" rel="alternate"/><generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator><logo>https://cdn.jsdelivr.net/gh/mikamichael/Blog-With-GitHub-Boilerplate@gh-pages/logo.png</logo><subtitle>外贸路上，愿我们都不再孤单。</subtitle><entry><id>/archives/2020-02-09-04/</id><title>外贸怎么找客户</title><updated>2020-02-29T13:11:18.167141+00:00</updated><author><name>MIKA</name><email>359911923@qq.com</email><uri>https://www.wangxfei.com</uri></author><content>&lt;h3&gt;外贸如何找客户&lt;/h3&gt;
-&lt;h4&gt;建立自己的营销型外销网站&lt;/h4&gt;
-&lt;p&gt;从网络营销的角度来分析，网站的设计必须专业化和商业化。如果目标客户在进入企业网站30秒内，网站内容还没有引起他的注意并赢得他
-的信任。那么失去这个潜在客户的可能性高达80%。网站要赢得客户的信任，就要给客户这样的感觉：这个企业在现实中是一个实力很雄厚的
-公司，只是搬上了网络。如果客户在2分钟之内还没有找到客户的联系方式，那么失去这个客户的可能i选哪个高达70%。一个专业的外贸网站
-至少应该包括：公司简介、新产品信息、产品说明、证书展示、宣传公司服务、联系方式、手机用户反馈信息等内容。外贸网站更多的是
-用于在我们采用其他方式主动出击寻找客户。如：利用搜索营销或者发生外贸推广时，引导外贸客户通过浏览企业外贸网站进一步了解公司情况。&lt;/p&gt;
-&lt;h4&gt;通过B2B平台，如：阿里巴巴、环球资环、中国制造网&lt;/h4&gt;
-&lt;h4&gt;通过Google找客户&lt;/h4&gt;
-&lt;p&gt;通过Google找客户，适合哪些没有B2B平台，而且也不参加任何展会的公司及其在这些公司做外贸的企业。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;如果说B2B平台等待客户“被动等待”，那么Google搜索就是“主动出击”。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;在开始之前，应该有一个自己的外贸网站吧。那么你的网站被Google收录了没？如果被Google收录了，那么
-别人就可以通过Google找到你，查询的方法很简单，假如你的网站时www.wangxfei.com，那么你在Google
-输入site:wangxfei.com，然后点击搜索，如果提事你“You sarch-site:wangxfei.com-did not match
-any documents.”,那么你的网站还没有Google收录。反之，如果已经被Google收录，那么会得到所有Google
-索引到的你的网站的所有页面，并提示你“Result 42 about from wangxfei.com.(0.21seconds)”这样的信息。
-如果你刚刚做好网站。那么，你可以在&lt;a href="https://www.google.com/webmasters/tools/submit-url?hl=zh-CN&amp;amp;continue=/addurl"&gt;&lt;font color=red&gt;点击这里&lt;/font&gt;&lt;/a&gt;
-提交你公司网站的网址，以帮助Google尽快收录。&lt;/p&gt;
-&lt;p&gt;为什么说要首先提到公司网站呢？在网上，公司的网站就是公司的门面，采购商对网站的印象决定对公司的第一印象，因此大家一定
-要装修维护好。当然，这项工作并不是一个外贸人能搞定的，但是至少可以提醒你。让你找一个人完成这个工作。我想要说的是，一个
-好的公司网站对你公司的外贸业绩至关重要。而且，一个好的公司网站，可能还会为你免费带来客户。这里我们不进行详细述说什么是
-好网站。但是我像说的是：你的网站页面设计怎么样：是否简介、清晰、不繁琐。这是给网页访问者的第一印象；网页导航（产品分类，
-网页目录及网页布局等）是否明确；如果国外采购商还不容易找到你的公司网站，鼠标点了几十次，页面看了一个有一个，都找不到
-他需要的信息，这是不好的；你是否经常更新的你公司网站；你公司可能已经换了经营主类产品了，但是你的网站还是原先的产品，从而
-丧失了产品销售机会；你的网页是否又联系方式，或者你的联系方式太老了，公司搬家电话换了，邮箱也换了，结果人家联系不上你，那
-不是浪费资源么；你的网站被Google收录了，但是收录的质量怎么样，假如你的网页有几十页，但是只收了了几页，这不是做了无用功了么；
-当然，Google的搜索质量，取决于网页的质量本身，这就涉及到SEO了。在这里就略过吧......&lt;/p&gt;
-&lt;p&gt;以上说的废话，都是想告诉你公司网站的重要性。假如与你有B2B平台，也去参加展会。但是你仍然要不定期的维护自己的网站；如果既没有
-B2B付费平台，也不参加展会。那么，一定要做好自己的公司网站。或者有必要，专门做做SEO。&lt;/p&gt;
-&lt;p&gt;现在我们正式进入正题。Google是全球第一搜索引擎。全球每个国家，都有Google的分站，其搜索的网页数据量非常庞大，搜索的质量也
-特别高。如果我们打开Google的话，在不同的国家它会自动转到相应的国家分站，如果在日本的话，会转到www.google.co.jp.如果在印度的
-话，会转到www.google.co.in。如果我们想进主站的话，输入&lt;a href="https://www.google.com/ncr"&gt;www.google.com/ncr&lt;/a&gt;就可以直接进入主站了。
-这个一般是我们需要的。&lt;/p&gt;
-&lt;p&gt;很多人说用Google搜索不到有价值的信息。其实，很大程度上市因为自己的方式不对。前面文章&lt;a href="https://wangxfei.com/archives/2020-01-09-01/"&gt;&lt;font color=red&gt;《谷歌在外贸中的基本用法》&lt;/font&gt;&lt;/a&gt;
-中也有介绍。另外还有产品名词+空格+importer、产品名词+空格+buyer、产品名词+空格+seller、产品名词+空格+inquiry/enquiry来搜索，
-其中importer、buyer等词单数复数无所谓。如果你的产品名词包含多个单词，最好请加英文的银行，或者针对国家的市场。&lt;/p&gt;
-&lt;p&gt;搜索到和你产品有关的大量资料，剩下的工作。就需要逐一整理搜索结果。筛选出潜在的客户，可能得到的结果是邮箱、公司名词、电话等信息。
-这个需要详细的甄别和筛选。&lt;/p&gt;
-&lt;p&gt;另外我们也可以通过不同国家的分站进行搜索。不同的分站得到的搜索结果也可能不同。所以我们需要逐个尝试，然后甄别筛查。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt; 除了常规的搜索功能外，Google还有很多很实用的产品：&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt; Google Images &lt;a href="https://images.google.com"&gt;&lt;font color=red&gt;https://images.google.com&lt;/font&gt;&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;从名称就可以看出来，Google Images是搜索图片的。其实它也可以用在外贸领域里面使用。你可以在这里搜索到你需要的图片。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt; Google Advanced Search &lt;a href="https://www.google.com/advanced_search"&gt;&lt;font color=red&gt;https://www.google.com/advanced_search&lt;/font&gt;&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Google是有自己的语法的。Google Advanced Search可以帮助你寻找更好的关键词和语法来获得更多的搜索结果。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt; Google Trends &lt;a href="https://trends.google.com/trends/"&gt;&lt;font color=red&gt;https://trends.google.com/trends/&lt;/font&gt;&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Google趋势，可以查看某个关键词在某个地区的近一段时间的搜索状况，比如链接。比如关键词。通过此工具，可以根据之前的趋势
-针对该国家的特定市场。调整销售策略，提高成功率和针对性。&lt;/p&gt;
-&lt;h4&gt;B2B怎么找客户&lt;/h4&gt;
-&lt;p&gt;普通B2B网站上面的客户虽然大家不太重视，但是我认为还是有必要看看的。一个月之内发布的有有必要看看，找找trade lead。找到
-客户的公司名称，然后通过Google进行深度挖掘。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;建议：去注册&lt;a href="https://win.mofcom.gov.cn/"&gt;&lt;font color=red&gt;世界买家网&lt;/font&gt;&lt;/a&gt;注册成为正式会员，不花钱。而且是政府办的。&lt;/strong&gt;
-&lt;strong&gt;一个月可以看210条世界买家，上面的信息基本是最终用户。&lt;/strong&gt;&lt;/p&gt;
-&lt;h4&gt;黄页的使用&lt;/h4&gt;
-&lt;p&gt;黄页不要上面的链接，去找公司网址再找邮箱，虽然费时费力，但是可以减少退信。&lt;/p&gt;
-&lt;h4&gt;公司后缀搜索法&lt;/h4&gt;
-&lt;p&gt;把每个公司的后缀名放到Google搜索栏中，然后加上产品名称。也会出来很多公司的网址，然后通过网址找联系方式。&lt;/p&gt;
-</content><link href="/archives/2020-02-09-04/" rel="alternate"/><published>2020-02-09T00:00:00+08:06</published></entry><entry><id>/archives/2020-02-09-02/</id><title>外贸案例-外贸业务解惑500例（二）</title><updated>2020-02-29T13:11:18.167112+00:00</updated><author><name>MIKA</name><email>359911923@qq.com</email><uri>https://www.wangxfei.com</uri></author><content>&lt;h3&gt;疑惑一&lt;/h3&gt;
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-CN"><id>/</id><title>外贸启航站</title><updated>2020-02-29T15:22:58.917468+08:06</updated><author><name>MIKA</name><email>359911923@qq.com</email></author><link href="/" rel="alternate"/><generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator><logo>https://cdn.jsdelivr.net/gh/mikamichael/Blog-With-GitHub-Boilerplate@gh-pages/logo.png</logo><subtitle>外贸路上，愿我们都不再孤单。</subtitle><entry><id>/archives/2020-02-09-02/</id><title>外贸案例-外贸业务解惑500例（二）</title><updated>2020-02-29T15:22:58.917722+00:00</updated><author><name>MIKA</name><email>359911923@qq.com</email><uri>https://www.wangxfei.com</uri></author><content>&lt;h3&gt;疑惑一&lt;/h3&gt;
 &lt;p&gt;某出口公司收到一份10万美元的信用证，但已经出口了9.5万美元的货物，该公司不打算
 再出货了，要不要通知开证行撤销余额？&lt;/p&gt;
 &lt;h4&gt;解惑&lt;/h4&gt;
@@ -103,7 +47,7 @@ CERTIFICATE OF SHIPMENT WITH OTHER SHIPPING DOCUMENTS OF 8 PRODUCTION SAMPLES“
 &lt;h4&gt;解惑&lt;/h4&gt;
 &lt;p&gt;是。这样的条款对受益人非常不利，如果不付给开证行这笔款，信用证就等于无效。因此，对于这样的条款。必须让
 开证人改证取消，否则，既不能马上备货，又损失一笔资金。&lt;/p&gt;
-</content><link href="/archives/2020-02-09-02/" rel="alternate"/><published>2020-02-09T00:00:00+08:06</published></entry><entry><id>/archives/2020-02-09-03/</id><title>信用证</title><updated>2020-02-29T13:11:18.167083+00:00</updated><author><name>MIKA</name><email>359911923@qq.com</email><uri>https://www.wangxfei.com</uri></author><content>&lt;p&gt;信用证（LETTER OF CREDIT，简称L/C）是买方根据销售合同想开证银行提出申请，由开证银行开立的以卖方受益人的
+</content><link href="/archives/2020-02-09-02/" rel="alternate"/><published>2020-02-09T00:00:00+08:06</published></entry><entry><id>/archives/2020-02-09-03/</id><title>信用证</title><updated>2020-02-29T15:22:58.917703+00:00</updated><author><name>MIKA</name><email>359911923@qq.com</email><uri>https://www.wangxfei.com</uri></author><content>&lt;p&gt;信用证（LETTER OF CREDIT，简称L/C）是买方根据销售合同想开证银行提出申请，由开证银行开立的以卖方受益人的
 并独立于买卖合同意外的承诺付款的文件。在当前国际贸易中以信用证未付款方式的贸易总额达70%左右。在信用证
 贸易下，国际商会特地为信用证天凉快的合法办法了《跟单信用证统一惯例》国际第500号出版物-UPC500条款，2002年
 年第又为银行工作人员颁布了《关于审核跟单信用证项下单据的国际标准银行实务》，即INTERNATIONAL STANDARD
@@ -147,7 +91,7 @@ BANKING PRACTICE FOR THE EXAMINATION OF DOCUMENTS UNDER DOCUMENTARY CREDITS（�
 申请人（简称申请人）大部分是买卖合同中的买方。受益人大部分是买卖合同中的卖方。开证行指开立信用证的银行，
 大部分与申请人在同一个国家。（信用证）通知行有时也同时是交单行、议付行，大部分与受益人在同一个国家，
 付款行往往是开证行，一般与买方在同一个国家。&lt;/p&gt;
-</content><link href="/archives/2020-02-09-03/" rel="alternate"/><published>2020-02-09T00:00:00+08:06</published></entry><entry><id>/archives/2020-02-09-01/</id><title>商务英语之签署协议</title><updated>2020-02-29T13:11:18.167055+00:00</updated><author><name>MIKA</name><email>359911923@qq.com</email><uri>https://www.wangxfei.com</uri></author><content>&lt;p&gt;&lt;strong&gt; Shall we sign the agreement now?&lt;/strong&gt;&lt;/p&gt;
+</content><link href="/archives/2020-02-09-03/" rel="alternate"/><published>2020-02-09T00:00:00+08:06</published></entry><entry><id>/archives/2020-02-09-01/</id><title>商务英语之签署协议</title><updated>2020-02-29T15:22:58.917684+00:00</updated><author><name>MIKA</name><email>359911923@qq.com</email><uri>https://www.wangxfei.com</uri></author><content>&lt;p&gt;&lt;strong&gt; Shall we sign the agreement now?&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt; 我们现在签订协议好吗？&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;p&gt;Ok, the agreement is ready for signature.
@@ -369,7 +313,7 @@ my signature. Is that agreeable to you?&lt;/p&gt;
 &lt;p&gt;buyering agent 采购代理&lt;/p&gt;
 &lt;p&gt;detail 名词 明细&lt;/p&gt;
 &lt;p&gt;metric ton 公吨&lt;/p&gt;
-</content><link href="/archives/2020-02-09-01/" rel="alternate"/><published>2020-02-09T00:00:00+08:06</published></entry><entry><id>/archives/2020-02-27-01/</id><title>市场调查之俄罗斯（五）</title><updated>2020-02-29T13:11:18.167027+00:00</updated><author><name>MIKA</name><email>359911923@qq.com</email><uri>https://www.wangxfei.com</uri></author><content>&lt;h4&gt;市场特点&lt;/h4&gt;
+</content><link href="/archives/2020-02-09-01/" rel="alternate"/><published>2020-02-09T00:00:00+08:06</published></entry><entry><id>/archives/2020-02-27-01/</id><title>市场调查之俄罗斯（五）</title><updated>2020-02-29T15:22:58.917664+00:00</updated><author><name>MIKA</name><email>359911923@qq.com</email><uri>https://www.wangxfei.com</uri></author><content>&lt;h4&gt;市场特点&lt;/h4&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;p&gt;在“一超多强”的国际体系钟，俄罗斯是有较大影响力的强国，其军工实力雄厚&lt;/p&gt;
 &lt;/li&gt;
@@ -533,7 +477,7 @@ my signature. Is that agreeable to you?&lt;/p&gt;
 &lt;li&gt;&lt;p&gt;光电仪器税率为5%-13%&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
-</content><link href="/archives/2020-02-27-01/" rel="alternate"/><published>2020-02-27T00:00:00+08:06</published></entry><entry><id>/archives/2020-02-27-02/</id><title>外贸人员国外参展或拜访客户前的重要事项检查清单</title><updated>2020-02-29T13:11:18.166998+00:00</updated><author><name>MIKA</name><email>359911923@qq.com</email><uri>https://www.wangxfei.com</uri></author><content>&lt;p&gt;对于需要到国外出差的外贸人员，无论是经常出差还是偶尔出差，无论是参加展会、拜访客户或者是个人
+</content><link href="/archives/2020-02-27-01/" rel="alternate"/><published>2020-02-27T00:00:00+08:06</published></entry><entry><id>/archives/2020-02-27-02/</id><title>外贸人员国外参展或拜访客户前的重要事项检查清单</title><updated>2020-02-29T15:22:58.917646+00:00</updated><author><name>MIKA</name><email>359911923@qq.com</email><uri>https://www.wangxfei.com</uri></author><content>&lt;p&gt;对于需要到国外出差的外贸人员，无论是经常出差还是偶尔出差，无论是参加展会、拜访客户或者是个人
 旅行，一份出行钱重要事项的清单可以有效帮你避免慌乱与遗忘，更重要的是你可以在以下清单的
 基础商，根据自己的实际情况与经验不断更新完善出一份更适合自己的清单，从而让自己以后的每一次
 出行都变得更加高效、简单。&lt;/p&gt;
@@ -614,7 +558,7 @@ my signature. Is that agreeable to you?&lt;/p&gt;
 &lt;li&gt;查询活资讯是否需要接种疫苗或做好相关防疫准备&lt;/li&gt;
 &lt;li&gt;提前取消或妥善安排快递投送和其他日常预定&lt;/li&gt;
 &lt;/ul&gt;
-</content><link href="/archives/2020-02-27-02/" rel="alternate"/><published>2020-02-27T00:00:00+08:06</published></entry><entry><id>/archives/2020-02-28-01/</id><title>市场调查之越南（五）</title><updated>2020-02-29T13:11:18.166967+00:00</updated><author><name>MIKA</name><email>359911923@qq.com</email><uri>https://www.wangxfei.com</uri></author><content>&lt;h3&gt;市场特点&lt;/h3&gt;
+</content><link href="/archives/2020-02-27-02/" rel="alternate"/><published>2020-02-27T00:00:00+08:06</published></entry><entry><id>/archives/2020-02-28-01/</id><title>市场调查之越南（五）</title><updated>2020-02-29T15:22:58.917627+00:00</updated><author><name>MIKA</name><email>359911923@qq.com</email><uri>https://www.wangxfei.com</uri></author><content>&lt;h3&gt;市场特点&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;p&gt;政局稳定，注重经济建设，近年来经济发展较快&lt;/p&gt;
 &lt;/li&gt;
@@ -781,7 +725,43 @@ my signature. Is that agreeable to you?&lt;/p&gt;
 叫嚷；忌讳用脚指物，或把脚掌对向别人&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
-</content><link href="/archives/2020-02-28-01/" rel="alternate"/><published>2020-02-28T00:00:00+08:06</published></entry><entry><id>/archives/2020-02-29-03/</id><title>2020年三月节日</title><updated>2020-02-29T13:11:18.166936+00:00</updated><author><name>MIKA</name><email>359911923@qq.com</email><uri>https://www.wangxfei.com</uri></author><content>&lt;p&gt;&lt;figure&gt;&lt;img data-width="1092" data-height="662" src="https://cdn.jsdelivr.net/gh/mikamichael/Blog-With-GitHub-Boilerplate@gh-pages/archives/assets/566a541fd266cc1930869a28b3761d63.png" alt="三月节日" /&gt;&lt;figcaption&gt;三月节日&lt;/figcaption&gt;&lt;/figure&gt;&lt;/p&gt;
+</content><link href="/archives/2020-02-28-01/" rel="alternate"/><published>2020-02-28T00:00:00+08:06</published></entry><entry><id>/archives/2020-02-29-04/</id><title>外贸工具汇总</title><updated>2020-02-29T15:22:58.917607+00:00</updated><author><name>MIKA</name><email>359911923@qq.com</email><uri>https://www.wangxfei.com</uri></author><content>&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href="http://www.hs-bianma.com/"&gt;海关编码查询&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href="http://hd.chinatax.gov.cn/nszx/InitChukou.html"&gt;出口退税查询&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href="http://wmsw.mofcom.gov.cn/wmsw/#"&gt;监管条件查询&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href="https://translate.google.com/"&gt;在线翻译工具&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;[度量制式转换])(&lt;a href="http://www.chinadaily.com.cn/static/tools/exchange.html"&gt;http://www.chinadaily.com.cn/static/tools/exchange.html&lt;/a&gt;)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href="https://www.uupoop.com/"&gt;在线PS&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href="http://www.mofcom.gov.cn/dl/gbdqzn/upload/hanguo.pdf"&gt;韩国基本国情&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href="https://www.alexa.com/topsites"&gt;全球网站排名查询&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href="https://www.alexa.com/find-similar-sites"&gt;相似网站查询&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href="https://www.xe.com/currencycharts/"&gt;各国汇率走势查询&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href="https://www.countrycode.org/"&gt;国家代码查询&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href="http://ccn.mofcom.gov.cn/"&gt;中国商品网&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href="http://202.127.48.148/zscq/search/jsp/vBrandSearchIndex.jsp#"&gt;知识产权备案查询&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href="http://fta.mofcom.gov.cn/"&gt;自贸协定查询&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href="http://www.customs.gov.cn/customs/302249/302266/302267/index.html"&gt;海关总署政策公告&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href="http://www.mofcom.gov.cn/article/b/"&gt;商务部政策公告&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href="http://www.safe.gov.cn/safe/zcfg/index.html"&gt;国家外汇管理局公告&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+</content><link href="/archives/2020-02-29-04/" rel="alternate"/><published>2020-02-29T00:00:00+08:06</published></entry><entry><id>/archives/2020-02-29-03/</id><title>2020年三月节日</title><updated>2020-02-29T15:22:58.917586+00:00</updated><author><name>MIKA</name><email>359911923@qq.com</email><uri>https://www.wangxfei.com</uri></author><content>&lt;p&gt;&lt;figure&gt;&lt;img data-width="1092" data-height="662" src="https://cdn.jsdelivr.net/gh/mikamichael/Blog-With-GitHub-Boilerplate@gh-pages/archives/assets/566a541fd266cc1930869a28b3761d63.png" alt="三月节日" /&gt;&lt;figcaption&gt;三月节日&lt;/figcaption&gt;&lt;/figure&gt;&lt;/p&gt;
 &lt;h4&gt;3月1日&lt;br&gt; 韩国·独立日&lt;/h4&gt;
 &lt;p&gt;韩国三一节，又叫独立日，是韩国法定节假日。全国放假一天&lt;/p&gt;
 &lt;h4&gt;3月3日&lt;br&gt; 日本·女儿节&lt;/h4&gt;
@@ -819,7 +799,7 @@ my signature. Is that agreeable to you?&lt;/p&gt;
 港电台，宣布东孟加拉脱离巴基斯坦而独立，成立孟加拉国临时政府&lt;/p&gt;
 &lt;p&gt;独立后政府将此日定为国庆节及独立节。这天全国都举行隆重的庆祝活动&lt;/p&gt;
 &lt;p&gt;&lt;font color=#DCDCDC size=1&gt;（PS: 本文由外跨研究中心综合整理，转载请务必标明出处。）&lt;/font&gt;&lt;/p&gt;
-</content><link href="/archives/2020-02-29-03/" rel="alternate"/><published>2020-02-29T00:00:00+08:06</published></entry><entry><id>/archives/2020-02-29-01/</id><title>市场调查之印度（一）</title><updated>2020-02-29T13:11:18.166900+00:00</updated><author><name>MIKA</name><email>359911923@qq.com</email><uri>https://www.wangxfei.com</uri></author><content>&lt;p&gt;&lt;figure&gt;&lt;img data-width="2370" data-height="2370" src="https://cdn.jsdelivr.net/gh/mikamichael/Blog-With-GitHub-Boilerplate@gh-pages/archives/assets/651d037f1cc57fa2bd543d150f5baf69.png" alt="印度" /&gt;&lt;figcaption&gt;印度&lt;/figcaption&gt;&lt;/figure&gt;&lt;/p&gt;
+</content><link href="/archives/2020-02-29-03/" rel="alternate"/><published>2020-02-29T00:00:00+08:06</published></entry><entry><id>/archives/2020-02-29-01/</id><title>市场调查之印度（一）</title><updated>2020-02-29T15:22:58.917563+00:00</updated><author><name>MIKA</name><email>359911923@qq.com</email><uri>https://www.wangxfei.com</uri></author><content>&lt;p&gt;&lt;figure&gt;&lt;img data-width="2370" data-height="2370" src="https://cdn.jsdelivr.net/gh/mikamichael/Blog-With-GitHub-Boilerplate@gh-pages/archives/assets/651d037f1cc57fa2bd543d150f5baf69.png" alt="印度" /&gt;&lt;figcaption&gt;印度&lt;/figcaption&gt;&lt;/figure&gt;&lt;/p&gt;
 &lt;h3&gt;基本概述&lt;/h3&gt;
 &lt;h4&gt;简介&lt;/h4&gt;
 &lt;p&gt;印度共和国，英语：Republic of India，统称印度（India)。位于南亚，是南亚次大陆最大的国家，也是一个由100多个民族
@@ -982,7 +962,7 @@ my signature. Is that agreeable to you?&lt;/p&gt;
 &lt;p&gt;印度的个人所得税税率为35.88%&lt;/p&gt;
 &lt;p&gt;从2004年到2018年，印度的个人所得税平均税率为32.05%，2018年达到35.88%的历史最高水平&lt;/p&gt;
 &lt;p&gt;&lt;font color=#DCDCDC size=1&gt;（PS:  本文部分数据参考商务部、tradingeconomics等，由外跨研究中心综合整理，转载请务必标明出处。）&lt;/font&gt;&lt;/p&gt;
-</content><link href="/archives/2020-02-29-01/" rel="alternate"/><published>2020-02-29T00:00:00+08:06</published></entry><entry><id>/archives/2020-02-29-02/</id><title>如何低成本建立公司网站</title><updated>2020-02-29T13:11:18.166834+00:00</updated><author><name>MIKA</name><email>359911923@qq.com</email><uri>https://www.wangxfei.com</uri></author><content>&lt;p&gt;建立一个公司网站，需要哪些条件呢？&lt;/p&gt;
+</content><link href="/archives/2020-02-29-01/" rel="alternate"/><published>2020-02-29T00:00:00+08:06</published></entry><entry><id>/archives/2020-02-29-02/</id><title>如何低成本建立公司网站</title><updated>2020-02-29T15:22:58.917522+00:00</updated><author><name>MIKA</name><email>359911923@qq.com</email><uri>https://www.wangxfei.com</uri></author><content>&lt;p&gt;建立一个公司网站，需要哪些条件呢？&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;p&gt;虚拟主机或者服务器VPS&lt;/p&gt;
 &lt;/li&gt;
