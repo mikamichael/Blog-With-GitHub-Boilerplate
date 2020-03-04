@@ -1,271 +1,190 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-CN"><id>/</id><title>外贸启航站</title><updated>2020-03-01T03:21:24.067444+08:06</updated><author><name>MIKA</name><email>359911923@qq.com</email></author><link href="/" rel="alternate"/><generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator><logo>https://cdn.jsdelivr.net/gh/mikamichael/Blog-With-GitHub-Boilerplate@gh-pages/logo.png</logo><subtitle>外贸路上，愿我们都不再孤单。</subtitle><entry><id>/archives/2020-02-09-03/</id><title>信用证</title><updated>2020-03-01T03:21:24.067839+00:00</updated><author><name>MIKA</name><email>359911923@qq.com</email><uri>https://www.wangxfei.com</uri></author><content>&lt;p&gt;信用证（LETTER OF CREDIT，简称L/C）是买方根据销售合同想开证银行提出申请，由开证银行开立的以卖方受益人的
-并独立于买卖合同意外的承诺付款的文件。在当前国际贸易中以信用证未付款方式的贸易总额达70%左右。在信用证
-贸易下，国际商会特地为信用证天凉快的合法办法了《跟单信用证统一惯例》国际第500号出版物-UPC500条款，2002年
-年第又为银行工作人员颁布了《关于审核跟单信用证项下单据的国际标准银行实务》，即INTERNATIONAL STANDARD
-BANKING PRACTICE FOR THE EXAMINATION OF DOCUMENTS UNDER DOCUMENTARY CREDITS（简称ISBP），其目的是正确
-理解和使用UCP500，统一和规范信用证单据的审核实务，减少不必要的争议。&lt;/p&gt;
-&lt;p&gt;在所有国际贸易专业的大学教程里，教师们都会把信用证作为授课的重点。同时，信用证项下严格要求“单证一致，单单一致”，
-牵涉的单据种类繁多，业务人员对于信用证项下的单据把握存在一定的难度。信用证本身也会出现问题，而且，有些
-不法商人利用信用证的特点有意制造“单证和单单”不能一致，或者在信用证中制造“软条款”。这就要求我们业务人员
-具备一定的识别能力，并能操作信用证项下的各项业务。&lt;/p&gt;
-&lt;p&gt;首先，我们要了解信用证的种类，信用证的种类很多，大致分为：&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-CN"><id>/</id><title>外贸启航站</title><updated>2020-03-04T04:59:41.093754+08:06</updated><author><name>MIKA</name><email>359911923@qq.com</email></author><link href="/" rel="alternate"/><generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator><logo>https://cdn.jsdelivr.net/gh/mikamichael/Blog-With-GitHub-Boilerplate@gh-pages/logo.png</logo><subtitle>外贸路上，愿我们都不再孤单。</subtitle><entry><id>/archives/2020-02-09-04/</id><title>外贸怎么找客户</title><updated>2020-03-04T04:59:41.094153+00:00</updated><author><name>MIKA</name><email>359911923@qq.com</email><uri>https://www.wangxfei.com</uri></author><content>&lt;h3&gt;外贸如何找客户&lt;/h3&gt;
+&lt;h4&gt;建立自己的营销型外销网站&lt;/h4&gt;
+&lt;p&gt;从网络营销的角度来分析，网站的设计必须专业化和商业化。如果目标客户在进入企业网站30秒内，网站内容还没有引起他的注意并赢得他
+的信任。那么失去这个潜在客户的可能性高达80%。网站要赢得客户的信任，就要给客户这样的感觉：这个企业在现实中是一个实力很雄厚的
+公司，只是搬上了网络。如果客户在2分钟之内还没有找到客户的联系方式，那么失去这个客户的可能i选哪个高达70%。一个专业的外贸网站
+至少应该包括：公司简介、新产品信息、产品说明、证书展示、宣传公司服务、联系方式、手机用户反馈信息等内容。外贸网站更多的是
+用于在我们采用其他方式主动出击寻找客户。如：利用搜索营销或者发生外贸推广时，引导外贸客户通过浏览企业外贸网站进一步了解公司情况。&lt;/p&gt;
+&lt;h4&gt;通过B2B平台，如：阿里巴巴、环球资环、中国制造网&lt;/h4&gt;
+&lt;h4&gt;通过Google找客户&lt;/h4&gt;
+&lt;p&gt;通过Google找客户，适合哪些没有B2B平台，而且也不参加任何展会的公司及其在这些公司做外贸的企业。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;如果说B2B平台等待客户“被动等待”，那么Google搜索就是“主动出击”。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;在开始之前，应该有一个自己的外贸网站吧。那么你的网站被Google收录了没？如果被Google收录了，那么
+别人就可以通过Google找到你，查询的方法很简单，假如你的网站时www.wangxfei.com，那么你在Google
+输入site:wangxfei.com，然后点击搜索，如果提事你“You sarch-site:wangxfei.com-did not match
+any documents.”,那么你的网站还没有Google收录。反之，如果已经被Google收录，那么会得到所有Google
+索引到的你的网站的所有页面，并提示你“Result 42 about from wangxfei.com.(0.21seconds)”这样的信息。
+如果你刚刚做好网站。那么，你可以在&lt;a href="https://www.google.com/webmasters/tools/submit-url?hl=zh-CN&amp;amp;continue=/addurl"&gt;&lt;font color=red&gt;点击这里&lt;/font&gt;&lt;/a&gt;
+提交你公司网站的网址，以帮助Google尽快收录。&lt;/p&gt;
+&lt;p&gt;为什么说要首先提到公司网站呢？在网上，公司的网站就是公司的门面，采购商对网站的印象决定对公司的第一印象，因此大家一定
+要装修维护好。当然，这项工作并不是一个外贸人能搞定的，但是至少可以提醒你。让你找一个人完成这个工作。我想要说的是，一个
+好的公司网站对你公司的外贸业绩至关重要。而且，一个好的公司网站，可能还会为你免费带来客户。这里我们不进行详细述说什么是
+好网站。但是我像说的是：你的网站页面设计怎么样：是否简介、清晰、不繁琐。这是给网页访问者的第一印象；网页导航（产品分类，
+网页目录及网页布局等）是否明确；如果国外采购商还不容易找到你的公司网站，鼠标点了几十次，页面看了一个有一个，都找不到
+他需要的信息，这是不好的；你是否经常更新的你公司网站；你公司可能已经换了经营主类产品了，但是你的网站还是原先的产品，从而
+丧失了产品销售机会；你的网页是否又联系方式，或者你的联系方式太老了，公司搬家电话换了，邮箱也换了，结果人家联系不上你，那
+不是浪费资源么；你的网站被Google收录了，但是收录的质量怎么样，假如你的网页有几十页，但是只收了了几页，这不是做了无用功了么；
+当然，Google的搜索质量，取决于网页的质量本身，这就涉及到SEO了。在这里就略过吧......&lt;/p&gt;
+&lt;p&gt;以上说的废话，都是想告诉你公司网站的重要性。假如与你有B2B平台，也去参加展会。但是你仍然要不定期的维护自己的网站；如果既没有
+B2B付费平台，也不参加展会。那么，一定要做好自己的公司网站。或者有必要，专门做做SEO。&lt;/p&gt;
+&lt;p&gt;现在我们正式进入正题。Google是全球第一搜索引擎。全球每个国家，都有Google的分站，其搜索的网页数据量非常庞大，搜索的质量也
+特别高。如果我们打开Google的话，在不同的国家它会自动转到相应的国家分站，如果在日本的话，会转到www.google.co.jp.如果在印度的
+话，会转到www.google.co.in。如果我们想进主站的话，输入&lt;a href="https://www.google.com/ncr"&gt;www.google.com/ncr&lt;/a&gt;就可以直接进入主站了。
+这个一般是我们需要的。&lt;/p&gt;
+&lt;p&gt;很多人说用Google搜索不到有价值的信息。其实，很大程度上市因为自己的方式不对。前面文章&lt;a href="https://wangxfei.com/archives/2020-01-09-01/"&gt;&lt;font color=red&gt;《谷歌在外贸中的基本用法》&lt;/font&gt;&lt;/a&gt;
+中也有介绍。另外还有产品名词+空格+importer、产品名词+空格+buyer、产品名词+空格+seller、产品名词+空格+inquiry/enquiry来搜索，
+其中importer、buyer等词单数复数无所谓。如果你的产品名词包含多个单词，最好请加英文的银行，或者针对国家的市场。&lt;/p&gt;
+&lt;p&gt;搜索到和你产品有关的大量资料，剩下的工作。就需要逐一整理搜索结果。筛选出潜在的客户，可能得到的结果是邮箱、公司名词、电话等信息。
+这个需要详细的甄别和筛选。&lt;/p&gt;
+&lt;p&gt;另外我们也可以通过不同国家的分站进行搜索。不同的分站得到的搜索结果也可能不同。所以我们需要逐个尝试，然后甄别筛查。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt; 除了常规的搜索功能外，Google还有很多很实用的产品：&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt; Google Images &lt;a href="https://images.google.com"&gt;&lt;font color=red&gt;https://images.google.com&lt;/font&gt;&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;从名称就可以看出来，Google Images是搜索图片的。其实它也可以用在外贸领域里面使用。你可以在这里搜索到你需要的图片。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt; Google Advanced Search &lt;a href="https://www.google.com/advanced_search"&gt;&lt;font color=red&gt;https://www.google.com/advanced_search&lt;/font&gt;&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Google是有自己的语法的。Google Advanced Search可以帮助你寻找更好的关键词和语法来获得更多的搜索结果。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt; Google Trends &lt;a href="https://trends.google.com/trends/"&gt;&lt;font color=red&gt;https://trends.google.com/trends/&lt;/font&gt;&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Google趋势，可以查看某个关键词在某个地区的近一段时间的搜索状况，比如链接。比如关键词。通过此工具，可以根据之前的趋势
+针对该国家的特定市场。调整销售策略，提高成功率和针对性。&lt;/p&gt;
+&lt;h4&gt;B2B怎么找客户&lt;/h4&gt;
+&lt;p&gt;普通B2B网站上面的客户虽然大家不太重视，但是我认为还是有必要看看的。一个月之内发布的有有必要看看，找找trade lead。找到
+客户的公司名称，然后通过Google进行深度挖掘。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;建议：去注册&lt;a href="https://win.mofcom.gov.cn/"&gt;&lt;font color=red&gt;世界买家网&lt;/font&gt;&lt;/a&gt;注册成为正式会员，不花钱。而且是政府办的。&lt;/strong&gt;
+&lt;strong&gt;一个月可以看210条世界买家，上面的信息基本是最终用户。&lt;/strong&gt;&lt;/p&gt;
+&lt;h4&gt;黄页的使用&lt;/h4&gt;
+&lt;p&gt;黄页不要上面的链接，去找公司网址再找邮箱，虽然费时费力，但是可以减少退信。&lt;/p&gt;
+&lt;h4&gt;公司后缀搜索法&lt;/h4&gt;
+&lt;p&gt;把每个公司的后缀名放到Google搜索栏中，然后加上产品名称。也会出来很多公司的网址，然后通过网址找联系方式。&lt;/p&gt;
+</content><link href="/archives/2020-02-09-04/" rel="alternate"/><published>2020-02-09T00:00:00+08:06</published></entry><entry><id>/archives/2020-02-09-02/</id><title>外贸案例-外贸业务解惑500例（二）</title><updated>2020-03-04T04:59:41.094125+00:00</updated><author><name>MIKA</name><email>359911923@qq.com</email><uri>https://www.wangxfei.com</uri></author><content>&lt;h3&gt;疑惑一&lt;/h3&gt;
+&lt;p&gt;某出口公司收到一份10万美元的信用证，但已经出口了9.5万美元的货物，该公司不打算
+再出货了，要不要通知开证行撤销余额？&lt;/p&gt;
+&lt;h4&gt;解惑&lt;/h4&gt;
+&lt;p&gt;如果信用证有“允许分装”的条款，就不必撤销。如果剩余的金额较大，占用了进口商在银行大量信用额度，出口
+公司则可通过通知银行电告开证将该信用证月撤销。这主要看买方的需求。&lt;/p&gt;
+&lt;h3&gt;疑惑二&lt;/h3&gt;
+&lt;p&gt;某出口公司不久前收到一位客户开来的信用证，信用证里有下列条款，如“THIS L/C WILL ONLY BE AVAILABLE AFTER
+RECEIPT FROM OUR PRINCIIPAL OF INSTRUCTION”，“THIS L/C IS NOT OPERATIVE UNTIL WE ARE ADVISED”，“THIS L/C
+IS INSPIRED PENDING RECEIPT OF AMENDMENT”，这是不是属于软条款呢？&lt;/p&gt;
+&lt;h4&gt;解惑&lt;/h4&gt;
+&lt;p&gt;是软条款。这种信用证未能生效，主动权掌握在开证人手里。严格来说，信用证里有软条款，受益人的利益就得不到保证。
+上述信用证里第一句是说，本信用证只有在收到我行委托人的指示后才可生效。第二局是说，我行接到通知后本信用证
+才能生效。第三局是说，本信用证只有收到修改后才能有效。因此，出口商一定要开证人修改取消上述类似的条款方
+可出运。否则，这种信用证只是一种商业信用，等于托收。&lt;/p&gt;
+&lt;h3&gt;疑惑三&lt;/h3&gt;
+&lt;p&gt;某信用证里有这样一句话：“THIS CREDIT WILL BECOME OPERATIVE ONLY AFTER THE APPLICANT'S RECEIPT OF THE 
+REQUESTED IMPORT LICENCE RELEASED BY OUR MINISTERIAL AUTHORITIES”，是不是也属于软条款呢？&lt;/p&gt;
+&lt;h3&gt;解惑&lt;/h3&gt;
+&lt;p&gt;是的。这个信用证也不能生效。上述意思是：只有等到开证人领到他们部级机构颁发的进口许可证，该信用证方可生效。
+这对受益人非常不利。因为许可证仍未办好，出口商岂不是收汇无望？因此，类似这样的信用证条款，出口商一定在出货
+前要求开证人修改删除，否则，肯定有后患。&lt;/p&gt;
+&lt;h3&gt;疑惑四&lt;/h3&gt;
+&lt;p&gt;”THIS CREDIT ONLY AVAILABLE AFTER RECEIPT BY YOU OF OUR ADVICE THAT OUR PRINCIPAL HAVE RECEIVED AND ACCEPTD
+THE REQUIRE FINAL L/C AMOUNTING TO 10% OF VALUE OF CREDIT AMOUNT ISSUED BY A FIRST CLASS BANK OF YOUR END
+COUNTERSIGNED BY US OR BY OUR AUTHORIZED BANK“，这一段文字出现在信用证里是不是也属于软条款。&lt;/p&gt;
+&lt;h4&gt;解惑&lt;/h4&gt;
+&lt;p&gt;是的。这句话的意思是：”本信用证只有在贵行收到我行发出通知后才能生效，通知内容是我客户已收到并接受一流银行
+开来的相当于本信用证金额10%的最终保函，该保函必须由我行和我行授权的另一家银行会签。“&lt;/p&gt;
+&lt;p&gt;这是进口商为了使自己的利益不受损害，要求开证行加列的反担保条款。出口地银行为出口商履约提供对应于信用证的
+反担保函，以换取开证行的付款承诺，一旦出口哦公司有违约行为，担保银行将按照反担保函中相关条款，对进口商作出
+赔偿。这种反担保形式和其他担保一样，是一种法律行为。如果出口商没有达成一些，进口商将上述软条款硬加入信用证，
+出口商有权要求进口商在发货以前改证，将上述条款取消。&lt;/p&gt;
+&lt;h3&gt;疑惑五&lt;/h3&gt;
+&lt;p&gt;开证申请人在信用证里规定，只有在开证申请人收到受益人寄出的样品，得到开证申请人确认可以发货并提供开证人可以
+发货的确认函以后，该信用证方才有效。原文是这样写的：”L/C WILL BECOME OPERATIONAL UPON BUYER'S APPROVAL 
+CERTIFICATE OF SHIPMENT WITH OTHER SHIPPING DOCUMENTS OF 8 PRODUCTION SAMPLES“，这样的条款是否也算软条款？&lt;/p&gt;
+&lt;h4&gt;解惑&lt;/h4&gt;
+&lt;p&gt;是的，上述英文意思是”只有当买方对每个货号的8个样品确认以后，并给受益人开列出发货确认函后，该信用证方可生效。“
+这种条款对出口人制约很大。在金瓯上没有确认样品并出具样品确认函以前，出口商无法备货出运。确认样品的时间长短
+也是出口商难以把握的，信用证里的装效期有可能因为等样品的确认而耽误，这些对出口商十分不利。因此，一定要求
+进口商改证以后方可发货。&lt;/p&gt;
+&lt;h3&gt;疑惑六&lt;/h3&gt;
+&lt;p&gt;开证申请人在信用证里规定，受益人必须额外付给开证行相当于4.5‰信用证金额作为信用证的启动生效费，信用证
+方可生效，像这样的条款是属于软条款吗？&lt;/p&gt;
+&lt;h4&gt;解惑&lt;/h4&gt;
+&lt;p&gt;是。这样的条款对受益人非常不利，如果不付给开证行这笔款，信用证就等于无效。因此，对于这样的条款。必须让
+开证人改证取消，否则，既不能马上备货，又损失一笔资金。&lt;/p&gt;
+</content><link href="/archives/2020-02-09-02/" rel="alternate"/><published>2020-02-09T00:00:00+08:06</published></entry><entry><id>/archives/2020-02-27-02/</id><title>外贸人员国外参展或拜访客户前的重要事项检查清单</title><updated>2020-03-04T04:59:41.094097+00:00</updated><author><name>MIKA</name><email>359911923@qq.com</email><uri>https://www.wangxfei.com</uri></author><content>&lt;p&gt;对于需要到国外出差的外贸人员，无论是经常出差还是偶尔出差，无论是参加展会、拜访客户或者是个人
+旅行，一份出行钱重要事项的清单可以有效帮你避免慌乱与遗忘，更重要的是你可以在以下清单的
+基础商，根据自己的实际情况与经验不断更新完善出一份更适合自己的清单，从而让自己以后的每一次
+出行都变得更加高效、简单。&lt;/p&gt;
+&lt;h4&gt;一、个人通讯&lt;/h4&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;p&gt;不可撤销信用证（IRREVOCABLE L/C）；&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;可撤销信用证（REVOCABLE L/C）；&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;保兑信用证（CONFIRMED L/C）；&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;不保兑信用证（UNCONFIRMED L/C）；&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;可转让信用证（TRANSFERABLE L/C）；&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;不可转让信用证（UNSTRANSFERABLE L/C）;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;即期信用证（SIGHT L/C）；&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;远期信用证（USANCE L/C）；&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;延期信用证（DEFERRED PAYMENT L/C）；&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;假远期信用证（USANCE L/C PAYMENT AT SIGHT）；&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;循环信用证（REVOLVING L/C）；&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;预支信用证（红条款信用证）[ANTICIPATORY L/C(RED CLAUSE L/C)]；&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;备用信用证（STANDBY L/C）。&lt;/p&gt;
-&lt;/li&gt;
+&lt;li&gt;手机、充电器、充电宝&lt;/li&gt;
+&lt;li&gt;开通国际漫游&lt;/li&gt;
+&lt;li&gt;当地主要联系人联系方式列表&lt;/li&gt;
+&lt;li&gt;当地翻译工具&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;上述各种信用证在性质上、限期商、功能上各有不同，外贸业务员一定要弄清楚。&lt;/p&gt;
-&lt;p&gt;信用证中常出现的词汇又：“申请人”、“受益人”、“开证行”、“通知行”、“议付行”、“交单行”、“付款行”等。开证
-申请人（简称申请人）大部分是买卖合同中的买方。受益人大部分是买卖合同中的卖方。开证行指开立信用证的银行，
-大部分与申请人在同一个国家。（信用证）通知行有时也同时是交单行、议付行，大部分与受益人在同一个国家，
-付款行往往是开证行，一般与买方在同一个国家。&lt;/p&gt;
-</content><link href="/archives/2020-02-09-03/" rel="alternate"/><published>2020-02-09T00:00:00+08:06</published></entry><entry><id>/archives/2020-02-09-01/</id><title>商务英语之签署协议</title><updated>2020-03-01T03:21:24.067813+00:00</updated><author><name>MIKA</name><email>359911923@qq.com</email><uri>https://www.wangxfei.com</uri></author><content>&lt;p&gt;&lt;strong&gt; Shall we sign the agreement now?&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt; 我们现在签订协议好吗？&lt;/strong&gt;&lt;/p&gt;
+&lt;h4&gt;二、护照、签证&lt;/h4&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;p&gt;Ok, the agreement is ready for signature.
-好的，协议已经拟好准备签字。&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;We both want to sign an agreement, and we have to make some concessions to do it.
-我们都想签协议，因此双方都要做些让步。&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;We can't accept the agreement and we decide to cancel the agreement. 
-我们无法接受此协议，并决定取消合作。&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;I'm sorry, the agreement hasn't been full prepared.
-对不起，协议还没有完全准备好。&lt;/p&gt;
-&lt;/li&gt;
+&lt;li&gt;有效的护照&lt;/li&gt;
+&lt;li&gt;出发前了解签证的有效期和起始日期&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt; Do you always make out an agreement for every deal?&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt; 每笔交易都需要订一份协议吗？&lt;/strong&gt;&lt;/p&gt;
+&lt;h4&gt;三、往返机票、酒店预定、行程单&lt;/h4&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;p&gt;You cannot cancel the agreement, without first securing our agreement.
-如果没有事先征得我们统一，你们不能取消合同。&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;Yes, agreement is absolutely necessary.
-是的，协议是必不可少的。&lt;/p&gt;
-&lt;/li&gt;
+&lt;li&gt;提前预定往返机票和酒店。&lt;/li&gt;
+&lt;li&gt;行程单包含目的地酒店的电话好吗和地址等信息。&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt; Are you worrying about the non-execution of the agreement and non-payment on our part?&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt; 你是否担心我们不履行协议或者拒不付款？&lt;/strong&gt;&lt;/p&gt;
+&lt;h4&gt;四、国际通用信用卡以及少量当地货币&lt;/h4&gt;
+&lt;h4&gt;五、旅行保险以及短期旅行医疗保险&lt;/h4&gt;
+&lt;h4&gt;六、国际驾照（国际驾照认证件或驾照翻译公认件）&lt;/h4&gt;
+&lt;h4&gt;七、紧急情况联络表&lt;/h4&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;p&gt;This agreement will come into force as soon as it is signed by two parties.
-合同一经双方签订立即生效。&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;You have no gounds for backing out of the agreement.
-你们没有正当理由背弃合同。&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;The buyer has the option of canceling the agreement.
-买方有权撤销合同。&lt;/p&gt;
-&lt;/li&gt;
+&lt;li&gt;目的地紧急报警电话、中国驻当地大使馆联系电话、酒店联系方式、客户联系方式&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt; What are the main clauses in the contract?&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt; 合同中的主要条款有哪些？&lt;/strong&gt;&lt;/p&gt;
+&lt;h4&gt;八、目的地常用手机APP&lt;/h4&gt;
+&lt;h4&gt;九、个人衣物&lt;/h4&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;p&gt;All terms and conditions will be the same as those in your previous agreement number F1786.
-所有条款与你们过去签订的第F1786号协议规定的各项条款相同。&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;The buyer shall open an irrevocable, confirmed and partial shipment letter of credit.
-买方需要开出不可撤销的，保兑的，允许分批装运的信用证。&lt;/p&gt;
-&lt;/li&gt;
+&lt;li&gt;提前了解当地近期天气，并根据行程天数准备适合的衣物&lt;/li&gt;
+&lt;li&gt;厚外套，以备不时之需&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt; Please go over the draft and see if any modifications are needed?&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt; 请过目以下协议稿，看是否需要有修改的地方？&lt;/strong&gt;&lt;/p&gt;
+&lt;h4&gt;十、日常生活用品&lt;/h4&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;p&gt;Well, it contains basically all we have agreed upon.
-协议基本包括了我们商定的全部内容。&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;The agreement still needs some modifications, such as the payment.
-协议仍需要做某些修改，例如支付条款。&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;We cannot comply with your special requests concerning the agreement.
-我方无法接受贵方有关协议的特别要求。&lt;/p&gt;
-&lt;/li&gt;
+&lt;li&gt;毛巾、水杯、拖鞋&lt;/li&gt;
+&lt;li&gt;卫生纸、雨伞&lt;/li&gt;
+&lt;li&gt;多功能刀具、迷你针线包、剪刀。主意这些物品放到托运行李中&lt;/li&gt;
+&lt;li&gt;隐形眼镜、隐形眼镜清洗液（如需要）&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt; Do you have any comments?&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt; 你方还有什么需要说明的吗？&lt;/strong&gt;&lt;/p&gt;
+&lt;h4&gt;十一、个人护理用品&lt;/h4&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;p&gt;No, the agreement seems reasonable, shall we sign it as soon as possible?
-协议合情合理，我们能尽早签订协议吗？&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;If cancel the agreement, it must be in writing.
-取消协议，需书面通知。&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;If one part of the agreement has been breached, it does not necessarily mean a termination of the entire agreement.
-如果该协议的一部分有所违约，这并一定意味着整个合同的终止。&lt;/p&gt;
-&lt;/li&gt;
+&lt;li&gt;牙膏、牙刷、香皂、肥皂、洗发水、洗面奶&lt;/li&gt;
+&lt;li&gt;剃须刀、剃须膏&lt;/li&gt;
+&lt;li&gt;常用药品，如感冒药、晕车药、止泻药、胃药、创可贴、消炎药等&lt;/li&gt;
+&lt;li&gt;如有疾病带上自己的处方药&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3&gt;一、The agreement is to be fully prepared 备好协议待签&lt;/h3&gt;
-&lt;p&gt;A: I'm here to sign the agreement.&lt;/p&gt;
-&lt;p&gt;A: 我来签署协议。&lt;/p&gt;
-&lt;p&gt;B: I'm sorry. The agreement hasn't been fully prepared. It will be ready by tomorrow.&lt;/p&gt;
-&lt;p&gt;B: 对不起，协议还没有完全准备号，请等到明天。&lt;/p&gt;
-&lt;p&gt;A: Can you speed it up and let us have it today?&lt;/p&gt;
-&lt;p&gt;A: 你能否加快一些，让我们今天拿到这个协议？&lt;/p&gt;
-&lt;p&gt;B: I'll try my best. Here is the draft. Would you please go over it and see if any modifications are needed?&lt;/p&gt;
-&lt;p&gt;B: 我一定尽力。这是协议的草稿。你先过目一下，看是否还有需要修改的内容，好吗？&lt;/p&gt;
-&lt;p&gt;A: Let me have a look, well, it contains basically all we have agreed upon.&lt;/p&gt;
-&lt;p&gt;A: 让我看一下。协议基本上包括了我们商定的全部内容。&lt;/p&gt;
-&lt;p&gt;B: How about the terms concerning packing.&lt;/p&gt;
-&lt;p&gt;B: 包装方面的规定还有什么需要修改的吗？&lt;/p&gt;
-&lt;p&gt;A: I don't think so.&lt;/p&gt;
-&lt;p&gt;A: 没有了。&lt;/p&gt;
-&lt;p&gt;B: If you totally agree. I'll type the agreement this evening and have it duplicated for signatures.&lt;/p&gt;
-&lt;p&gt;B: 如你完全同意，我今晚把协议打好，并复印出来以便签字。&lt;/p&gt;
-&lt;p&gt;A: That's fine.&lt;/p&gt;
-&lt;p&gt;A: 好的。&lt;/p&gt;
-&lt;h4&gt;生词&lt;/h4&gt;
-&lt;p&gt;modification 名词 更改，修改，修正&lt;/p&gt;
-&lt;p&gt;basically 形容词 基本的，主要的&lt;/p&gt;
-&lt;p&gt;packing 名词 包装，打包，装箱&lt;/p&gt;
-&lt;p&gt;duplicate 动词 复写，打印，复印&lt;/p&gt;
-&lt;h4&gt;固定用法&lt;/h4&gt;
-&lt;p&gt;speed up：加快速度&lt;/p&gt;
-&lt;p&gt;例如：We have sped up the production.（我们已经加快了生产速度。）&lt;/p&gt;
-&lt;p&gt;To have sth. duplicated：将······复印. To have sth done：让某人做某事&lt;/p&gt;
-&lt;p&gt;例如：We have the machine repaired.（我们请人把及其修好了。）&lt;/p&gt;
-&lt;h3&gt;二、Discuss the mode of payment 协商付款方式&lt;/h3&gt;
-&lt;p&gt;A: Mr. Wang, we haven't discussed the mode of payment.&lt;/p&gt;
-&lt;p&gt;A: 王先生，我们还没商讨付款的方式呢。&lt;/p&gt;
-&lt;p&gt;B: You know, Mr. Forster, this is a really large purchase. I'm afraid we can't pay off at one time.
-We have to pay by installment.&lt;/p&gt;
-&lt;p&gt;B: 福斯特先生，你知道这确实是一大笔购货，恐怕我们无法一次性将款项付款，只能分期付款。&lt;/p&gt;
-&lt;p&gt;A: Do you mean you prefer a deferred payment?&lt;/p&gt;
-&lt;p&gt;A: 你是说希望采取延期付款方式？&lt;/p&gt;
-&lt;p&gt;B: Yes, Mr Forster.&lt;/p&gt;
-&lt;p&gt;B: 是的，福斯特先生。&lt;/p&gt;
-&lt;p&gt;A: When do you start the payment then?&lt;/p&gt;
-&lt;p&gt;A: 那么你们什么时候开始付款呢？&lt;/p&gt;
-&lt;p&gt;B: We'll start our payment in half a year and the total amount will be paid off within 2 years by three installments.&lt;/p&gt;
-&lt;p&gt;B: 我么半年后开始付款，所有的款在两年内分三次付清。&lt;/p&gt;
-&lt;p&gt;A: We can accept that, but you have to pay the interest.&lt;/p&gt;
-&lt;p&gt;A: 我们可以接受这一付款方式。&lt;/p&gt;
-&lt;p&gt;B: All right.&lt;/p&gt;
-&lt;p&gt;B: 那好吧。&lt;/p&gt;
-&lt;p&gt;A: Shall we sign the agreement now?&lt;/p&gt;
-&lt;p&gt;A: 我们现在就签署合约好吗？&lt;/p&gt;
-&lt;p&gt;B: Ok, Let's sign it.&lt;/p&gt;
-&lt;p&gt;B: 好的，我们签署吧。&lt;/p&gt;
-&lt;h4&gt;生词&lt;/h4&gt;
-&lt;p&gt;purchase 动词 购买，买&lt;/p&gt;
-&lt;p&gt;installment 名词 就职，装设，分期付款&lt;/p&gt;
-&lt;p&gt;interest 名词 利息&lt;/p&gt;
-&lt;p&gt;deferred 形容词 延期的，缓召的&lt;/p&gt;
-&lt;h4&gt;固定用法&lt;/h4&gt;
-&lt;p&gt;pay of：还清（债务等）付清&lt;/p&gt;
-&lt;p&gt;例如：Next he understook to pay off the debts.（然后，他同意负责偿还债务。）&lt;/p&gt;
-&lt;p&gt;to pay by installment：分期付款&lt;/p&gt;
-&lt;p&gt;例如：He is paying for his car by monthly installment.（他以按月分期付款的方式支付他的购车款。）&lt;/p&gt;
-&lt;h3&gt;三、Draft and sign the agreement 拟定签署协议&lt;/h3&gt;
-&lt;p&gt;A: Good morning, Mr. Zhang. I wonder whether you have got an answer from your superior.&lt;/p&gt;
-&lt;p&gt;A: 张先生，早上好。我想知道你有没有得到上级的答复。&lt;/p&gt;
-&lt;p&gt;B: Yes. We had a meeting about it yesterday afternoon.&lt;/p&gt;
-&lt;p&gt;B: 得到了。我们昨天下午专门为此事开了个会。&lt;/p&gt;
-&lt;p&gt;A: What's the answer?&lt;/p&gt;
-&lt;p&gt;A: 结果如何？&lt;/p&gt;
-&lt;p&gt;B: We decided that we could agree to your price, but we are a bit worried about the slow delivery.&lt;/p&gt;
-&lt;p&gt;B: 我们认为可以接受你们的价格，但是我们有点担心你们的交货很慢。&lt;/p&gt;
-&lt;p&gt;A: Let me see. I quoted your delivery in three months, didn't I?&lt;/p&gt;
-&lt;p&gt;A: 我看看。我报给你们的交货时间是三个月，是吗？&lt;/p&gt;
-&lt;p&gt;B: Yes. But we hope that the wool could reach us as soon as possible.&lt;/p&gt;
-&lt;p&gt;B: 是的。但是我们希望羊毛越早到越好。&lt;/p&gt;
-&lt;p&gt;A: I thought you would be worried about it. So i rang Auckland last night. As you are our biggest customer,
-they agreed to ship the order on the first vessel available that will leave Auckland next month.&lt;/p&gt;
-&lt;p&gt;A: 我也料到你们会为此事担心，因此我昨天晚上给奥克兰打了个电话。由于你是我们的最大客户，他们同意将你订货装运
-第一艘下个月从奥克兰开出的船。&lt;/p&gt;
-&lt;p&gt;B: Good. If you agree we'll draft the agreement right away, and sign it then.&lt;/p&gt;
-&lt;p&gt;B: 那好，如你同意的话，我们便可以拟定协议，然后签订。&lt;/p&gt;
-&lt;p&gt;A: By all means.&lt;/p&gt;
-&lt;p&gt;A: 完全同意。&lt;/p&gt;
-&lt;h4&gt;生词&lt;/h4&gt;
-&lt;p&gt;superior 名词 上级，领导&lt;/p&gt;
-&lt;p&gt;quote 动词 报价，开价&lt;/p&gt;
-&lt;p&gt;vessel 名词 船，舰，飞船&lt;/p&gt;
-&lt;p&gt;available 形容词 可以得到的，可用的，有效的&lt;/p&gt;
-&lt;h4&gt;固定用法&lt;/h4&gt;
-&lt;p&gt;right away：立刻，马上&lt;/p&gt;
-&lt;p&gt;例如：Call the police right away.（我立刻报警）&lt;/p&gt;
-&lt;p&gt;by all means：尽一切办法，一定&lt;/p&gt;
-&lt;p&gt;例如：It should be publicized by all means.（应当通过各种途径宣传它。）&lt;/p&gt;
-&lt;h3&gt;四、Reduce the price and conclude a deal 降价以达成协议&lt;/h3&gt;
-&lt;p&gt;A: Mr. Smith, I'm wondering whether you have found a way of considering my offer.&lt;/p&gt;
-&lt;p&gt;A: 史密斯先生，我想知道你对我们的价格考虑好了吗？&lt;/p&gt;
-&lt;p&gt;B: I cartainly have the will, but I wonder if I've found the way&lt;/p&gt;
-&lt;p&gt;B: 我当然想考虑好，但却无法考虑好。&lt;/p&gt;
-&lt;p&gt;A: You see. I made what I considr to be a reasonable offer based upon the rise in production costs and the
-production costs and the continued fall in the exchange rate of Australian Dollar to U.S. Dollar.&lt;/p&gt;
-&lt;p&gt;A: 你知道，我的报价很合理的，现在生产成本在上涨，澳元与美金的比价在下降呢。&lt;/p&gt;
-&lt;p&gt;B: Let me say something about the falling Australian Dollar. We're both hurt by the rising U.S. Dollar.
-We will have to pay more Renminbi for U.S. Dollar to buy wool from you.&lt;/p&gt;
-&lt;p&gt;B: 澳元贬值的事我也想说说。我们双方都收到美元升值的影响。我也需要付出更多的人民币兑换美元从你那里购入
-羊毛。&lt;/p&gt;
-&lt;p&gt;A: I understand.&lt;/p&gt;
-&lt;p&gt;A: 我懂。&lt;/p&gt;
-&lt;p&gt;B: Do you? Then you can see that we have one wish, that is to conclude this transaction in a way that
-will staisfy both sides. What can you do to help?&lt;/p&gt;
-&lt;p&gt;B: 真的？那我们只有一个愿望，就是把这笔生意做的令双方满意。对此，你有什么举措？&lt;/p&gt;
-&lt;p&gt;A: I think the best way I can do is to reduce our price by 2% and I should think we could conclude a 
-deal at $98.&lt;/p&gt;
-&lt;p&gt;A: 我能做的就是降价2%。我想我们可以以￥98美元的价格达成交易。&lt;/p&gt;
-&lt;p&gt;B: All right. I accept this reduced offer at $98 per metric ton FOB stowed. The other terms and conditions
-shall remain the same as those in previous agreement. Now will you draft the agreement or shann I?&lt;/p&gt;
-&lt;p&gt;B: 好吧。我接受每吨98美元含理仓费的离岸价。其他条款应与前次协议保持一致。由你还是我们来拟定协议？&lt;/p&gt;
-&lt;p&gt;A: Your legal department is very good at these things. We can trust them with the drafting of the 
-agreement.&lt;/p&gt;
-&lt;p&gt;A: 你们法务部很擅长这个工作，就委托他们拟定吧。&lt;/p&gt;
-&lt;p&gt;B: OK. Then we 'll bring it over to you tomorrow morning. You'll sign it first, so it will only need
-my signature. Is that agreeable to you?&lt;/p&gt;
-&lt;p&gt;B: 好的。我们明天商务拿给你签字，接下来我签字，你同意吗？&lt;/p&gt;
-&lt;p&gt;A: Very agreeable, Mr. Smith。 It will only take me a minute to sign it and send it back to you.&lt;/p&gt;
-&lt;p&gt;A: 同意，史密斯先生。签字一会就能完成，然后交给你。&lt;/p&gt;
-&lt;p&gt;B: Good. Let's shake hands on this successful transation.&lt;/p&gt;
-&lt;p&gt;B: 那好。让我们握手祝这次生意的成功。&lt;/p&gt;
-&lt;h4&gt;生词&lt;/h4&gt;
-&lt;p&gt;transaction 名词 处理，执行，交易，事务&lt;/p&gt;
-&lt;p&gt;FOB stowed 含理仓费的离岸价&lt;/p&gt;
-&lt;p&gt;pervious 形容词 先前的，以前的&lt;/p&gt;
-&lt;p&gt;draft 动词 起草&lt;/p&gt;
-&lt;p&gt;shake hands 握手&lt;/p&gt;
-&lt;p&gt;Legal Department 法务部&lt;/p&gt;
-&lt;h3&gt;五、鲜活词汇&lt;/h3&gt;
-&lt;p&gt;concession 名词 让步，妥协，迁就，优惠&lt;/p&gt;
-&lt;p&gt;non-execution 名词 不执行，不履行&lt;/p&gt;
-&lt;p&gt;non-payment 名词 不支付，拒付&lt;/p&gt;
-&lt;p&gt;clause 名词 条款&lt;/p&gt;
-&lt;p&gt;breach 动词 破坏，违反，违背，不履行，侵犯&lt;/p&gt;
-&lt;p&gt;irrevocable 形容词 不可撤销的&lt;/p&gt;
-&lt;p&gt;confirmed 形容词 证实的&lt;/p&gt;
-&lt;p&gt;customary terms 惯例&lt;/p&gt;
-&lt;p&gt;invoice 名词 发票&lt;/p&gt;
-&lt;p&gt;vessel 名词 船&lt;/p&gt;
-&lt;p&gt;non-transferable 形容词 不可转让的&lt;/p&gt;
-&lt;p&gt;buyering agent 采购代理&lt;/p&gt;
-&lt;p&gt;detail 名词 明细&lt;/p&gt;
-&lt;p&gt;metric ton 公吨&lt;/p&gt;
-</content><link href="/archives/2020-02-09-01/" rel="alternate"/><published>2020-02-09T00:00:00+08:06</published></entry><entry><id>/archives/2020-02-27-01/</id><title>市场调查之俄罗斯（五）</title><updated>2020-03-01T03:21:24.067786+00:00</updated><author><name>MIKA</name><email>359911923@qq.com</email><uri>https://www.wangxfei.com</uri></author><content>&lt;h4&gt;市场特点&lt;/h4&gt;
+&lt;h4&gt;十二、工作用品&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;报价资料和洽谈资料&lt;/li&gt;
+&lt;li&gt;样品和公司宣传材料&lt;/li&gt;
+&lt;li&gt;记事本和笔&lt;/li&gt;
+&lt;li&gt;笔记本电脑、充电器&lt;/li&gt;
+&lt;li&gt;相机、电池、存储卡、充电器&lt;/li&gt;
+&lt;li&gt;电源转换接头&lt;/li&gt;
+&lt;li&gt;礼品&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4&gt;十三、随身物品&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;钥匙、手表等&lt;/li&gt;
+&lt;li&gt;尽可能不要带贵重首饰物品&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4&gt;十四、旅行途中物品&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;书刊、杂志、耳塞、耳机等&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4&gt;十五、行李箱包&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;注意检查装满物品厚行李箱的尺寸和重量是否超过航空公司的限制&lt;/li&gt;
+&lt;li&gt;可随身携带的背包或者挎包&lt;/li&gt;
+&lt;li&gt;标签和密码锁。在行李箱上固定带上带有你联系方式的标签，以及行李箱上配一把密码锁&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4&gt;十六、其他事项&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;对目的地国家做一些调查，了解当地的宗教信仰和风俗习惯、人文历史、名胜古迹等。&lt;/li&gt;
+&lt;li&gt;访问目的地国家的中国大使馆网站，查看大使馆提供的关于前往目的地钱的出行建议、注意事项和安全警示&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories.html/"&gt;目的地国家出行风险查询&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;查询活资讯是否需要接种疫苗或做好相关防疫准备&lt;/li&gt;
+&lt;li&gt;提前取消或妥善安排快递投送和其他日常预定&lt;/li&gt;
+&lt;/ul&gt;
+</content><link href="/archives/2020-02-27-02/" rel="alternate"/><published>2020-02-27T00:00:00+08:06</published></entry><entry><id>/archives/2020-02-27-01/</id><title>市场调查之俄罗斯（五）</title><updated>2020-03-04T04:59:41.094068+00:00</updated><author><name>MIKA</name><email>359911923@qq.com</email><uri>https://www.wangxfei.com</uri></author><content>&lt;h4&gt;市场特点&lt;/h4&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;p&gt;在“一超多强”的国际体系钟，俄罗斯是有较大影响力的强国，其军工实力雄厚&lt;/p&gt;
 &lt;/li&gt;
@@ -429,88 +348,7 @@ my signature. Is that agreeable to you?&lt;/p&gt;
 &lt;li&gt;&lt;p&gt;光电仪器税率为5%-13%&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
-</content><link href="/archives/2020-02-27-01/" rel="alternate"/><published>2020-02-27T00:00:00+08:06</published></entry><entry><id>/archives/2020-02-27-02/</id><title>外贸人员国外参展或拜访客户前的重要事项检查清单</title><updated>2020-03-01T03:21:24.067760+00:00</updated><author><name>MIKA</name><email>359911923@qq.com</email><uri>https://www.wangxfei.com</uri></author><content>&lt;p&gt;对于需要到国外出差的外贸人员，无论是经常出差还是偶尔出差，无论是参加展会、拜访客户或者是个人
-旅行，一份出行钱重要事项的清单可以有效帮你避免慌乱与遗忘，更重要的是你可以在以下清单的
-基础商，根据自己的实际情况与经验不断更新完善出一份更适合自己的清单，从而让自己以后的每一次
-出行都变得更加高效、简单。&lt;/p&gt;
-&lt;h4&gt;一、个人通讯&lt;/h4&gt;
-&lt;ul&gt;
-&lt;li&gt;手机、充电器、充电宝&lt;/li&gt;
-&lt;li&gt;开通国际漫游&lt;/li&gt;
-&lt;li&gt;当地主要联系人联系方式列表&lt;/li&gt;
-&lt;li&gt;当地翻译工具&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h4&gt;二、护照、签证&lt;/h4&gt;
-&lt;ul&gt;
-&lt;li&gt;有效的护照&lt;/li&gt;
-&lt;li&gt;出发前了解签证的有效期和起始日期&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h4&gt;三、往返机票、酒店预定、行程单&lt;/h4&gt;
-&lt;ul&gt;
-&lt;li&gt;提前预定往返机票和酒店。&lt;/li&gt;
-&lt;li&gt;行程单包含目的地酒店的电话好吗和地址等信息。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h4&gt;四、国际通用信用卡以及少量当地货币&lt;/h4&gt;
-&lt;h4&gt;五、旅行保险以及短期旅行医疗保险&lt;/h4&gt;
-&lt;h4&gt;六、国际驾照（国际驾照认证件或驾照翻译公认件）&lt;/h4&gt;
-&lt;h4&gt;七、紧急情况联络表&lt;/h4&gt;
-&lt;ul&gt;
-&lt;li&gt;目的地紧急报警电话、中国驻当地大使馆联系电话、酒店联系方式、客户联系方式&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h4&gt;八、目的地常用手机APP&lt;/h4&gt;
-&lt;h4&gt;九、个人衣物&lt;/h4&gt;
-&lt;ul&gt;
-&lt;li&gt;提前了解当地近期天气，并根据行程天数准备适合的衣物&lt;/li&gt;
-&lt;li&gt;厚外套，以备不时之需&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h4&gt;十、日常生活用品&lt;/h4&gt;
-&lt;ul&gt;
-&lt;li&gt;毛巾、水杯、拖鞋&lt;/li&gt;
-&lt;li&gt;卫生纸、雨伞&lt;/li&gt;
-&lt;li&gt;多功能刀具、迷你针线包、剪刀。主意这些物品放到托运行李中&lt;/li&gt;
-&lt;li&gt;隐形眼镜、隐形眼镜清洗液（如需要）&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h4&gt;十一、个人护理用品&lt;/h4&gt;
-&lt;ul&gt;
-&lt;li&gt;牙膏、牙刷、香皂、肥皂、洗发水、洗面奶&lt;/li&gt;
-&lt;li&gt;剃须刀、剃须膏&lt;/li&gt;
-&lt;li&gt;常用药品，如感冒药、晕车药、止泻药、胃药、创可贴、消炎药等&lt;/li&gt;
-&lt;li&gt;如有疾病带上自己的处方药&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h4&gt;十二、工作用品&lt;/h4&gt;
-&lt;ul&gt;
-&lt;li&gt;报价资料和洽谈资料&lt;/li&gt;
-&lt;li&gt;样品和公司宣传材料&lt;/li&gt;
-&lt;li&gt;记事本和笔&lt;/li&gt;
-&lt;li&gt;笔记本电脑、充电器&lt;/li&gt;
-&lt;li&gt;相机、电池、存储卡、充电器&lt;/li&gt;
-&lt;li&gt;电源转换接头&lt;/li&gt;
-&lt;li&gt;礼品&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h4&gt;十三、随身物品&lt;/h4&gt;
-&lt;ul&gt;
-&lt;li&gt;钥匙、手表等&lt;/li&gt;
-&lt;li&gt;尽可能不要带贵重首饰物品&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h4&gt;十四、旅行途中物品&lt;/h4&gt;
-&lt;ul&gt;
-&lt;li&gt;书刊、杂志、耳塞、耳机等&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h4&gt;十五、行李箱包&lt;/h4&gt;
-&lt;ul&gt;
-&lt;li&gt;注意检查装满物品厚行李箱的尺寸和重量是否超过航空公司的限制&lt;/li&gt;
-&lt;li&gt;可随身携带的背包或者挎包&lt;/li&gt;
-&lt;li&gt;标签和密码锁。在行李箱上固定带上带有你联系方式的标签，以及行李箱上配一把密码锁&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h4&gt;十六、其他事项&lt;/h4&gt;
-&lt;ul&gt;
-&lt;li&gt;对目的地国家做一些调查，了解当地的宗教信仰和风俗习惯、人文历史、名胜古迹等。&lt;/li&gt;
-&lt;li&gt;访问目的地国家的中国大使馆网站，查看大使馆提供的关于前往目的地钱的出行建议、注意事项和安全警示&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://travel.state.gov/content/travel/en/traveladvisories/traveladvisories.html/"&gt;目的地国家出行风险查询&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;查询活资讯是否需要接种疫苗或做好相关防疫准备&lt;/li&gt;
-&lt;li&gt;提前取消或妥善安排快递投送和其他日常预定&lt;/li&gt;
-&lt;/ul&gt;
-</content><link href="/archives/2020-02-27-02/" rel="alternate"/><published>2020-02-27T00:00:00+08:06</published></entry><entry><id>/archives/2020-02-28-01/</id><title>市场调查之越南（五）</title><updated>2020-03-01T03:21:24.067731+00:00</updated><author><name>MIKA</name><email>359911923@qq.com</email><uri>https://www.wangxfei.com</uri></author><content>&lt;h3&gt;市场特点&lt;/h3&gt;
+</content><link href="/archives/2020-02-27-01/" rel="alternate"/><published>2020-02-27T00:00:00+08:06</published></entry><entry><id>/archives/2020-02-28-01/</id><title>市场调查之越南（五）</title><updated>2020-03-04T04:59:41.094037+00:00</updated><author><name>MIKA</name><email>359911923@qq.com</email><uri>https://www.wangxfei.com</uri></author><content>&lt;h3&gt;市场特点&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;p&gt;政局稳定，注重经济建设，近年来经济发展较快&lt;/p&gt;
 &lt;/li&gt;
@@ -677,242 +515,7 @@ my signature. Is that agreeable to you?&lt;/p&gt;
 叫嚷；忌讳用脚指物，或把脚掌对向别人&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
-</content><link href="/archives/2020-02-28-01/" rel="alternate"/><published>2020-02-28T00:00:00+08:06</published></entry><entry><id>/archives/2020-02-29-04/</id><title>外贸工具汇总</title><updated>2020-03-01T03:21:24.067704+00:00</updated><author><name>MIKA</name><email>359911923@qq.com</email><uri>https://www.wangxfei.com</uri></author><content>&lt;ul&gt;
-&lt;li&gt;&lt;p&gt;&lt;a href="http://www.hs-bianma.com/"&gt;海关编码查询&lt;/a&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;&lt;a href="http://hd.chinatax.gov.cn/nszx/InitChukou.html"&gt;出口退税查询&lt;/a&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;&lt;a href="http://wmsw.mofcom.gov.cn/wmsw/#"&gt;监管条件查询&lt;/a&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;&lt;a href="https://translate.google.com/"&gt;在线翻译工具&lt;/a&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;&lt;a href="http://www.chinadaily.com.cn/static/tools/exchange.html"&gt;度量制式转换&lt;/a&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;&lt;a href="https://www.uupoop.com/"&gt;在线PS&lt;/a&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;&lt;a href="https://www.alexa.com/topsites"&gt;全球网站排名查询&lt;/a&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;&lt;a href="https://www.alexa.com/find-similar-sites"&gt;相似网站查询&lt;/a&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;&lt;a href="https://www.xe.com/currencycharts/"&gt;各国汇率走势查询&lt;/a&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;&lt;a href="https://www.countrycode.org/"&gt;国家代码查询&lt;/a&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;&lt;a href="http://ccn.mofcom.gov.cn/"&gt;中国商品网&lt;/a&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;&lt;a href="http://202.127.48.148/zscq/search/jsp/vBrandSearchIndex.jsp#"&gt;知识产权备案查询&lt;/a&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;&lt;a href="http://fta.mofcom.gov.cn/"&gt;自贸协定查询&lt;/a&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;&lt;a href="http://www.customs.gov.cn/customs/302249/302266/302267/index.html"&gt;海关总署政策公告&lt;/a&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;&lt;a href="http://www.mofcom.gov.cn/article/b/"&gt;商务部政策公告&lt;/a&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;&lt;a href="http://www.safe.gov.cn/safe/zcfg/index.html"&gt;国家外汇管理局公告&lt;/a&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-</content><link href="/archives/2020-02-29-04/" rel="alternate"/><published>2020-02-29T00:00:00+08:06</published></entry><entry><id>/archives/2020-02-29-03/</id><title>2020年三月节日</title><updated>2020-03-01T03:21:24.067677+00:00</updated><author><name>MIKA</name><email>359911923@qq.com</email><uri>https://www.wangxfei.com</uri></author><content>&lt;p&gt;&lt;figure&gt;&lt;img data-width="1092" data-height="662" src="https://cdn.jsdelivr.net/gh/mikamichael/Blog-With-GitHub-Boilerplate@gh-pages/archives/assets/566a541fd266cc1930869a28b3761d63.png" alt="三月节日" /&gt;&lt;figcaption&gt;三月节日&lt;/figcaption&gt;&lt;/figure&gt;&lt;/p&gt;
-&lt;h4&gt;3月1日&lt;br&gt; 韩国·独立日&lt;/h4&gt;
-&lt;p&gt;韩国三一节，又叫独立日，是韩国法定节假日。全国放假一天&lt;/p&gt;
-&lt;h4&gt;3月3日&lt;br&gt; 日本·女儿节&lt;/h4&gt;
-&lt;p&gt;也称偶人节、上巳、桃花节，是日本民间五大节日一直。原本在农历的三月初三，明治维新后为3月3日&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;习俗&lt;/strong&gt; 家中有女儿者与当天装饰小偶人，供奉菱形黏糕、桃花，以示祝贺并祈求女儿幸福。这天女孩多穿和服，
-邀请玩伴，在偶人坛前食糕饼、饮白色甜米酒。&lt;/p&gt;
-&lt;h4&gt;3月6日&lt;br&gt; 加纳·国庆日&lt;/h4&gt;
-&lt;p&gt;每年3月6日，为加纳国庆日，全国放假&lt;/p&gt;
-&lt;h4&gt;3月8日&lt;br&gt; 多国·国际妇女节&lt;/h4&gt;
-&lt;p&gt;在不同的地区，庆祝的重点有所不同，从普通的庆祝对女性的尊重、欣赏和爱意到庆祝女性在经济、政治及社会
-领域的成就，这个节日众多国家的文化都有融合。&lt;/p&gt;
-&lt;h4&gt;3月9日&lt;br&gt; 以色列·普珥节&lt;/h4&gt;
-&lt;p&gt;普珥节又叫普林节，为纪念和庆祝古代流落波斯帝国的犹太人从灭族的毁灭中幸存的节日。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;习俗&lt;/strong&gt; 现代的以色列，这个节日就是犹太人的狂欢节，几大城市都会举办化妆游行活动，场面十分有趣&lt;/p&gt;
-&lt;h4&gt;3月10日&lt;br&gt; 印度·洒红节&lt;/h4&gt;
-&lt;p&gt;也称胡里节、色彩节，四印度传统节日，也是印度传统新年&lt;/p&gt;
-&lt;p&gt;象征春天的来临，主要分布于印度、尼泊尔及世界各地的印度移民社区中。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;习俗&lt;/strong&gt; 洒红节一般为两天；第一天主要为祈祷仪式；第二天为狂欢日。&lt;/p&gt;
-&lt;h4&gt;3月17日&lt;br&gt; 多国·圣帕特里克节&lt;/h4&gt;
-&lt;p&gt;为纪念爱尔兰守护神圣帕特里克的节日，5世纪末起源于爱尔兰，如今已成为爱尔兰的国庆节&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;习俗&lt;/strong&gt; 随着爱尔兰后裔遍布世界各地。现在，圣帕特里克节已经渐渐在加拿大、英国、澳大利亚、美国和
-新西兰等国家广为庆祝。&lt;/p&gt;
-&lt;p&gt;圣帕特里克节的传统颜色为绿色。&lt;/p&gt;
-&lt;h4&gt;3月22日&lt;br&gt; 英国·母亲节&lt;/h4&gt;
-&lt;p&gt;英国的母亲节，与中国和美国等其它国家的母亲节不同&lt;/p&gt;
-&lt;p&gt;英国的母亲节不在五月的第二个星期天，而是每年的四旬斋（西方复活节之前除去星期天的四十天）的
-第四个星期天&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;习俗&lt;/strong&gt; 对于现在英国人来说，现在最常见的母亲节庆祝方式，就是送妈妈一束花、一盒巧克力或者一张贺卡&lt;/p&gt;
-&lt;h4&gt;3月23日&lt;br&gt; 巴基斯坦·国庆日&lt;/h4&gt;
-&lt;p&gt;每年的3月23日，是巴基斯坦国庆日，全国放假&lt;/p&gt;
-&lt;h4&gt;3月25日&lt;br&gt; 希腊·国庆日&lt;/h4&gt;
-&lt;p&gt;这一天标志着希腊人民开始了成功击败奥斯曼帝国的斗争（1821至1830年），并最终建立了独立国家&lt;/p&gt;
-&lt;h4&gt;3月26日&lt;br&gt; 孟加拉国·国庆日&lt;/h4&gt;
-&lt;p&gt;1971年3月26日，驻扎在吉大港地区的第八东孟加拉联队领导人齐亚·拉赫曼率部占领吉大
-港电台，宣布东孟加拉脱离巴基斯坦而独立，成立孟加拉国临时政府&lt;/p&gt;
-&lt;p&gt;独立后政府将此日定为国庆节及独立节。这天全国都举行隆重的庆祝活动&lt;/p&gt;
-&lt;p&gt;&lt;font color=#DCDCDC size=1&gt;（PS: 本文由外跨研究中心综合整理，转载请务必标明出处。）&lt;/font&gt;&lt;/p&gt;
-</content><link href="/archives/2020-02-29-03/" rel="alternate"/><published>2020-02-29T00:00:00+08:06</published></entry><entry><id>/archives/2020-02-29-01/</id><title>市场调查之印度（一）</title><updated>2020-03-01T03:21:24.067648+00:00</updated><author><name>MIKA</name><email>359911923@qq.com</email><uri>https://www.wangxfei.com</uri></author><content>&lt;p&gt;&lt;figure&gt;&lt;img data-width="2370" data-height="2370" src="https://cdn.jsdelivr.net/gh/mikamichael/Blog-With-GitHub-Boilerplate@gh-pages/archives/assets/651d037f1cc57fa2bd543d150f5baf69.png" alt="印度" /&gt;&lt;figcaption&gt;印度&lt;/figcaption&gt;&lt;/figure&gt;&lt;/p&gt;
-&lt;h3&gt;基本概述&lt;/h3&gt;
-&lt;h4&gt;简介&lt;/h4&gt;
-&lt;p&gt;印度共和国，英语：Republic of India，统称印度（India)。位于南亚，是南亚次大陆最大的国家，也是一个由100多个民族
-构成的统一多民族国家。&lt;/p&gt;
-&lt;h4&gt;位置&lt;/h4&gt;
-&lt;p&gt;领土东北部同孟加拉国、尼泊尔、不丹和中国接壤，东部与缅甸为邻，东南部与斯里兰卡隔海相望，西北部与巴基斯坦交界。
-东临孟加拉湾，西邻阿拉伯海，海岸线长5560千米。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;首都&lt;/strong&gt; 新德里&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;主要城市&lt;/strong&gt; 孟买、加尔各答、金奈、班加罗尔、海得拉巴、昌迪加尔&lt;/p&gt;
-&lt;h4&gt;语言&lt;/h4&gt;
-&lt;p&gt;印度的官方语言是印地语，英语未第二附加官方语言。印度的语系主要由印欧语系、汉藏语系、南亚语系、德拉维达语系，语言复杂&lt;/p&gt;
-&lt;h4&gt;印度最大城市排名&lt;/h4&gt;
-&lt;table&gt;
-&lt;thead&gt;&lt;tr&gt;
-&lt;th style="text-align:left"&gt;&lt;strong&gt;排名&lt;/strong&gt;&lt;/th&gt;
-&lt;th style="text-align:left"&gt;&lt;strong&gt;城市名称&lt;/strong&gt;&lt;/th&gt;
-&lt;th style="text-align:left"&gt;&lt;strong&gt;邦/中央直辖区&lt;/strong&gt;&lt;/th&gt;
-&lt;th style="text-align:left"&gt;&lt;strong&gt;人口&lt;/strong&gt;&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td style="text-align:left"&gt;1&lt;/td&gt;
-&lt;td style="text-align:left"&gt;新德里&lt;/td&gt;
-&lt;td style="text-align:left"&gt;德里国家首都辖区&lt;/td&gt;
-&lt;td style="text-align:left"&gt;16,753,235&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style="text-align:left"&gt;2&lt;/td&gt;
-&lt;td style="text-align:left"&gt;孟买&lt;/td&gt;
-&lt;td style="text-align:left"&gt;马哈拉施特拉邦&lt;/td&gt;
-&lt;td style="text-align:left"&gt;12,478,447&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style="text-align:left"&gt;3&lt;/td&gt;
-&lt;td style="text-align:left"&gt;班加罗尔&lt;/td&gt;
-&lt;td style="text-align:left"&gt;卡纳塔克邦&lt;/td&gt;
-&lt;td style="text-align:left"&gt;8,425,970&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style="text-align:left"&gt;4&lt;/td&gt;
-&lt;td style="text-align:left"&gt;金奈&lt;/td&gt;
-&lt;td style="text-align:left"&gt;泰米尔纳德邦&lt;/td&gt;
-&lt;td style="text-align:left"&gt;7,088,000&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style="text-align:left"&gt;5&lt;/td&gt;
-&lt;td style="text-align:left"&gt;海得拉巴&lt;/td&gt;
-&lt;td style="text-align:left"&gt;特伦甘纳邦&lt;/td&gt;
-&lt;td style="text-align:left"&gt;6,809,970&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style="text-align:left"&gt;6&lt;/td&gt;
-&lt;td style="text-align:left"&gt;艾哈迈达巴德&lt;/td&gt;
-&lt;td style="text-align:left"&gt;古吉拉特邦&lt;/td&gt;
-&lt;td style="text-align:left"&gt;5,577,976&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style="text-align:left"&gt;7&lt;/td&gt;
-&lt;td style="text-align:left"&gt;加尔各答&lt;/td&gt;
-&lt;td style="text-align:left"&gt;西孟加拉邦&lt;/td&gt;
-&lt;td style="text-align:left"&gt;4,486,679&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style="text-align:left"&gt;8&lt;/td&gt;
-&lt;td style="text-align:left"&gt;苏拉特&lt;/td&gt;
-&lt;td style="text-align:left"&gt;古吉拉特邦&lt;/td&gt;
-&lt;td style="text-align:left"&gt;4,486,679&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style="text-align:left"&gt;9&lt;/td&gt;
-&lt;td style="text-align:left"&gt;浦那&lt;/td&gt;
-&lt;td style="text-align:left"&gt;马哈拉施特拉邦&lt;/td&gt;
-&lt;td style="text-align:left"&gt;3,115,431&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style="text-align:left"&gt;10&lt;/td&gt;
-&lt;td style="text-align:left"&gt;斋浦尔&lt;/td&gt;
-&lt;td style="text-align:left"&gt;拉贾斯坦邦&lt;/td&gt;
-&lt;td style="text-align:left"&gt;3,073,350&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;/table&gt;
-&lt;p&gt;&lt;strong&gt;人口&lt;/strong&gt; 印度2018年人口大约为13.54亿人。其中男性占比51.81%，女性占比48.19%，人口密度为311.87人/平方公里，人口数世界排名第二&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;民族&lt;/strong&gt; 印度有10个大民族和许多小民族，其中印度斯坦族占46.3%，泰卢固族占8.6%，孟加拉族占7.7%，泰米尔族占7.4%，还有其他民族&lt;/p&gt;
-&lt;h3&gt;主要节日&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;p&gt;共和国日（1月26日），即国庆节，各邦首都均有庆祝盛会及巡行，以首都新德里的巡行最为壮观&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;独立日（8月15日），在这一天，印度总理要在新德里的红堡上升起三色国旗，发表讲话，总统要向全国人民致辞祝贺独立节&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;洒红节（每年公历3、4月间），印度四大节日之一，代表着色彩单调的冬天终于结束，并预示着春天土地的丰饶。洒红节来临时，人民不管相识与否，
-都可以向对方泼红水，或是用各种颜色的粉泼撒对方，用各色颜料把对对方涂成大花脸和大红袍&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;十胜节（公历9月、10月间），印度教节日，也是全国性的重大节日。十胜节的前9天，各地搭台演戏，从罗摩降生开始，一直演到罗摩最后彻底战胜罗波那。
-这种活动被称之为“罗摩里拉”。一般都是在露天举行&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;排灯节（公历10月、11月间），印度教徒最大的节日，全国庆祝3天。在此期间，各公园、庙宇、商业中心，广场布置的像仙境一般，文艺节目业丰富多彩。&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;元旦，从每年10月31日起为新年共5天，第四天为元旦。新年第一天，谁也不许对人生气，更不准发脾气。有些地区的人们以禁食一天一夜来迎接新的一天，
-由元旦凌晨开始知道午夜为止。由于这种怪异的习俗，印度的元旦被人成为“痛哭元旦”、“禁食元旦”&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3&gt;宗教&lt;/h3&gt;
-&lt;p&gt;83%的居民信奉印度教，其次为伊斯兰教、基督教、锡克教、佛教和耆那教等&lt;/p&gt;
-&lt;h3&gt;种族制度&lt;/h3&gt;
-&lt;p&gt;印度教与佛教和基督教等其他宗教最大的不同是，印度教直接宣扬世袭等级制度，把种族制度作为核心教义，要求教徒严格遵守种姓制度。种姓制度是最典型、
-最森严的等级制度。四个等级在地位、权力、职业、义务等方面有严格的规定。&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;p&gt;以僧侣贵族为主的第一等级婆罗门，拥有着解释宗教经典和祭神的特权&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;以军事贵族和行政贵族为主的第二等级刹帝利，拥有征收各种赋税的特权&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;以雅利安人自由平民为第三等级吠舍，从事农、牧、渔、猎等，必须以布施和纳税的形势来供奉前两个等级&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;被征服的土著居民是第四等级首陀罗，只能从事农、牧、渔、猎等以及其他低贱的职业&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3&gt;自然资源及工业分布&lt;/h3&gt;
-&lt;p&gt;&lt;figure&gt;&lt;img data-width="720" data-height="611" src="https://cdn.jsdelivr.net/gh/mikamichael/Blog-With-GitHub-Boilerplate@gh-pages/archives/assets/154acaab69c9aa91016f9056a0a6fe76.jpg" alt="矿产资源和工业分布图" /&gt;&lt;figcaption&gt;矿产资源和工业分布图&lt;/figcaption&gt;&lt;/figure&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;自然资源&lt;/strong&gt; 印度矿产资源丰富，铝土储量和煤产量均占世界第五，云母出口量占世界出口量的60%。此外，还有石膏、钻石及钛、钍、铀等矿藏。森林覆盖率为21.9%&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;工业分布&lt;/strong&gt; 印度的三大传统工业区都分布在原料地附近。三大传统工业区分别是：德干高原东北部，主要为钢铁工业，周边煤、铁、锰丰富；西北部孟买，
-主要为棉纺工业，靠近最主要的棉产区和对外贸易港；东北部加尔各答，主要为麻纺工业，地处黄麻产地和港口&lt;/p&gt;
-&lt;h3&gt;GDP&lt;/h3&gt;
-&lt;p&gt;&lt;figure&gt;&lt;img data-width="730" data-height="340" src="https://cdn.jsdelivr.net/gh/mikamichael/Blog-With-GitHub-Boilerplate@gh-pages/archives/assets/b9e6c66c0963a961107a121ff353023e.png" alt="2008年-2020年印度GDP" /&gt;&lt;figcaption&gt;2008年-2020年印度GDP&lt;/figcaption&gt;&lt;/figure&gt;&lt;/p&gt;
-&lt;p&gt;2008年-2020年间，印度的GDP总体呈增长趋势，2018年印度的GDP为27263.2亿美元。印度的GDP值占世界经济的4.40%&lt;/p&gt;
-&lt;p&gt;从1960年到2018年，印度的GDP平均为5879.3亿美元，在2018年创历史新高的27263.2亿美元&lt;/p&gt;
-&lt;p&gt;&lt;figure&gt;&lt;img data-width="730" data-height="340" src="https://cdn.jsdelivr.net/gh/mikamichael/Blog-With-GitHub-Boilerplate@gh-pages/archives/assets/87f692561cbbb29ea6a1d17f8bc067c9.png" alt="2008年-2020年GDP增长率" /&gt;&lt;figcaption&gt;2008年-2020年GDP增长率&lt;/figcaption&gt;&lt;/figure&gt;&lt;/p&gt;
-&lt;p&gt;2008年-2019年，印度GDP增长率波动较大，近两年来增速放缓，主要愿意是工厂产出和出口下降，投资放缓&lt;/p&gt;
-&lt;p&gt;从1951年到2019年，印度的GDP年增长率平均为6.18%，在2010年第一季度达到了11.40%的历史最高水平&lt;/p&gt;
-&lt;h3&gt;外汇和黄金&lt;/h3&gt;
-&lt;p&gt;&lt;figure&gt;&lt;img data-width="730" data-height="340" src="https://cdn.jsdelivr.net/gh/mikamichael/Blog-With-GitHub-Boilerplate@gh-pages/archives/assets/4920a8db22cf41a230f08d5797931804.png" alt="2008年-2020年外汇储备" /&gt;&lt;figcaption&gt;2008年-2020年外汇储备&lt;/figcaption&gt;&lt;/figure&gt;
-&lt;figure&gt;&lt;img data-width="730" data-height="340" src="https://cdn.jsdelivr.net/gh/mikamichael/Blog-With-GitHub-Boilerplate@gh-pages/archives/assets/fd841be68064e3b22867ac8aefd1ab9b.png" alt="2008年-2020年黄金储备" /&gt;&lt;figcaption&gt;2008年-2020年黄金储备&lt;/figcaption&gt;&lt;/figure&gt;&lt;/p&gt;
-&lt;p&gt;2008年-2019年，印度外汇储备呈不断增长趋势&lt;/p&gt;
-&lt;p&gt;从1998年到2020年，印度的外汇储备平均为22898.93万美元，在2020年1月达到历史最高的461160万美元&lt;/p&gt;
-&lt;p&gt;2008年到2019年，印度黄金储备变化不大，2010年-2018年储量持平，2019年储量增长&lt;/p&gt;
-&lt;p&gt;2000年-2019年，印度黄金储量平均为464.24吨，2019年第二季度为618.16吨的历史最高水平，2001年第二季度为357.75吨的历史最低水平&lt;/p&gt;
-&lt;h3&gt;就业率&lt;/h3&gt;
-&lt;p&gt;&lt;figure&gt;&lt;img data-width="730" data-height="340" src="https://cdn.jsdelivr.net/gh/mikamichael/Blog-With-GitHub-Boilerplate@gh-pages/archives/assets/82d434a0c4c7ecca4433b0741e8eea36.png" alt="2012年-2018年印度就业率" /&gt;&lt;figcaption&gt;2012年-2018年印度就业率&lt;/figcaption&gt;&lt;/figure&gt;&lt;/p&gt;
-&lt;p&gt;印度国家抽样调查办公室的定期劳动力调差显示，2017年-2018年，印度就业人口比例为46.8%&lt;/p&gt;
-&lt;p&gt;从2012年到2018年，印度的平均就业率为48.76%，2012年为50.80%的历史最高水平，2018年为46.80%的历史最低水平&lt;/p&gt;
-&lt;h3&gt;平均工资&lt;/h3&gt;
-&lt;p&gt;&lt;figure&gt;&lt;img data-width="730" data-height="340" src="https://cdn.jsdelivr.net/gh/mikamichael/Blog-With-GitHub-Boilerplate@gh-pages/archives/assets/b2f64ecfb8b6be1a3f6ca859d605a3f8.png" alt="2010-2020最低日工资" /&gt;&lt;figcaption&gt;2010-2020最低日工资&lt;/figcaption&gt;&lt;/figure&gt;&lt;/p&gt;
-&lt;p&gt;从1965年到2014年，印度平均工资为146.00印度卢比/天，在2014年达到历史最高水平272.19卢比/天&lt;/p&gt;
-&lt;p&gt;2017年-2019年，印度的最低工资维持在176卢比/天。从2014年到2019年，印度的最低工资平均为164.17卢比/天&lt;/p&gt;
-&lt;p&gt;&lt;figure&gt;&lt;img data-width="730" data-height="340" src="https://cdn.jsdelivr.net/gh/mikamichael/Blog-With-GitHub-Boilerplate@gh-pages/archives/assets/97b716f832d0248da24ee6da860b04a7.png" alt="2010年到2020年CPI" /&gt;&lt;figcaption&gt;2010年到2020年CPI&lt;/figcaption&gt;&lt;/figure&gt;
-&lt;figure&gt;&lt;img data-width="730" data-height="340" src="https://cdn.jsdelivr.net/gh/mikamichael/Blog-With-GitHub-Boilerplate@gh-pages/archives/assets/69e10a01ad2763c7b8d5a7cdb511dc3a.png" alt="2012年-2020年印度通货膨胀率" /&gt;&lt;figcaption&gt;2012年-2020年印度通货膨胀率&lt;/figcaption&gt;&lt;/figure&gt;&lt;/p&gt;
-&lt;p&gt;2011年-2019年，印度物价指数不断升高&lt;/p&gt;
-&lt;p&gt;从2011年到2019年印度消费者价格指数平均为120.39个指数点，在2019年11月达到历史最高的148.60个指数点，在2011年2月达到历史最低的
-86.81个指数点&lt;/p&gt;
-&lt;p&gt;2012年-2019年，印度通过膨胀率波动较大&lt;/p&gt;
-&lt;p&gt;从2012年到2019年，印度的平均通胀率为5.98%，2013年11月达到历史最高水平12.17%，2017年6月达到历史最低水平1.54%&lt;/p&gt;
-&lt;h3&gt;所得税&lt;/h3&gt;
-&lt;h4&gt;企业所得税&lt;/h4&gt;
-&lt;p&gt;&lt;figure&gt;&lt;img data-width="730" data-height="340" src="https://cdn.jsdelivr.net/gh/mikamichael/Blog-With-GitHub-Boilerplate@gh-pages/archives/assets/f579f2d2ef71f4fc49cbca9c48d2ac14.png" alt="2009年-2019年企业所得税税率" /&gt;&lt;figcaption&gt;2009年-2019年企业所得税税率&lt;/figcaption&gt;&lt;/figure&gt;&lt;/p&gt;
-&lt;p&gt;印度国内公司的实际企业税率为25.17%，包括所有此类国内公司的附加费和企业所得税&lt;/p&gt;
-&lt;p&gt;从1997年到2019年，印度的企业税率平均为34.52%，2001年达到38.95%的历史最高水平，2019年达到25.17%的历史最低水平&lt;/p&gt;
-&lt;h4&gt;个人所得税&lt;/h4&gt;
-&lt;p&gt;&lt;figure&gt;&lt;img data-width="730" data-height="340" src="https://cdn.jsdelivr.net/gh/mikamichael/Blog-With-GitHub-Boilerplate@gh-pages/archives/assets/a80eb229cfb0462863a7deb0d2b4823c.png" alt="2010年-2018年个人所得税税率" /&gt;&lt;figcaption&gt;2010年-2018年个人所得税税率&lt;/figcaption&gt;&lt;/figure&gt;&lt;/p&gt;
-&lt;p&gt;印度的个人所得税税率为35.88%&lt;/p&gt;
-&lt;p&gt;从2004年到2018年，印度的个人所得税平均税率为32.05%，2018年达到35.88%的历史最高水平&lt;/p&gt;
-&lt;p&gt;&lt;font color=#DCDCDC size=1&gt;（PS:  本文部分数据参考商务部、tradingeconomics等，由外跨研究中心综合整理，转载请务必标明出处。）&lt;/font&gt;&lt;/p&gt;
-</content><link href="/archives/2020-02-29-01/" rel="alternate"/><published>2020-02-29T00:00:00+08:06</published></entry><entry><id>/archives/2020-02-29-02/</id><title>如何低成本建立公司网站</title><updated>2020-03-01T03:21:24.067614+00:00</updated><author><name>MIKA</name><email>359911923@qq.com</email><uri>https://www.wangxfei.com</uri></author><content>&lt;p&gt;建立一个公司网站，需要哪些条件呢？&lt;/p&gt;
+</content><link href="/archives/2020-02-28-01/" rel="alternate"/><published>2020-02-28T00:00:00+08:06</published></entry><entry><id>/archives/2020-02-29-02/</id><title>如何低成本建立公司网站</title><updated>2020-03-04T04:59:41.094008+00:00</updated><author><name>MIKA</name><email>359911923@qq.com</email><uri>https://www.wangxfei.com</uri></author><content>&lt;p&gt;建立一个公司网站，需要哪些条件呢？&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;p&gt;虚拟主机或者服务器VPS&lt;/p&gt;
 &lt;/li&gt;
@@ -1098,7 +701,244 @@ my signature. Is that agreeable to you?&lt;/p&gt;
 把upload_max_filesize 调大，我刚才调整到50&lt;/p&gt;
 &lt;p&gt;然后点击应用。就没有问题了。&lt;/p&gt;
 &lt;p&gt;如果再遇到其他问题，请通过微信联系我&lt;/p&gt;
-</content><link href="/archives/2020-02-29-02/" rel="alternate"/><published>2020-02-29T00:00:00+08:06</published></entry><entry><id>/archives/2020-03-01-01/</id><title>外贸单证下载汇总</title><updated>2020-03-01T03:21:24.067556+00:00</updated><author><name>MIKA</name><email>359911923@qq.com</email><uri>https://www.wangxfei.com</uri></author><content>&lt;h3&gt;货运单据&lt;/h3&gt;
+</content><link href="/archives/2020-02-29-02/" rel="alternate"/><published>2020-02-29T00:00:00+08:06</published></entry><entry><id>/archives/2020-02-29-01/</id><title>市场调查之印度（一）</title><updated>2020-03-04T04:59:41.093978+00:00</updated><author><name>MIKA</name><email>359911923@qq.com</email><uri>https://www.wangxfei.com</uri></author><content>&lt;p&gt;&lt;figure&gt;&lt;img data-width="2370" data-height="2370" src="https://cdn.jsdelivr.net/gh/mikamichael/Blog-With-GitHub-Boilerplate@gh-pages/archives/assets/651d037f1cc57fa2bd543d150f5baf69.png" alt="印度" /&gt;&lt;figcaption&gt;印度&lt;/figcaption&gt;&lt;/figure&gt;&lt;/p&gt;
+&lt;h3&gt;基本概述&lt;/h3&gt;
+&lt;h4&gt;简介&lt;/h4&gt;
+&lt;p&gt;印度共和国，英语：Republic of India，统称印度（India)。位于南亚，是南亚次大陆最大的国家，也是一个由100多个民族
+构成的统一多民族国家。&lt;/p&gt;
+&lt;h4&gt;位置&lt;/h4&gt;
+&lt;p&gt;领土东北部同孟加拉国、尼泊尔、不丹和中国接壤，东部与缅甸为邻，东南部与斯里兰卡隔海相望，西北部与巴基斯坦交界。
+东临孟加拉湾，西邻阿拉伯海，海岸线长5560千米。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;首都&lt;/strong&gt; 新德里&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;主要城市&lt;/strong&gt; 孟买、加尔各答、金奈、班加罗尔、海得拉巴、昌迪加尔&lt;/p&gt;
+&lt;h4&gt;语言&lt;/h4&gt;
+&lt;p&gt;印度的官方语言是印地语，英语未第二附加官方语言。印度的语系主要由印欧语系、汉藏语系、南亚语系、德拉维达语系，语言复杂&lt;/p&gt;
+&lt;h4&gt;印度最大城市排名&lt;/h4&gt;
+&lt;table&gt;
+&lt;thead&gt;&lt;tr&gt;
+&lt;th style="text-align:left"&gt;&lt;strong&gt;排名&lt;/strong&gt;&lt;/th&gt;
+&lt;th style="text-align:left"&gt;&lt;strong&gt;城市名称&lt;/strong&gt;&lt;/th&gt;
+&lt;th style="text-align:left"&gt;&lt;strong&gt;邦/中央直辖区&lt;/strong&gt;&lt;/th&gt;
+&lt;th style="text-align:left"&gt;&lt;strong&gt;人口&lt;/strong&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style="text-align:left"&gt;1&lt;/td&gt;
+&lt;td style="text-align:left"&gt;新德里&lt;/td&gt;
+&lt;td style="text-align:left"&gt;德里国家首都辖区&lt;/td&gt;
+&lt;td style="text-align:left"&gt;16,753,235&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="text-align:left"&gt;2&lt;/td&gt;
+&lt;td style="text-align:left"&gt;孟买&lt;/td&gt;
+&lt;td style="text-align:left"&gt;马哈拉施特拉邦&lt;/td&gt;
+&lt;td style="text-align:left"&gt;12,478,447&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="text-align:left"&gt;3&lt;/td&gt;
+&lt;td style="text-align:left"&gt;班加罗尔&lt;/td&gt;
+&lt;td style="text-align:left"&gt;卡纳塔克邦&lt;/td&gt;
+&lt;td style="text-align:left"&gt;8,425,970&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="text-align:left"&gt;4&lt;/td&gt;
+&lt;td style="text-align:left"&gt;金奈&lt;/td&gt;
+&lt;td style="text-align:left"&gt;泰米尔纳德邦&lt;/td&gt;
+&lt;td style="text-align:left"&gt;7,088,000&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="text-align:left"&gt;5&lt;/td&gt;
+&lt;td style="text-align:left"&gt;海得拉巴&lt;/td&gt;
+&lt;td style="text-align:left"&gt;特伦甘纳邦&lt;/td&gt;
+&lt;td style="text-align:left"&gt;6,809,970&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="text-align:left"&gt;6&lt;/td&gt;
+&lt;td style="text-align:left"&gt;艾哈迈达巴德&lt;/td&gt;
+&lt;td style="text-align:left"&gt;古吉拉特邦&lt;/td&gt;
+&lt;td style="text-align:left"&gt;5,577,976&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="text-align:left"&gt;7&lt;/td&gt;
+&lt;td style="text-align:left"&gt;加尔各答&lt;/td&gt;
+&lt;td style="text-align:left"&gt;西孟加拉邦&lt;/td&gt;
+&lt;td style="text-align:left"&gt;4,486,679&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="text-align:left"&gt;8&lt;/td&gt;
+&lt;td style="text-align:left"&gt;苏拉特&lt;/td&gt;
+&lt;td style="text-align:left"&gt;古吉拉特邦&lt;/td&gt;
+&lt;td style="text-align:left"&gt;4,486,679&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="text-align:left"&gt;9&lt;/td&gt;
+&lt;td style="text-align:left"&gt;浦那&lt;/td&gt;
+&lt;td style="text-align:left"&gt;马哈拉施特拉邦&lt;/td&gt;
+&lt;td style="text-align:left"&gt;3,115,431&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="text-align:left"&gt;10&lt;/td&gt;
+&lt;td style="text-align:left"&gt;斋浦尔&lt;/td&gt;
+&lt;td style="text-align:left"&gt;拉贾斯坦邦&lt;/td&gt;
+&lt;td style="text-align:left"&gt;3,073,350&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;&lt;strong&gt;人口&lt;/strong&gt; 印度2018年人口大约为13.54亿人。其中男性占比51.81%，女性占比48.19%，人口密度为311.87人/平方公里，人口数世界排名第二&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;民族&lt;/strong&gt; 印度有10个大民族和许多小民族，其中印度斯坦族占46.3%，泰卢固族占8.6%，孟加拉族占7.7%，泰米尔族占7.4%，还有其他民族&lt;/p&gt;
+&lt;h3&gt;主要节日&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;共和国日（1月26日），即国庆节，各邦首都均有庆祝盛会及巡行，以首都新德里的巡行最为壮观&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;独立日（8月15日），在这一天，印度总理要在新德里的红堡上升起三色国旗，发表讲话，总统要向全国人民致辞祝贺独立节&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;洒红节（每年公历3、4月间），印度四大节日之一，代表着色彩单调的冬天终于结束，并预示着春天土地的丰饶。洒红节来临时，人民不管相识与否，
+都可以向对方泼红水，或是用各种颜色的粉泼撒对方，用各色颜料把对对方涂成大花脸和大红袍&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;十胜节（公历9月、10月间），印度教节日，也是全国性的重大节日。十胜节的前9天，各地搭台演戏，从罗摩降生开始，一直演到罗摩最后彻底战胜罗波那。
+这种活动被称之为“罗摩里拉”。一般都是在露天举行&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;排灯节（公历10月、11月间），印度教徒最大的节日，全国庆祝3天。在此期间，各公园、庙宇、商业中心，广场布置的像仙境一般，文艺节目业丰富多彩。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;元旦，从每年10月31日起为新年共5天，第四天为元旦。新年第一天，谁也不许对人生气，更不准发脾气。有些地区的人们以禁食一天一夜来迎接新的一天，
+由元旦凌晨开始知道午夜为止。由于这种怪异的习俗，印度的元旦被人成为“痛哭元旦”、“禁食元旦”&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;宗教&lt;/h3&gt;
+&lt;p&gt;83%的居民信奉印度教，其次为伊斯兰教、基督教、锡克教、佛教和耆那教等&lt;/p&gt;
+&lt;h3&gt;种族制度&lt;/h3&gt;
+&lt;p&gt;印度教与佛教和基督教等其他宗教最大的不同是，印度教直接宣扬世袭等级制度，把种族制度作为核心教义，要求教徒严格遵守种姓制度。种姓制度是最典型、
+最森严的等级制度。四个等级在地位、权力、职业、义务等方面有严格的规定。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;以僧侣贵族为主的第一等级婆罗门，拥有着解释宗教经典和祭神的特权&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;以军事贵族和行政贵族为主的第二等级刹帝利，拥有征收各种赋税的特权&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;以雅利安人自由平民为第三等级吠舍，从事农、牧、渔、猎等，必须以布施和纳税的形势来供奉前两个等级&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;被征服的土著居民是第四等级首陀罗，只能从事农、牧、渔、猎等以及其他低贱的职业&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;自然资源及工业分布&lt;/h3&gt;
+&lt;p&gt;&lt;figure&gt;&lt;img data-width="720" data-height="611" src="https://cdn.jsdelivr.net/gh/mikamichael/Blog-With-GitHub-Boilerplate@gh-pages/archives/assets/154acaab69c9aa91016f9056a0a6fe76.jpg" alt="矿产资源和工业分布图" /&gt;&lt;figcaption&gt;矿产资源和工业分布图&lt;/figcaption&gt;&lt;/figure&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;自然资源&lt;/strong&gt; 印度矿产资源丰富，铝土储量和煤产量均占世界第五，云母出口量占世界出口量的60%。此外，还有石膏、钻石及钛、钍、铀等矿藏。森林覆盖率为21.9%&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;工业分布&lt;/strong&gt; 印度的三大传统工业区都分布在原料地附近。三大传统工业区分别是：德干高原东北部，主要为钢铁工业，周边煤、铁、锰丰富；西北部孟买，
+主要为棉纺工业，靠近最主要的棉产区和对外贸易港；东北部加尔各答，主要为麻纺工业，地处黄麻产地和港口&lt;/p&gt;
+&lt;h3&gt;GDP&lt;/h3&gt;
+&lt;p&gt;&lt;figure&gt;&lt;img data-width="730" data-height="340" src="https://cdn.jsdelivr.net/gh/mikamichael/Blog-With-GitHub-Boilerplate@gh-pages/archives/assets/b9e6c66c0963a961107a121ff353023e.png" alt="2008年-2020年印度GDP" /&gt;&lt;figcaption&gt;2008年-2020年印度GDP&lt;/figcaption&gt;&lt;/figure&gt;&lt;/p&gt;
+&lt;p&gt;2008年-2020年间，印度的GDP总体呈增长趋势，2018年印度的GDP为27263.2亿美元。印度的GDP值占世界经济的4.40%&lt;/p&gt;
+&lt;p&gt;从1960年到2018年，印度的GDP平均为5879.3亿美元，在2018年创历史新高的27263.2亿美元&lt;/p&gt;
+&lt;p&gt;&lt;figure&gt;&lt;img data-width="730" data-height="340" src="https://cdn.jsdelivr.net/gh/mikamichael/Blog-With-GitHub-Boilerplate@gh-pages/archives/assets/87f692561cbbb29ea6a1d17f8bc067c9.png" alt="2008年-2020年GDP增长率" /&gt;&lt;figcaption&gt;2008年-2020年GDP增长率&lt;/figcaption&gt;&lt;/figure&gt;&lt;/p&gt;
+&lt;p&gt;2008年-2019年，印度GDP增长率波动较大，近两年来增速放缓，主要愿意是工厂产出和出口下降，投资放缓&lt;/p&gt;
+&lt;p&gt;从1951年到2019年，印度的GDP年增长率平均为6.18%，在2010年第一季度达到了11.40%的历史最高水平&lt;/p&gt;
+&lt;h3&gt;外汇和黄金&lt;/h3&gt;
+&lt;p&gt;&lt;figure&gt;&lt;img data-width="730" data-height="340" src="https://cdn.jsdelivr.net/gh/mikamichael/Blog-With-GitHub-Boilerplate@gh-pages/archives/assets/4920a8db22cf41a230f08d5797931804.png" alt="2008年-2020年外汇储备" /&gt;&lt;figcaption&gt;2008年-2020年外汇储备&lt;/figcaption&gt;&lt;/figure&gt;
+&lt;figure&gt;&lt;img data-width="730" data-height="340" src="https://cdn.jsdelivr.net/gh/mikamichael/Blog-With-GitHub-Boilerplate@gh-pages/archives/assets/fd841be68064e3b22867ac8aefd1ab9b.png" alt="2008年-2020年黄金储备" /&gt;&lt;figcaption&gt;2008年-2020年黄金储备&lt;/figcaption&gt;&lt;/figure&gt;&lt;/p&gt;
+&lt;p&gt;2008年-2019年，印度外汇储备呈不断增长趋势&lt;/p&gt;
+&lt;p&gt;从1998年到2020年，印度的外汇储备平均为22898.93万美元，在2020年1月达到历史最高的461160万美元&lt;/p&gt;
+&lt;p&gt;2008年到2019年，印度黄金储备变化不大，2010年-2018年储量持平，2019年储量增长&lt;/p&gt;
+&lt;p&gt;2000年-2019年，印度黄金储量平均为464.24吨，2019年第二季度为618.16吨的历史最高水平，2001年第二季度为357.75吨的历史最低水平&lt;/p&gt;
+&lt;h3&gt;就业率&lt;/h3&gt;
+&lt;p&gt;&lt;figure&gt;&lt;img data-width="730" data-height="340" src="https://cdn.jsdelivr.net/gh/mikamichael/Blog-With-GitHub-Boilerplate@gh-pages/archives/assets/82d434a0c4c7ecca4433b0741e8eea36.png" alt="2012年-2018年印度就业率" /&gt;&lt;figcaption&gt;2012年-2018年印度就业率&lt;/figcaption&gt;&lt;/figure&gt;&lt;/p&gt;
+&lt;p&gt;印度国家抽样调查办公室的定期劳动力调差显示，2017年-2018年，印度就业人口比例为46.8%&lt;/p&gt;
+&lt;p&gt;从2012年到2018年，印度的平均就业率为48.76%，2012年为50.80%的历史最高水平，2018年为46.80%的历史最低水平&lt;/p&gt;
+&lt;h3&gt;平均工资&lt;/h3&gt;
+&lt;p&gt;&lt;figure&gt;&lt;img data-width="730" data-height="340" src="https://cdn.jsdelivr.net/gh/mikamichael/Blog-With-GitHub-Boilerplate@gh-pages/archives/assets/b2f64ecfb8b6be1a3f6ca859d605a3f8.png" alt="2010-2020最低日工资" /&gt;&lt;figcaption&gt;2010-2020最低日工资&lt;/figcaption&gt;&lt;/figure&gt;&lt;/p&gt;
+&lt;p&gt;从1965年到2014年，印度平均工资为146.00印度卢比/天，在2014年达到历史最高水平272.19卢比/天&lt;/p&gt;
+&lt;p&gt;2017年-2019年，印度的最低工资维持在176卢比/天。从2014年到2019年，印度的最低工资平均为164.17卢比/天&lt;/p&gt;
+&lt;p&gt;&lt;figure&gt;&lt;img data-width="730" data-height="340" src="https://cdn.jsdelivr.net/gh/mikamichael/Blog-With-GitHub-Boilerplate@gh-pages/archives/assets/97b716f832d0248da24ee6da860b04a7.png" alt="2010年到2020年CPI" /&gt;&lt;figcaption&gt;2010年到2020年CPI&lt;/figcaption&gt;&lt;/figure&gt;
+&lt;figure&gt;&lt;img data-width="730" data-height="340" src="https://cdn.jsdelivr.net/gh/mikamichael/Blog-With-GitHub-Boilerplate@gh-pages/archives/assets/69e10a01ad2763c7b8d5a7cdb511dc3a.png" alt="2012年-2020年印度通货膨胀率" /&gt;&lt;figcaption&gt;2012年-2020年印度通货膨胀率&lt;/figcaption&gt;&lt;/figure&gt;&lt;/p&gt;
+&lt;p&gt;2011年-2019年，印度物价指数不断升高&lt;/p&gt;
+&lt;p&gt;从2011年到2019年印度消费者价格指数平均为120.39个指数点，在2019年11月达到历史最高的148.60个指数点，在2011年2月达到历史最低的
+86.81个指数点&lt;/p&gt;
+&lt;p&gt;2012年-2019年，印度通过膨胀率波动较大&lt;/p&gt;
+&lt;p&gt;从2012年到2019年，印度的平均通胀率为5.98%，2013年11月达到历史最高水平12.17%，2017年6月达到历史最低水平1.54%&lt;/p&gt;
+&lt;h3&gt;所得税&lt;/h3&gt;
+&lt;h4&gt;企业所得税&lt;/h4&gt;
+&lt;p&gt;&lt;figure&gt;&lt;img data-width="730" data-height="340" src="https://cdn.jsdelivr.net/gh/mikamichael/Blog-With-GitHub-Boilerplate@gh-pages/archives/assets/f579f2d2ef71f4fc49cbca9c48d2ac14.png" alt="2009年-2019年企业所得税税率" /&gt;&lt;figcaption&gt;2009年-2019年企业所得税税率&lt;/figcaption&gt;&lt;/figure&gt;&lt;/p&gt;
+&lt;p&gt;印度国内公司的实际企业税率为25.17%，包括所有此类国内公司的附加费和企业所得税&lt;/p&gt;
+&lt;p&gt;从1997年到2019年，印度的企业税率平均为34.52%，2001年达到38.95%的历史最高水平，2019年达到25.17%的历史最低水平&lt;/p&gt;
+&lt;h4&gt;个人所得税&lt;/h4&gt;
+&lt;p&gt;&lt;figure&gt;&lt;img data-width="730" data-height="340" src="https://cdn.jsdelivr.net/gh/mikamichael/Blog-With-GitHub-Boilerplate@gh-pages/archives/assets/a80eb229cfb0462863a7deb0d2b4823c.png" alt="2010年-2018年个人所得税税率" /&gt;&lt;figcaption&gt;2010年-2018年个人所得税税率&lt;/figcaption&gt;&lt;/figure&gt;&lt;/p&gt;
+&lt;p&gt;印度的个人所得税税率为35.88%&lt;/p&gt;
+&lt;p&gt;从2004年到2018年，印度的个人所得税平均税率为32.05%，2018年达到35.88%的历史最高水平&lt;/p&gt;
+&lt;p&gt;&lt;font color=#DCDCDC size=1&gt;（PS:  本文部分数据参考商务部、tradingeconomics等，由外跨研究中心综合整理，转载请务必标明出处。）&lt;/font&gt;&lt;/p&gt;
+</content><link href="/archives/2020-02-29-01/" rel="alternate"/><published>2020-02-29T00:00:00+08:06</published></entry><entry><id>/archives/2020-02-29-03/</id><title>2020年三月节日</title><updated>2020-03-04T04:59:41.093948+00:00</updated><author><name>MIKA</name><email>359911923@qq.com</email><uri>https://www.wangxfei.com</uri></author><content>&lt;p&gt;&lt;figure&gt;&lt;img data-width="1092" data-height="662" src="https://cdn.jsdelivr.net/gh/mikamichael/Blog-With-GitHub-Boilerplate@gh-pages/archives/assets/566a541fd266cc1930869a28b3761d63.png" alt="三月节日" /&gt;&lt;figcaption&gt;三月节日&lt;/figcaption&gt;&lt;/figure&gt;&lt;/p&gt;
+&lt;h4&gt;3月1日&lt;br&gt; 韩国·独立日&lt;/h4&gt;
+&lt;p&gt;韩国三一节，又叫独立日，是韩国法定节假日。全国放假一天&lt;/p&gt;
+&lt;h4&gt;3月3日&lt;br&gt; 日本·女儿节&lt;/h4&gt;
+&lt;p&gt;也称偶人节、上巳、桃花节，是日本民间五大节日一直。原本在农历的三月初三，明治维新后为3月3日&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;习俗&lt;/strong&gt; 家中有女儿者与当天装饰小偶人，供奉菱形黏糕、桃花，以示祝贺并祈求女儿幸福。这天女孩多穿和服，
+邀请玩伴，在偶人坛前食糕饼、饮白色甜米酒。&lt;/p&gt;
+&lt;h4&gt;3月6日&lt;br&gt; 加纳·国庆日&lt;/h4&gt;
+&lt;p&gt;每年3月6日，为加纳国庆日，全国放假&lt;/p&gt;
+&lt;h4&gt;3月8日&lt;br&gt; 多国·国际妇女节&lt;/h4&gt;
+&lt;p&gt;在不同的地区，庆祝的重点有所不同，从普通的庆祝对女性的尊重、欣赏和爱意到庆祝女性在经济、政治及社会
+领域的成就，这个节日众多国家的文化都有融合。&lt;/p&gt;
+&lt;h4&gt;3月9日&lt;br&gt; 以色列·普珥节&lt;/h4&gt;
+&lt;p&gt;普珥节又叫普林节，为纪念和庆祝古代流落波斯帝国的犹太人从灭族的毁灭中幸存的节日。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;习俗&lt;/strong&gt; 现代的以色列，这个节日就是犹太人的狂欢节，几大城市都会举办化妆游行活动，场面十分有趣&lt;/p&gt;
+&lt;h4&gt;3月10日&lt;br&gt; 印度·洒红节&lt;/h4&gt;
+&lt;p&gt;也称胡里节、色彩节，四印度传统节日，也是印度传统新年&lt;/p&gt;
+&lt;p&gt;象征春天的来临，主要分布于印度、尼泊尔及世界各地的印度移民社区中。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;习俗&lt;/strong&gt; 洒红节一般为两天；第一天主要为祈祷仪式；第二天为狂欢日。&lt;/p&gt;
+&lt;h4&gt;3月17日&lt;br&gt; 多国·圣帕特里克节&lt;/h4&gt;
+&lt;p&gt;为纪念爱尔兰守护神圣帕特里克的节日，5世纪末起源于爱尔兰，如今已成为爱尔兰的国庆节&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;习俗&lt;/strong&gt; 随着爱尔兰后裔遍布世界各地。现在，圣帕特里克节已经渐渐在加拿大、英国、澳大利亚、美国和
+新西兰等国家广为庆祝。&lt;/p&gt;
+&lt;p&gt;圣帕特里克节的传统颜色为绿色。&lt;/p&gt;
+&lt;h4&gt;3月22日&lt;br&gt; 英国·母亲节&lt;/h4&gt;
+&lt;p&gt;英国的母亲节，与中国和美国等其它国家的母亲节不同&lt;/p&gt;
+&lt;p&gt;英国的母亲节不在五月的第二个星期天，而是每年的四旬斋（西方复活节之前除去星期天的四十天）的
+第四个星期天&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;习俗&lt;/strong&gt; 对于现在英国人来说，现在最常见的母亲节庆祝方式，就是送妈妈一束花、一盒巧克力或者一张贺卡&lt;/p&gt;
+&lt;h4&gt;3月23日&lt;br&gt; 巴基斯坦·国庆日&lt;/h4&gt;
+&lt;p&gt;每年的3月23日，是巴基斯坦国庆日，全国放假&lt;/p&gt;
+&lt;h4&gt;3月25日&lt;br&gt; 希腊·国庆日&lt;/h4&gt;
+&lt;p&gt;这一天标志着希腊人民开始了成功击败奥斯曼帝国的斗争（1821至1830年），并最终建立了独立国家&lt;/p&gt;
+&lt;h4&gt;3月26日&lt;br&gt; 孟加拉国·国庆日&lt;/h4&gt;
+&lt;p&gt;1971年3月26日，驻扎在吉大港地区的第八东孟加拉联队领导人齐亚·拉赫曼率部占领吉大
+港电台，宣布东孟加拉脱离巴基斯坦而独立，成立孟加拉国临时政府&lt;/p&gt;
+&lt;p&gt;独立后政府将此日定为国庆节及独立节。这天全国都举行隆重的庆祝活动&lt;/p&gt;
+&lt;p&gt;&lt;font color=#DCDCDC size=1&gt;（PS: 本文由外跨研究中心综合整理，转载请务必标明出处。）&lt;/font&gt;&lt;/p&gt;
+</content><link href="/archives/2020-02-29-03/" rel="alternate"/><published>2020-02-29T00:00:00+08:06</published></entry><entry><id>/archives/2020-02-29-04/</id><title>外贸工具汇总</title><updated>2020-03-04T04:59:41.093912+00:00</updated><author><name>MIKA</name><email>359911923@qq.com</email><uri>https://www.wangxfei.com</uri></author><content>&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href="http://www.hs-bianma.com/"&gt;海关编码查询&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href="http://hd.chinatax.gov.cn/nszx/InitChukou.html"&gt;出口退税查询&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href="http://wmsw.mofcom.gov.cn/wmsw/#"&gt;监管条件查询&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href="https://translate.google.com/"&gt;在线翻译工具&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href="http://www.chinadaily.com.cn/static/tools/exchange.html"&gt;度量制式转换&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href="https://www.uupoop.com/"&gt;在线PS&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href="https://www.alexa.com/topsites"&gt;全球网站排名查询&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href="https://www.alexa.com/find-similar-sites"&gt;相似网站查询&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href="https://www.xe.com/currencycharts/"&gt;各国汇率走势查询&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href="https://www.countrycode.org/"&gt;国家代码查询&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href="http://ccn.mofcom.gov.cn/"&gt;中国商品网&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href="http://202.127.48.148/zscq/search/jsp/vBrandSearchIndex.jsp#"&gt;知识产权备案查询&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href="http://fta.mofcom.gov.cn/"&gt;自贸协定查询&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href="http://www.customs.gov.cn/customs/302249/302266/302267/index.html"&gt;海关总署政策公告&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href="http://www.mofcom.gov.cn/article/b/"&gt;商务部政策公告&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href="http://www.safe.gov.cn/safe/zcfg/index.html"&gt;国家外汇管理局公告&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href="https://developers.google.com/speed/pagespeed/insights/?hl=zh-cn"&gt;网站质量测试&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+</content><link href="/archives/2020-02-29-04/" rel="alternate"/><published>2020-02-29T00:00:00+08:06</published></entry><entry><id>/archives/2020-03-01-01/</id><title>外贸单证下载汇总</title><updated>2020-03-04T04:59:41.093845+00:00</updated><author><name>MIKA</name><email>359911923@qq.com</email><uri>https://www.wangxfei.com</uri></author><content>&lt;h3&gt;货运单据&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;font color=red&gt;出口货物托运单&lt;/font&gt; &lt;a href="http://tradedoc.mofcom.gov.cn/TradeDoc/do/dz/fs/docroot/edu_sheet/100010101/10001010.doc?filename=10001010.doc&amp;amp;_downloadmode=2"&gt;&lt;strong&gt;点击下载&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
