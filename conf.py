@@ -93,8 +93,8 @@ head_addon = r
 valine = {
     "enable": True,
     "el": '#vcomments',
-    "appId": "RFMFqo5nYiOoh4LxdiuoBtNM-gzGzoHsz",
-    "appKey": "Ya8zqnM5xzSVgypkW1vfJsV3",
+    "appId": "83GyzkaMH5GXodOfhqRVDGKQ-MdYXbMMI",
+    "appKey": "urhuXqrhn7tDHztB8hQTCqcK",
     "visitor": True,
     "recordIP": True
 }
