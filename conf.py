@@ -85,10 +85,11 @@ nav = [
 #    }
 #]
 
+'''
 head_addon = r
 <meta http-equiv="x-dns-prefetch-control" content="on">
 <link rel="dns-prefetch" href="//cdn.jsdelivr.net" />
-
+'''
 valine = {
     "enable": True,
     "el": '#vcomments',
@@ -97,10 +98,12 @@ valine = {
     "visitor": True,
     "recordIP": True
 }
+'''
 <<<<<<< HEAD
 =======
 
 >>>>>>> 9232800285f838ea133b11911e19c1c1efc9ca4d
+'''
 
 footer_addon = ''
 
