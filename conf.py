@@ -35,7 +35,7 @@ author = "MIKA"
 email = "359911923@qq.com"
 author_homepage = "https://www.wangxfei.com"
 description = "外贸路上，愿我们都不再孤单。"
-key_words = ['Maverick', '熊猫小A', 'Galileo', 'blog']
+key_words = ['外贸', '建站', '商务英语', '客户开发']
 language = 'zh-CN'
 #external_links = [
 #    {
@@ -88,6 +88,15 @@ nav = [
 head_addon = r
 <meta http-equiv="x-dns-prefetch-control" content="on">
 <link rel="dns-prefetch" href="//cdn.jsdelivr.net" />
+
+valine = {
+    "enable": True,
+    "el": '#vcomments',
+    "appId": "RFMFqo5nYiOoh4LxdiuoBtNM-gzGzoHsz",
+    "appKey": "Ya8zqnM5xzSVgypkW1vfJsV3",
+    "visitor": True,
+    "recordIP": True
+}
 <<<<<<< HEAD
 =======
 
