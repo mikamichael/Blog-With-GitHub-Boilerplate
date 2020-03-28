@@ -1,53 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-CN"><id>/</id><title>外贸启航站</title><updated>2020-03-28T10:02:17.215084+08:06</updated><author><name>MIKA</name><email>359911923@qq.com</email></author><link href="/" rel="alternate"/><generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator><logo>https://cdn.jsdelivr.net/gh/mikamichael/Blog-With-GitHub-Boilerplate@gh-pages/logo.png</logo><subtitle>外贸路上，愿我们都不再孤单。</subtitle><entry><id>/archives/2020-02-09-02/</id><title>外贸案例-外贸业务解惑500例（二）</title><updated>2020-03-28T10:02:17.215571+00:00</updated><author><name>MIKA</name><email>359911923@qq.com</email><uri>https://www.wangxfei.com</uri></author><content>&lt;h3&gt;疑惑一&lt;/h3&gt;
-&lt;p&gt;某出口公司收到一份10万美元的信用证，但已经出口了9.5万美元的货物，该公司不打算
-再出货了，要不要通知开证行撤销余额？&lt;/p&gt;
-&lt;h4&gt;解惑&lt;/h4&gt;
-&lt;p&gt;如果信用证有“允许分装”的条款，就不必撤销。如果剩余的金额较大，占用了进口商在银行大量信用额度，出口
-公司则可通过通知银行电告开证将该信用证月撤销。这主要看买方的需求。&lt;/p&gt;
-&lt;h3&gt;疑惑二&lt;/h3&gt;
-&lt;p&gt;某出口公司不久前收到一位客户开来的信用证，信用证里有下列条款，如“THIS L/C WILL ONLY BE AVAILABLE AFTER
-RECEIPT FROM OUR PRINCIIPAL OF INSTRUCTION”，“THIS L/C IS NOT OPERATIVE UNTIL WE ARE ADVISED”，“THIS L/C
-IS INSPIRED PENDING RECEIPT OF AMENDMENT”，这是不是属于软条款呢？&lt;/p&gt;
-&lt;h4&gt;解惑&lt;/h4&gt;
-&lt;p&gt;是软条款。这种信用证未能生效，主动权掌握在开证人手里。严格来说，信用证里有软条款，受益人的利益就得不到保证。
-上述信用证里第一句是说，本信用证只有在收到我行委托人的指示后才可生效。第二局是说，我行接到通知后本信用证
-才能生效。第三局是说，本信用证只有收到修改后才能有效。因此，出口商一定要开证人修改取消上述类似的条款方
-可出运。否则，这种信用证只是一种商业信用，等于托收。&lt;/p&gt;
-&lt;h3&gt;疑惑三&lt;/h3&gt;
-&lt;p&gt;某信用证里有这样一句话：“THIS CREDIT WILL BECOME OPERATIVE ONLY AFTER THE APPLICANT'S RECEIPT OF THE 
-REQUESTED IMPORT LICENCE RELEASED BY OUR MINISTERIAL AUTHORITIES”，是不是也属于软条款呢？&lt;/p&gt;
-&lt;h3&gt;解惑&lt;/h3&gt;
-&lt;p&gt;是的。这个信用证也不能生效。上述意思是：只有等到开证人领到他们部级机构颁发的进口许可证，该信用证方可生效。
-这对受益人非常不利。因为许可证仍未办好，出口商岂不是收汇无望？因此，类似这样的信用证条款，出口商一定在出货
-前要求开证人修改删除，否则，肯定有后患。&lt;/p&gt;
-&lt;h3&gt;疑惑四&lt;/h3&gt;
-&lt;p&gt;”THIS CREDIT ONLY AVAILABLE AFTER RECEIPT BY YOU OF OUR ADVICE THAT OUR PRINCIPAL HAVE RECEIVED AND ACCEPTD
-THE REQUIRE FINAL L/C AMOUNTING TO 10% OF VALUE OF CREDIT AMOUNT ISSUED BY A FIRST CLASS BANK OF YOUR END
-COUNTERSIGNED BY US OR BY OUR AUTHORIZED BANK“，这一段文字出现在信用证里是不是也属于软条款。&lt;/p&gt;
-&lt;h4&gt;解惑&lt;/h4&gt;
-&lt;p&gt;是的。这句话的意思是：”本信用证只有在贵行收到我行发出通知后才能生效，通知内容是我客户已收到并接受一流银行
-开来的相当于本信用证金额10%的最终保函，该保函必须由我行和我行授权的另一家银行会签。“&lt;/p&gt;
-&lt;p&gt;这是进口商为了使自己的利益不受损害，要求开证行加列的反担保条款。出口地银行为出口商履约提供对应于信用证的
-反担保函，以换取开证行的付款承诺，一旦出口哦公司有违约行为，担保银行将按照反担保函中相关条款，对进口商作出
-赔偿。这种反担保形式和其他担保一样，是一种法律行为。如果出口商没有达成一些，进口商将上述软条款硬加入信用证，
-出口商有权要求进口商在发货以前改证，将上述条款取消。&lt;/p&gt;
-&lt;h3&gt;疑惑五&lt;/h3&gt;
-&lt;p&gt;开证申请人在信用证里规定，只有在开证申请人收到受益人寄出的样品，得到开证申请人确认可以发货并提供开证人可以
-发货的确认函以后，该信用证方才有效。原文是这样写的：”L/C WILL BECOME OPERATIONAL UPON BUYER'S APPROVAL 
-CERTIFICATE OF SHIPMENT WITH OTHER SHIPPING DOCUMENTS OF 8 PRODUCTION SAMPLES“，这样的条款是否也算软条款？&lt;/p&gt;
-&lt;h4&gt;解惑&lt;/h4&gt;
-&lt;p&gt;是的，上述英文意思是”只有当买方对每个货号的8个样品确认以后，并给受益人开列出发货确认函后，该信用证方可生效。“
-这种条款对出口人制约很大。在金瓯上没有确认样品并出具样品确认函以前，出口商无法备货出运。确认样品的时间长短
-也是出口商难以把握的，信用证里的装效期有可能因为等样品的确认而耽误，这些对出口商十分不利。因此，一定要求
-进口商改证以后方可发货。&lt;/p&gt;
-&lt;h3&gt;疑惑六&lt;/h3&gt;
-&lt;p&gt;开证申请人在信用证里规定，受益人必须额外付给开证行相当于4.5‰信用证金额作为信用证的启动生效费，信用证
-方可生效，像这样的条款是属于软条款吗？&lt;/p&gt;
-&lt;h4&gt;解惑&lt;/h4&gt;
-&lt;p&gt;是。这样的条款对受益人非常不利，如果不付给开证行这笔款，信用证就等于无效。因此，对于这样的条款。必须让
-开证人改证取消，否则，既不能马上备货，又损失一笔资金。&lt;/p&gt;
-</content><link href="/archives/2020-02-09-02/" rel="alternate"/><published>2020-02-09T00:00:00+08:06</published></entry><entry><id>/archives/2020-02-27-02/</id><title>外贸人员国外参展或拜访客户前的重要事项检查清单</title><updated>2020-03-28T10:02:17.215527+00:00</updated><author><name>MIKA</name><email>359911923@qq.com</email><uri>https://www.wangxfei.com</uri></author><content>&lt;p&gt;对于需要到国外出差的外贸人员，无论是经常出差还是偶尔出差，无论是参加展会、拜访客户或者是个人
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-CN"><id>/</id><title>外贸启航站</title><updated>2020-03-28T10:17:41.147425+08:06</updated><author><name>MIKA</name><email>359911923@qq.com</email></author><link href="/" rel="alternate"/><generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator><logo>https://cdn.jsdelivr.net/gh/mikamichael/Blog-With-GitHub-Boilerplate@gh-pages/logo.png</logo><subtitle>外贸路上，愿我们都不再孤单。</subtitle><entry><id>/archives/2020-02-27-02/</id><title>外贸人员国外参展或拜访客户前的重要事项检查清单</title><updated>2020-03-28T10:17:41.147762+00:00</updated><author><name>MIKA</name><email>359911923@qq.com</email><uri>https://www.wangxfei.com</uri></author><content>&lt;p&gt;对于需要到国外出差的外贸人员，无论是经常出差还是偶尔出差，无论是参加展会、拜访客户或者是个人
 旅行，一份出行钱重要事项的清单可以有效帮你避免慌乱与遗忘，更重要的是你可以在以下清单的
 基础商，根据自己的实际情况与经验不断更新完善出一份更适合自己的清单，从而让自己以后的每一次
 出行都变得更加高效、简单。&lt;/p&gt;
@@ -128,7 +80,7 @@ CERTIFICATE OF SHIPMENT WITH OTHER SHIPPING DOCUMENTS OF 8 PRODUCTION SAMPLES“
 &lt;li&gt;查询活资讯是否需要接种疫苗或做好相关防疫准备&lt;/li&gt;
 &lt;li&gt;提前取消或妥善安排快递投送和其他日常预定&lt;/li&gt;
 &lt;/ul&gt;
-</content><link href="/archives/2020-02-27-02/" rel="alternate"/><published>2020-02-27T00:00:00+08:06</published></entry><entry><id>/archives/2020-02-27-01/</id><title>市场调查之俄罗斯（五）</title><updated>2020-03-28T10:02:17.215501+00:00</updated><author><name>MIKA</name><email>359911923@qq.com</email><uri>https://www.wangxfei.com</uri></author><content>&lt;h4&gt;市场特点&lt;/h4&gt;
+</content><link href="/archives/2020-02-27-02/" rel="alternate"/><published>2020-02-27T00:00:00+08:06</published></entry><entry><id>/archives/2020-02-27-01/</id><title>市场调查之俄罗斯（五）</title><updated>2020-03-28T10:17:41.147739+00:00</updated><author><name>MIKA</name><email>359911923@qq.com</email><uri>https://www.wangxfei.com</uri></author><content>&lt;h4&gt;市场特点&lt;/h4&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;p&gt;在“一超多强”的国际体系钟，俄罗斯是有较大影响力的强国，其军工实力雄厚&lt;/p&gt;
 &lt;/li&gt;
@@ -292,7 +244,7 @@ CERTIFICATE OF SHIPMENT WITH OTHER SHIPPING DOCUMENTS OF 8 PRODUCTION SAMPLES“
 &lt;li&gt;&lt;p&gt;光电仪器税率为5%-13%&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
-</content><link href="/archives/2020-02-27-01/" rel="alternate"/><published>2020-02-27T00:00:00+08:06</published></entry><entry><id>/archives/2020-02-28-01/</id><title>市场调查之越南（五）</title><updated>2020-03-28T10:02:17.215475+00:00</updated><author><name>MIKA</name><email>359911923@qq.com</email><uri>https://www.wangxfei.com</uri></author><content>&lt;h3&gt;市场特点&lt;/h3&gt;
+</content><link href="/archives/2020-02-27-01/" rel="alternate"/><published>2020-02-27T00:00:00+08:06</published></entry><entry><id>/archives/2020-02-28-01/</id><title>市场调查之越南（五）</title><updated>2020-03-28T10:17:41.147715+00:00</updated><author><name>MIKA</name><email>359911923@qq.com</email><uri>https://www.wangxfei.com</uri></author><content>&lt;h3&gt;市场特点&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;p&gt;政局稳定，注重经济建设，近年来经济发展较快&lt;/p&gt;
 &lt;/li&gt;
@@ -459,7 +411,7 @@ CERTIFICATE OF SHIPMENT WITH OTHER SHIPPING DOCUMENTS OF 8 PRODUCTION SAMPLES“
 叫嚷；忌讳用脚指物，或把脚掌对向别人&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
-</content><link href="/archives/2020-02-28-01/" rel="alternate"/><published>2020-02-28T00:00:00+08:06</published></entry><entry><id>/archives/2020-02-29-02/</id><title>如何低成本建立公司网站</title><updated>2020-03-28T10:02:17.215438+00:00</updated><author><name>MIKA</name><email>359911923@qq.com</email><uri>https://www.wangxfei.com</uri></author><content>&lt;p&gt;建立一个公司网站，需要哪些条件呢？&lt;/p&gt;
+</content><link href="/archives/2020-02-28-01/" rel="alternate"/><published>2020-02-28T00:00:00+08:06</published></entry><entry><id>/archives/2020-02-29-02/</id><title>如何低成本建立公司网站</title><updated>2020-03-28T10:17:41.147693+00:00</updated><author><name>MIKA</name><email>359911923@qq.com</email><uri>https://www.wangxfei.com</uri></author><content>&lt;p&gt;建立一个公司网站，需要哪些条件呢？&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;p&gt;虚拟主机或者服务器VPS&lt;/p&gt;
 &lt;/li&gt;
@@ -645,7 +597,7 @@ CERTIFICATE OF SHIPMENT WITH OTHER SHIPPING DOCUMENTS OF 8 PRODUCTION SAMPLES“
 把upload_max_filesize 调大，我刚才调整到50&lt;/p&gt;
 &lt;p&gt;然后点击应用。就没有问题了。&lt;/p&gt;
 &lt;p&gt;如果再遇到其他问题，请通过微信联系我&lt;/p&gt;
-</content><link href="/archives/2020-02-29-02/" rel="alternate"/><published>2020-02-29T00:00:00+08:06</published></entry><entry><id>/archives/2020-02-29-01/</id><title>市场调查之印度（一）</title><updated>2020-03-28T10:02:17.215406+00:00</updated><author><name>MIKA</name><email>359911923@qq.com</email><uri>https://www.wangxfei.com</uri></author><content>&lt;p&gt;&lt;figure&gt;&lt;img data-width="2370" data-height="2370" src="https://cdn.jsdelivr.net/gh/mikamichael/Blog-With-GitHub-Boilerplate@gh-pages/archives/assets/651d037f1cc57fa2bd543d150f5baf69.png" alt="印度" /&gt;&lt;figcaption&gt;印度&lt;/figcaption&gt;&lt;/figure&gt;&lt;/p&gt;
+</content><link href="/archives/2020-02-29-02/" rel="alternate"/><published>2020-02-29T00:00:00+08:06</published></entry><entry><id>/archives/2020-02-29-01/</id><title>市场调查之印度（一）</title><updated>2020-03-28T10:17:41.147669+00:00</updated><author><name>MIKA</name><email>359911923@qq.com</email><uri>https://www.wangxfei.com</uri></author><content>&lt;p&gt;&lt;figure&gt;&lt;img data-width="2370" data-height="2370" src="https://cdn.jsdelivr.net/gh/mikamichael/Blog-With-GitHub-Boilerplate@gh-pages/archives/assets/651d037f1cc57fa2bd543d150f5baf69.png" alt="印度" /&gt;&lt;figcaption&gt;印度&lt;/figcaption&gt;&lt;/figure&gt;&lt;/p&gt;
 &lt;h3&gt;基本概述&lt;/h3&gt;
 &lt;h4&gt;简介&lt;/h4&gt;
 &lt;p&gt;印度共和国，英语：Republic of India，统称印度（India)。位于南亚，是南亚次大陆最大的国家，也是一个由100多个民族
@@ -808,7 +760,7 @@ CERTIFICATE OF SHIPMENT WITH OTHER SHIPPING DOCUMENTS OF 8 PRODUCTION SAMPLES“
 &lt;p&gt;印度的个人所得税税率为35.88%&lt;/p&gt;
 &lt;p&gt;从2004年到2018年，印度的个人所得税平均税率为32.05%，2018年达到35.88%的历史最高水平&lt;/p&gt;
 &lt;p&gt;&lt;font color=#DCDCDC size=1&gt;（PS:  本文部分数据参考商务部、tradingeconomics等，由外跨研究中心综合整理，转载请务必标明出处。）&lt;/font&gt;&lt;/p&gt;
-</content><link href="/archives/2020-02-29-01/" rel="alternate"/><published>2020-02-29T00:00:00+08:06</published></entry><entry><id>/archives/2020-02-29-03/</id><title>2020年三月节日</title><updated>2020-03-28T10:02:17.215363+00:00</updated><author><name>MIKA</name><email>359911923@qq.com</email><uri>https://www.wangxfei.com</uri></author><content>&lt;p&gt;&lt;figure&gt;&lt;img data-width="1092" data-height="662" src="https://cdn.jsdelivr.net/gh/mikamichael/Blog-With-GitHub-Boilerplate@gh-pages/archives/assets/566a541fd266cc1930869a28b3761d63.png" alt="三月节日" /&gt;&lt;figcaption&gt;三月节日&lt;/figcaption&gt;&lt;/figure&gt;&lt;/p&gt;
+</content><link href="/archives/2020-02-29-01/" rel="alternate"/><published>2020-02-29T00:00:00+08:06</published></entry><entry><id>/archives/2020-02-29-03/</id><title>2020年三月节日</title><updated>2020-03-28T10:17:41.147645+00:00</updated><author><name>MIKA</name><email>359911923@qq.com</email><uri>https://www.wangxfei.com</uri></author><content>&lt;p&gt;&lt;figure&gt;&lt;img data-width="1092" data-height="662" src="https://cdn.jsdelivr.net/gh/mikamichael/Blog-With-GitHub-Boilerplate@gh-pages/archives/assets/566a541fd266cc1930869a28b3761d63.png" alt="三月节日" /&gt;&lt;figcaption&gt;三月节日&lt;/figcaption&gt;&lt;/figure&gt;&lt;/p&gt;
 &lt;h4&gt;3月1日&lt;br&gt; 韩国·独立日&lt;/h4&gt;
 &lt;p&gt;韩国三一节，又叫独立日，是韩国法定节假日。全国放假一天&lt;/p&gt;
 &lt;h4&gt;3月3日&lt;br&gt; 日本·女儿节&lt;/h4&gt;
@@ -846,7 +798,7 @@ CERTIFICATE OF SHIPMENT WITH OTHER SHIPPING DOCUMENTS OF 8 PRODUCTION SAMPLES“
 港电台，宣布东孟加拉脱离巴基斯坦而独立，成立孟加拉国临时政府&lt;/p&gt;
 &lt;p&gt;独立后政府将此日定为国庆节及独立节。这天全国都举行隆重的庆祝活动&lt;/p&gt;
 &lt;p&gt;&lt;font color=#DCDCDC size=1&gt;（PS: 本文由外跨研究中心综合整理，转载请务必标明出处。）&lt;/font&gt;&lt;/p&gt;
-</content><link href="/archives/2020-02-29-03/" rel="alternate"/><published>2020-02-29T00:00:00+08:06</published></entry><entry><id>/archives/2020-02-29-04/</id><title>外贸工具汇总</title><updated>2020-03-28T10:02:17.215335+00:00</updated><author><name>MIKA</name><email>359911923@qq.com</email><uri>https://www.wangxfei.com</uri></author><content>&lt;ul&gt;
+</content><link href="/archives/2020-02-29-03/" rel="alternate"/><published>2020-02-29T00:00:00+08:06</published></entry><entry><id>/archives/2020-02-29-04/</id><title>外贸工具汇总</title><updated>2020-03-28T10:17:41.147621+00:00</updated><author><name>MIKA</name><email>359911923@qq.com</email><uri>https://www.wangxfei.com</uri></author><content>&lt;ul&gt;
 &lt;li&gt;&lt;p&gt;&lt;a href="http://www.hs-bianma.com/"&gt;海关编码查询&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;&lt;p&gt;&lt;a href="http://hd.chinatax.gov.cn/nszx/InitChukou.html"&gt;出口退税查询&lt;/a&gt;&lt;/p&gt;
@@ -882,7 +834,7 @@ CERTIFICATE OF SHIPMENT WITH OTHER SHIPPING DOCUMENTS OF 8 PRODUCTION SAMPLES“
 &lt;li&gt;&lt;p&gt;&lt;a href="https://developers.google.com/speed/pagespeed/insights/?hl=zh-cn"&gt;网站质量测试&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
-</content><link href="/archives/2020-02-29-04/" rel="alternate"/><published>2020-02-29T00:00:00+08:06</published></entry><entry><id>/archives/2020-03-01-01/</id><title>外贸单证下载汇总</title><updated>2020-03-28T10:02:17.215300+00:00</updated><author><name>MIKA</name><email>359911923@qq.com</email><uri>https://www.wangxfei.com</uri></author><content>&lt;h3&gt;货运单据&lt;/h3&gt;
+</content><link href="/archives/2020-02-29-04/" rel="alternate"/><published>2020-02-29T00:00:00+08:06</published></entry><entry><id>/archives/2020-03-01-01/</id><title>外贸单证下载汇总</title><updated>2020-03-28T10:17:41.147596+00:00</updated><author><name>MIKA</name><email>359911923@qq.com</email><uri>https://www.wangxfei.com</uri></author><content>&lt;h3&gt;货运单据&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;font color=red&gt;出口货物托运单&lt;/font&gt; &lt;a href="http://tradedoc.mofcom.gov.cn/TradeDoc/do/dz/fs/docroot/edu_sheet/100010101/10001010.doc?filename=10001010.doc&amp;amp;_downloadmode=2"&gt;&lt;strong&gt;点击下载&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
@@ -1100,7 +1052,7 @@ USD 98,000&lt;/p&gt;
 &lt;li&gt;&lt;font color = red&gt;代理报检委托书&lt;/font&gt; &lt;a href="http://tradedoc.mofcom.gov.cn/TradeDoc/do/dz/fs/docroot/edu_sheet/600020101/60002010.doc?filename=60002010.doc&amp;amp;_downloadmode=2"&gt;&lt;strong&gt;点击下载&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;&lt;strong&gt;作用和说明&lt;/strong&gt; 委托人委托代理报检单位办理报检事宜，明确双方责任、义务的书面证明。 填制要点：“品名”栏，若品名很多打印不下，可按如下示例填制：“无缝钢管等六项”&lt;/p&gt;
-</content><link href="/archives/2020-03-01-01/" rel="alternate"/><published>2020-03-01T00:00:00+08:06</published></entry><entry><id>/archives/2020-03-25-01/</id><title>建站汇总</title><updated>2020-03-28T10:02:17.215213+00:00</updated><author><name>MIKA</name><email>359911923@qq.com</email><uri>https://www.wangxfei.com</uri></author><content>&lt;p&gt;建站可能对于大多数人来说感觉很神秘，另外对于建站费用。建站公司报价差别很大。下面我列举出来一些我知道
+</content><link href="/archives/2020-03-01-01/" rel="alternate"/><published>2020-03-01T00:00:00+08:06</published></entry><entry><id>/archives/2020-03-25-01/</id><title>建站汇总</title><updated>2020-03-28T10:17:41.147568+00:00</updated><author><name>MIKA</name><email>359911923@qq.com</email><uri>https://www.wangxfei.com</uri></author><content>&lt;p&gt;建站可能对于大多数人来说感觉很神秘，另外对于建站费用。建站公司报价差别很大。下面我列举出来一些我知道
 的一些建站方案和大概预算费用。&lt;/p&gt;
 &lt;h3&gt;Level 1: 上手即用类&lt;/h3&gt;
 &lt;p&gt;&lt;strong&gt;适合人群：没有任何技术基础，只想要一个方便的界面和美观的网站，能让我能把自己的内容发布出来就行&lt;/strong&gt;&lt;/p&gt;
@@ -1374,4 +1326,47 @@ Hexo 也并非唯一的静态网站生成器，本文只是用它作为一个例
 看懂一个网站开始，进而学会如何修改它，直至最终具备制作一个独立的网站的能力。&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ol&gt;
-</content><link href="/archives/2020-03-25-01/" rel="alternate"/><published>2020-03-25T00:00:00+08:06</published></entry></feed>
+</content><link href="/archives/2020-03-25-01/" rel="alternate"/><published>2020-03-25T00:00:00+08:06</published></entry><entry><id>/archives/2020-03-28-01/</id><title>2020年四月节日</title><updated>2020-03-28T10:17:41.147496+00:00</updated><author><name>MIKA</name><email>359911923@qq.com</email><uri>https://www.wangxfei.com</uri></author><content>&lt;p&gt;&lt;figure&gt;&lt;img data-width="1080" data-height="656" src="https://cdn.jsdelivr.net/gh/mikamichael/Blog-With-GitHub-Boilerplate@gh-pages/archives/assets/6b591be29b3df515b1afe32f6a0709d8.png" alt="四月节日" /&gt;&lt;figcaption&gt;四月节日&lt;/figcaption&gt;&lt;/figure&gt;&lt;/p&gt;
+&lt;h4&gt;4月2日&lt;br&gt; 越南·雄王节&lt;/h4&gt;
+&lt;p&gt;每年的农历三月初十是越南的雄王节。雄王建立的“文郎国”为越南的第一个王朝，其
+后子孙后代不断繁衍，从而形成了今天的越南民族。越南有许许多多“雄王庙”，每年的
+农历三月初十都会举行非常隆重庄严的祭祀活动。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;食物&lt;/strong&gt; 每逢春节或祭拜雄王节，越南人民都会做着两种食物（圆形的叫做Banh giay，
+方形叫做Banh chung -粽子），以祭拜祖先，表示孝顺之心，以及饮水思源的传统。&lt;/p&gt;
+&lt;h4&gt;4月9日&lt;br&gt; 基督教·濯足节&lt;/h4&gt;
+&lt;p&gt;濯足节是基督教纪念耶稣建立圣体圣血之圣餐礼的节日。根据耶稣在受难前夕最后晚餐上
+为十二门徒洗脚所作出的榜样而定为节日。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;活动&lt;/strong&gt; 教会规定在该日举行濯足礼，以追随耶稣谦卑、仁爱之举来完成其授权的事业，实现其新约。&lt;/p&gt;
+&lt;h4&gt;4月9日&lt;br&gt; 以色列·逾越节&lt;/h4&gt;
+&lt;p&gt;逾越节是为了纪念犹太人在摩西的领导下离开埃及，脱离被奴役的生活，以犹太民族的身份
+拥抱自由，被视为是古犹太传统中最重要的节日。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;活动&lt;/strong&gt; 所有政府部门、各级学校与大学均有七天假期，多数民营企业或休七天假，或只休其中几天。&lt;/p&gt;
+&lt;h4&gt;4月10日&lt;br&gt; 耶稣·受难日&lt;/h4&gt;
+&lt;p&gt;Good Friday，又称基督受难日或耶稣受难节，是为了纪念耶稣基督被钉在十字架上受难的日子，是复活节前的星期五&lt;/p&gt;
+&lt;h4&gt;4月12日&lt;br&gt; 基督教·复活节&lt;/h4&gt;
+&lt;p&gt;复活节是基督徒纪念耶稣被钉在十字架死后的第3天复活的节日。复活节象征着新生。&lt;/p&gt;
+&lt;p&gt;它在西方国家是仅次于圣诞节的第二大重要节日。凡是以天主教、新教、东正教为主要信仰的国家，都会过复活节。这些国家包括但不限于：欧洲诸国，美国、加拿大、巴西等美洲国家，澳大利亚、新西兰，尼日利亚；俄罗斯、希腊等国过东正教复活节。在中国香港，复活节也是法定假日。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;活动&lt;/strong&gt; 欧美民间有很多传统的庆祝活动和习俗，如游行，制作和寻找彩蛋，复活节兔子等等。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;特别提醒&lt;/strong&gt; 复活节的祝福不要发给不信仰基督教的印度客人、中东客人。&lt;/p&gt;
+&lt;h4&gt;4月13日&lt;br&gt; 泰国·泼水节（宋干节）&lt;/h4&gt;
+&lt;p&gt;泰国及东南亚地区最盛大的传统节日。人们会前往寺庙沐浴礼佛、堆沙造塔、听僧诵经。各地的泼水活动吸引各国游客前来。&lt;/p&gt;
+&lt;h4&gt;4月14日&lt;br&gt; 孟加拉国·孟历新年&lt;/h4&gt;
+&lt;p&gt;4月14日是孟加拉国的孟历新年。休假天数1天。在吃过一种新年特别早饭之后，孟加拉人会穿上传统服装去参加新年游行。&lt;/p&gt;
+&lt;h4&gt;4月21日&lt;br&gt; 巴西·革命英雄节&lt;/h4&gt;
+&lt;p&gt;这是巴西最重要的国民节日之一，也是一个全国性的节日。这个节日在巴西历史上具有重大意义。Tiradentes意为“拔牙者”，指的是巴西历史上鼎鼎大名的民族英雄若阿金•何塞•达•席尔瓦•泽维尔（Joaquim José da Silva Xavier），这是他在1792年为巴西独立而就义的日子。&lt;/p&gt;
+&lt;h4&gt;4月23日&lt;br&gt; 穆斯林·入斋（斋月开始）&lt;/h4&gt;
+&lt;p&gt;斋月，又译莱麦丹月，是伊斯兰历第九个月，该月名字意为“禁月”，是穆斯林封斋的一个月。斋月期间，穆斯林的工作时间一般为早上9点到下午2点，此时的工作效率会比较低，有些人会夜间工作，白天休息。今年将于5月23日开斋。&lt;/p&gt;
+&lt;h4&gt;4月25日&lt;br&gt; 意大利·解放日&lt;/h4&gt;
+&lt;p&gt;1945年4月25日，意大利北方人民举行起义，解放了米兰、都灵、热那亚等大城市，驱逐了纳粹德国占领军，结束了长达20年的法西斯统治。为纪念这一胜利，将这一天定为解放日，国家机关将举行庆祝活动，全国放假一天。&lt;/p&gt;
+&lt;h4&gt;4月25日&lt;br&gt; 澳大利亚·澳新军团日&lt;/h4&gt;
+&lt;p&gt;澳新军团日源于第一次世界大战中的加里波利战役。纪念第一次世界大战时期、于1915年4月25日在加里波利之战牺牲的澳大利亚和新西兰联合军团（简称澳新军团）军人的日子，在澳大利亚和新西兰均为公众假日，为两地最重要的节日之一。从这一天的拂晓开始，全国范围内各地的战争纪念馆都会举行纪念仪式。&lt;/p&gt;
+&lt;h4&gt;4月25日&lt;br&gt; 埃及·西奈解放日&lt;/h4&gt;
+&lt;p&gt;每年的4月25日是埃及人民庆祝西奈回归的日子，那时全国都会放假一天，举国欢腾。&lt;/p&gt;
+&lt;h4&gt;4月27日&lt;br&gt; 荷兰·国王日&lt;/h4&gt;
+&lt;p&gt;从2014年开始，荷兰不再在4月30日庆祝女王节，而是在4月27日庆祝国王日。数以百万的荷兰人汇聚会在街头巷尾，汇成一片片“橙色海洋”。&lt;/p&gt;
+&lt;h4&gt;4月27日&lt;br&gt; 南非·自由日&lt;/h4&gt;
+&lt;p&gt;自由日（国庆节）是为了庆祝南非1994年废除种族隔离制度之后，人民获得政治自由和进行了南非历史上第一次不分种族的选举而设立的节日。&lt;/p&gt;
+&lt;h4&gt;4月29日&lt;br&gt; 以色列·独立日&lt;/h4&gt;
+&lt;p&gt;独立日即以色列国庆节。1949年以色列议会通过决议，确定犹太民历以珥月5日为以色列国独立日。&lt;/p&gt;
+&lt;p&gt;独立日是以色列国政治生活中最重要的日子，每年的这一天都要举行大规模群众性庆典。庆典于太阳落山之后在耶路撒冷赫茨尔山上举行，总统、总理、各部部长、著名人士，国防军残废军人、烈军属、新移民代表和各界人士代表参加在赫茨尔墓地举行的庆典开始仪式。仪式由议会议长主持。仪式主要内容是鸣礼炮，礼炮的响数与建国的年数相等。&lt;/p&gt;
+</content><link href="/archives/2020-03-28-01/" rel="alternate"/><published>2020-03-28T00:00:00+08:06</published></entry></feed>
