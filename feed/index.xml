@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>外贸启航站</title><link>/</link><description>外贸路上，愿我们都不再孤单。</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://cdn.jsdelivr.net/gh/mikamichael/Blog-With-GitHub-Boilerplate@gh-pages/logo.png</url><title>外贸启航站</title><link>/</link></image><language>zh-CN</language><lastBuildDate>Sat, 11 Apr 2020 14:25:19 +0806</lastBuildDate><pubDate>Sat, 11 Apr 2020 14:25:19 +0806</pubDate><item><title>如何低成本建立公司网站</title><link>/archives/2020-02-29-02/</link><description>&lt;p&gt;建立一个公司网站，需要哪些条件呢？&lt;/p&gt;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>外贸启航站</title><link>/</link><description>外贸路上，愿我们都不再孤单。</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://cdn.jsdelivr.net/gh/mikamichael/Blog-With-GitHub-Boilerplate@gh-pages/logo.png</url><title>外贸启航站</title><link>/</link></image><language>zh-CN</language><lastBuildDate>Sat, 11 Apr 2020 14:28:47 +0806</lastBuildDate><pubDate>Sat, 11 Apr 2020 14:28:47 +0806</pubDate><item><title>如何低成本建立公司网站</title><link>/archives/2020-02-29-02/</link><description>&lt;p&gt;建立一个公司网站，需要哪些条件呢？&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;p&gt;虚拟主机或者服务器VPS&lt;/p&gt;
 &lt;/li&gt;
@@ -1151,7 +1151,7 @@ Hexo 也并非唯一的静态网站生成器，本文只是用它作为一个例
 &lt;li&gt;利用谷歌图片搜索来开发客户&lt;/li&gt;
 &lt;li&gt;利用Google搜索引擎+搜索指令来开发客户（内含15种具体方法！）&lt;/li&gt;
 &lt;/ul&gt;
-&lt;blockquote&gt;&lt;blockquote&gt;&lt;blockquote&gt;&lt;p&gt;找客户之前，大家务必要对自己的行业、市场和产品做到十分的熟悉：&lt;/p&gt;
+&lt;blockquote&gt;&lt;p&gt;找客户之前，大家务必要对自己的行业、市场和产品做到十分的熟悉：&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;市场分为哪些区域 ？每个客户需要有什么不同？客户群分类？&lt;/li&gt;
 &lt;li&gt;客户为什么要买我的产品，而不是买别人的产品 ？产品的特色？卖点？&lt;/li&gt;
@@ -1159,8 +1159,6 @@ Hexo 也并非唯一的静态网站生成器，本文只是用它作为一个例
 &lt;li&gt;公司产量如何？对质量的控制？证书 ？
 另外，还要整理出全面的客户群体关键词（各种说法多种语言），行业关键词，产品分类名关键词，产品关键词等。&lt;/li&gt;
 &lt;/ul&gt;
-&lt;/blockquote&gt;
-&lt;/blockquote&gt;
 &lt;/blockquote&gt;
 &lt;h4&gt;利用Google My Business 开发客户&lt;/h4&gt;
 &lt;p&gt;Google my business是一个集Google搜索、Google地图 、Google+、Insights、Hangouts于一体的免费平台。&lt;/p&gt;
