@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-CN"><id>/</id><title>外贸启航站</title><updated>2020-04-13T16:48:24.348942+08:06</updated><author><name>MIKA</name><email>359911923@qq.com</email></author><link href="/" rel="alternate"/><generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator><logo>https://cdn.jsdelivr.net/gh/mikamichael/Blog-With-GitHub-Boilerplate@gh-pages/logo.png</logo><subtitle>外贸路上，愿我们都不再孤单。</subtitle><entry><id>/archives/2020-02-29-04/</id><title>外贸工具汇总</title><updated>2020-04-13T16:48:24.349371+00:00</updated><author><name>MIKA</name><email>359911923@qq.com</email><uri>https://www.wangxfei.com</uri></author><content>&lt;ul&gt;
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-CN"><id>/</id><title>外贸启航站</title><updated>2020-04-13T16:58:07.849404+08:06</updated><author><name>MIKA</name><email>359911923@qq.com</email></author><link href="/" rel="alternate"/><generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator><logo>https://cdn.jsdelivr.net/gh/mikamichael/Blog-With-GitHub-Boilerplate@gh-pages/logo.png</logo><subtitle>外贸路上，愿我们都不再孤单。</subtitle><entry><id>/archives/2020-02-29-04/</id><title>外贸工具汇总</title><updated>2020-04-13T16:58:07.849792+00:00</updated><author><name>MIKA</name><email>359911923@qq.com</email><uri>https://www.wangxfei.com</uri></author><content>&lt;ul&gt;
 &lt;li&gt;&lt;p&gt;&lt;a href="http://www.hs-bianma.com/"&gt;海关编码查询&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;&lt;p&gt;&lt;a href="http://hd.chinatax.gov.cn/nszx/InitChukou.html"&gt;出口退税查询&lt;/a&gt;&lt;/p&gt;
@@ -35,7 +35,7 @@
 &lt;li&gt;&lt;p&gt;&lt;a href="https://developers.google.com/speed/pagespeed/insights/?hl=zh-cn"&gt;网站质量测试&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
-</content><link href="/archives/2020-02-29-04/" rel="alternate"/><published>2020-02-29T00:00:00+08:06</published></entry><entry><id>/archives/2020-03-01-01/</id><title>外贸单证下载汇总</title><updated>2020-04-13T16:48:24.349340+00:00</updated><author><name>MIKA</name><email>359911923@qq.com</email><uri>https://www.wangxfei.com</uri></author><content>&lt;h3&gt;货运单据&lt;/h3&gt;
+</content><link href="/archives/2020-02-29-04/" rel="alternate"/><published>2020-02-29T00:00:00+08:06</published></entry><entry><id>/archives/2020-03-01-01/</id><title>外贸单证下载汇总</title><updated>2020-04-13T16:58:07.849765+00:00</updated><author><name>MIKA</name><email>359911923@qq.com</email><uri>https://www.wangxfei.com</uri></author><content>&lt;h3&gt;货运单据&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;font color=red&gt;出口货物托运单&lt;/font&gt; &lt;a href="http://tradedoc.mofcom.gov.cn/TradeDoc/do/dz/fs/docroot/edu_sheet/100010101/10001010.doc?filename=10001010.doc&amp;amp;_downloadmode=2"&gt;&lt;strong&gt;点击下载&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
@@ -253,7 +253,7 @@ USD 98,000&lt;/p&gt;
 &lt;li&gt;&lt;font color = red&gt;代理报检委托书&lt;/font&gt; &lt;a href="http://tradedoc.mofcom.gov.cn/TradeDoc/do/dz/fs/docroot/edu_sheet/600020101/60002010.doc?filename=60002010.doc&amp;amp;_downloadmode=2"&gt;&lt;strong&gt;点击下载&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;&lt;strong&gt;作用和说明&lt;/strong&gt; 委托人委托代理报检单位办理报检事宜，明确双方责任、义务的书面证明。 填制要点：“品名”栏，若品名很多打印不下，可按如下示例填制：“无缝钢管等六项”&lt;/p&gt;
-</content><link href="/archives/2020-03-01-01/" rel="alternate"/><published>2020-03-01T00:00:00+08:06</published></entry><entry><id>/archives/2020-03-25-01/</id><title>建站汇总</title><updated>2020-04-13T16:48:24.349310+00:00</updated><author><name>MIKA</name><email>359911923@qq.com</email><uri>https://www.wangxfei.com</uri></author><content>&lt;p&gt;建站可能对于大多数人来说感觉很神秘，另外对于建站费用。建站公司报价差别很大。下面我列举出来一些我知道
+</content><link href="/archives/2020-03-01-01/" rel="alternate"/><published>2020-03-01T00:00:00+08:06</published></entry><entry><id>/archives/2020-03-25-01/</id><title>建站汇总</title><updated>2020-04-13T16:58:07.849736+00:00</updated><author><name>MIKA</name><email>359911923@qq.com</email><uri>https://www.wangxfei.com</uri></author><content>&lt;p&gt;建站可能对于大多数人来说感觉很神秘，另外对于建站费用。建站公司报价差别很大。下面我列举出来一些我知道
 的一些建站方案和大概预算费用。&lt;/p&gt;
 &lt;h3&gt;Level 1: 上手即用类&lt;/h3&gt;
 &lt;p&gt;&lt;strong&gt;适合人群：没有任何技术基础，只想要一个方便的界面和美观的网站，能让我能把自己的内容发布出来就行&lt;/strong&gt;&lt;/p&gt;
@@ -344,7 +344,7 @@ Weebly无论是网站后台还是模板都更加朴素和人性化一些。但�
 &lt;p&gt;作为一个有着 17 年历史的开源博客程序，WordPress 可以算得上是最著名的博客方案，没有之一。
 WordPress 有着异常庞大的用户社群，你可以在网上找到无数的主题和插件，可以说，其他博客服务有
 的任何功能，WordPress 几乎都能做到。根据维基百科，截至 2019 年，世界上排名前 1000 万的网站
-中，超过 30% 都使用 WordPress 搭建。WordPress 官方的建站服务 wordpress.com 可以让你不需
+中，超过 30% 都使用 WordPress 搭建。WordPress 官方的建站服务&lt;code&gt;wordpress.com&lt;/code&gt; 可以让你不需
 要自己购买服务器，只要注册一个帐号，就能够简单地创建自己的博客站点。&lt;/p&gt;
 &lt;p&gt;关于 WordPress 的教程和使用说明，网上已经有很多，官网上也提供了简体中文的文档，在这里我
 暂且简单的罗列一下它的优势：&lt;/p&gt;
@@ -527,7 +527,7 @@ Hexo 也并非唯一的静态网站生成器，本文只是用它作为一个例
 看懂一个网站开始，进而学会如何修改它，直至最终具备制作一个独立的网站的能力。&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ol&gt;
-</content><link href="/archives/2020-03-25-01/" rel="alternate"/><published>2020-03-25T00:00:00+08:06</published></entry><entry><id>/archives/2020-03-28-01/</id><title>2020年四月节日</title><updated>2020-04-13T16:48:24.349279+00:00</updated><author><name>MIKA</name><email>359911923@qq.com</email><uri>https://www.wangxfei.com</uri></author><content>&lt;p&gt;&lt;figure&gt;&lt;img data-width="1080" data-height="656" src="https://cdn.jsdelivr.net/gh/mikamichael/Blog-With-GitHub-Boilerplate@gh-pages/archives/assets/6b591be29b3df515b1afe32f6a0709d8.png" alt="四月节日" /&gt;&lt;figcaption&gt;四月节日&lt;/figcaption&gt;&lt;/figure&gt;&lt;/p&gt;
+</content><link href="/archives/2020-03-25-01/" rel="alternate"/><published>2020-03-25T00:00:00+08:06</published></entry><entry><id>/archives/2020-03-28-01/</id><title>2020年四月节日</title><updated>2020-04-13T16:58:07.849707+00:00</updated><author><name>MIKA</name><email>359911923@qq.com</email><uri>https://www.wangxfei.com</uri></author><content>&lt;p&gt;&lt;figure&gt;&lt;img data-width="1080" data-height="656" src="https://cdn.jsdelivr.net/gh/mikamichael/Blog-With-GitHub-Boilerplate@gh-pages/archives/assets/6b591be29b3df515b1afe32f6a0709d8.png" alt="四月节日" /&gt;&lt;figcaption&gt;四月节日&lt;/figcaption&gt;&lt;/figure&gt;&lt;/p&gt;
 &lt;h4&gt;4月2日&lt;br&gt; 越南·雄王节&lt;/h4&gt;
 &lt;p&gt;每年的农历三月初十是越南的雄王节。雄王建立的“文郎国”为越南的第一个王朝，其
 后子孙后代不断繁衍，从而形成了今天的越南民族。越南有许许多多“雄王庙”，每年的
@@ -570,7 +570,7 @@ Hexo 也并非唯一的静态网站生成器，本文只是用它作为一个例
 &lt;h4&gt;4月29日&lt;br&gt; 以色列·独立日&lt;/h4&gt;
 &lt;p&gt;独立日即以色列国庆节。1949年以色列议会通过决议，确定犹太民历以珥月5日为以色列国独立日。&lt;/p&gt;
 &lt;p&gt;独立日是以色列国政治生活中最重要的日子，每年的这一天都要举行大规模群众性庆典。庆典于太阳落山之后在耶路撒冷赫茨尔山上举行，总统、总理、各部部长、著名人士，国防军残废军人、烈军属、新移民代表和各界人士代表参加在赫茨尔墓地举行的庆典开始仪式。仪式由议会议长主持。仪式主要内容是鸣礼炮，礼炮的响数与建国的年数相等。&lt;/p&gt;
-</content><link href="/archives/2020-03-28-01/" rel="alternate"/><published>2020-03-28T00:00:00+08:06</published></entry><entry><id>/archives/2020-03-31-01/</id><title>推荐外贸人使用的几个谷歌插件</title><updated>2020-04-13T16:48:24.349247+00:00</updated><author><name>MIKA</name><email>359911923@qq.com</email><uri>https://www.wangxfei.com</uri></author><content>&lt;p&gt;做外贸经常要去外网上搜索一些资料，但是限于政策影响。很多人都无法访问外网。或者有的外贸人通过FQ软件访问。&lt;/p&gt;
+</content><link href="/archives/2020-03-28-01/" rel="alternate"/><published>2020-03-28T00:00:00+08:06</published></entry><entry><id>/archives/2020-03-31-01/</id><title>推荐外贸人使用的几个谷歌插件</title><updated>2020-04-13T16:58:07.849678+00:00</updated><author><name>MIKA</name><email>359911923@qq.com</email><uri>https://www.wangxfei.com</uri></author><content>&lt;p&gt;做外贸经常要去外网上搜索一些资料，但是限于政策影响。很多人都无法访问外网。或者有的外贸人通过FQ软件访问。&lt;/p&gt;
 &lt;p&gt;鉴于此，在此分享几个谷歌插件，可以提高我们外贸人的工作效率。&lt;/p&gt;
 &lt;hr&gt;
 &lt;p&gt;先来介绍一下谷歌浏览器。如果说谷歌浏览器和其他浏览器有什么不同的地方。我个人形容它的话：用上插件，可以带你飞！&lt;/p&gt;
@@ -650,7 +650,7 @@ Hexo 也并非唯一的静态网站生成器，本文只是用它作为一个例
 &lt;h3&gt;Momemtun&lt;/h3&gt;
 &lt;p&gt;Momentun这个工具刚开始使用的时候，是觉得可以让Chrome浏览器有个漂亮的壁纸，不用每天工作那么枯燥，看看美丽的风景，工作的心情会好一些。&lt;/p&gt;
 &lt;p&gt;这是一个待办清单(to-do list)器插件，你可以罗列你每天要做的事项，完成了就按enter键划掉。也是一个浏览器壁纸插件，每天给你一个漂亮的风景图片，还是一个心灵鸡汤插件，每天给你推荐一句短小精悍的英文鸡汤。&lt;/p&gt;
-</content><link href="/archives/2020-03-31-01/" rel="alternate"/><published>2020-03-31T00:00:00+08:06</published></entry><entry><id>/archives/2020-04-01-01/</id><title>你想知道的，都在这里</title><updated>2020-04-13T16:48:24.349215+00:00</updated><author><name>MIKA</name><email>359911923@qq.com</email><uri>https://www.wangxfei.com</uri></author><content>&lt;h3&gt;01 日常工作细节&lt;/h3&gt;
+</content><link href="/archives/2020-03-31-01/" rel="alternate"/><published>2020-03-31T00:00:00+08:06</published></entry><entry><id>/archives/2020-04-01-01/</id><title>你想知道的，都在这里</title><updated>2020-04-13T16:58:07.849649+00:00</updated><author><name>MIKA</name><email>359911923@qq.com</email><uri>https://www.wangxfei.com</uri></author><content>&lt;h3&gt;01 日常工作细节&lt;/h3&gt;
 &lt;p&gt;&lt;strong&gt; 第一：收到客户询盘后，一定要第一时间回复客户&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;收到客户的邮件后，第一时间回复客户，即使没有办法马上报价或者回答客户的疑惑，也会回复一封客户邮件，告诉对方“邮件已收到，
 大约什么时候可以确切回复”。&lt;/p&gt;
@@ -756,7 +756,7 @@ Hexo 也并非唯一的静态网站生成器，本文只是用它作为一个例
 &lt;li&gt;&lt;p&gt;对于原材料市场价格波动的价格调整问题，同样也是在多少个percent以内维持原价，超额部分一人一半。&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
-</content><link href="/archives/2020-04-01-01/" rel="alternate"/><published>2020-04-01T00:00:00+08:06</published></entry><entry><id>/archives/2020-04-11-02/</id><title>如何拥有一个永久的美国手机号？</title><updated>2020-04-13T16:48:24.349182+00:00</updated><author><name>MIKA</name><email>359911923@qq.com</email><uri>https://www.wangxfei.com</uri></author><content>&lt;p&gt;大家在做跨境电商的时候，有时候会碰到一个问题，就是接收短信，或者电话比较麻烦。&lt;/p&gt;
+</content><link href="/archives/2020-04-01-01/" rel="alternate"/><published>2020-04-01T00:00:00+08:06</published></entry><entry><id>/archives/2020-04-11-02/</id><title>如何拥有一个永久的美国手机号？</title><updated>2020-04-13T16:58:07.849619+00:00</updated><author><name>MIKA</name><email>359911923@qq.com</email><uri>https://www.wangxfei.com</uri></author><content>&lt;p&gt;大家在做跨境电商的时候，有时候会碰到一个问题，就是接收短信，或者电话比较麻烦。&lt;/p&gt;
 &lt;p&gt;比如你注册一个论坛，或者一些网站，有时候不会让你用+86的来接受。或者你有时候不想暴露自己的手机号，因为互联网上有很多的垃圾消息，你怕会收到很多的骚扰信息。&lt;/p&gt;
 &lt;p&gt;这个时候，其实挺需要一个在线虚拟电话，可以用来做一下的事：&lt;/p&gt;
 &lt;ul&gt;
@@ -855,7 +855,7 @@ reclaim numbers that have been ported in to Google Voice or made permanent.&lt;/
 &lt;p&gt;&lt;strong&gt;注意：&lt;/strong&gt;旧 Google Voice 号是永久的，新Google Voice 号是普通的，新 GV 号 6 个月不使用依然被会回收。&lt;/p&gt;
 &lt;p&gt;比如大家看我自己的Google Voice，大家可以看下面的图片，基本就是每天来接受信息什么的（当然也可以用来接听电话什么的），所以非常方便。&lt;/p&gt;
 &lt;p&gt;&lt;a href="./GoogleSkill/google_voice/19.png"&gt;&lt;/a&gt;&lt;/p&gt;
-</content><link href="/archives/2020-04-11-02/" rel="alternate"/><published>2020-04-11T00:00:00+08:06</published></entry><entry><id>/archives/2020-04-11-01/</id><title>Google开发客户方法大全（整理版）</title><updated>2020-04-13T16:48:24.349148+00:00</updated><author><name>MIKA</name><email>359911923@qq.com</email><uri>https://www.wangxfei.com</uri></author><content>&lt;h3&gt;文章大纲&lt;/h3&gt;
+</content><link href="/archives/2020-04-11-02/" rel="alternate"/><published>2020-04-11T00:00:00+08:06</published></entry><entry><id>/archives/2020-04-11-01/</id><title>Google开发客户方法大全（整理版）</title><updated>2020-04-13T16:58:07.849587+00:00</updated><author><name>MIKA</name><email>359911923@qq.com</email><uri>https://www.wangxfei.com</uri></author><content>&lt;h3&gt;文章大纲&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;利用Google My Business 开发客户&lt;/li&gt;
 &lt;li&gt;利用谷歌地图开发客户&lt;/li&gt;
@@ -1034,24 +1034,24 @@ reclaim numbers that have been ported in to Google Voice or made permanent.&lt;/
 &lt;p&gt;还有很多，在这里我就不一一列举了，大家要是想针对性的开发某个国家就要百度下 “公共邮箱后缀 ”，然后就可以找到所有的邮箱了~&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;15、进口商与分销商名录网站方法&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;可以通过在谷歌中搜索importers directory和distributorsdirectory来查找、进口商与分销商名录。&lt;/p&gt;
-</content><link href="/archives/2020-04-11-01/" rel="alternate"/><published>2020-04-11T00:00:00+08:06</published></entry><entry><id>/archives/2020-04-13-01/</id><title>国际版抖音（TikTok)安装教程</title><updated>2020-04-13T16:48:24.349109+00:00</updated><author><name>MIKA</name><email>359911923@qq.com</email><uri>https://www.wangxfei.com</uri></author><content>&lt;p&gt;&lt;a href="https://mika.lanzous.com/ibazlif"&gt;安卓版抖音下载地址&lt;/a&gt;&lt;/p&gt;
-</content><link href="/archives/2020-04-13-01/" rel="alternate"/><published>2020-04-13T00:00:00+08:06</published></entry><entry><id>/archives/2020-04-14-01/</id><title>苹果手机科学上网</title><updated>2020-04-13T16:48:24.349039+00:00</updated><author><name>MIKA</name><email>359911923@qq.com</email><uri>https://www.wangxfei.com</uri></author><content>&lt;blockquote&gt;&lt;p&gt;苹果手机推荐使用Shadowrocket&lt;/p&gt;
+</content><link href="/archives/2020-04-11-01/" rel="alternate"/><published>2020-04-11T00:00:00+08:06</published></entry><entry><id>/archives/2020-04-13-01/</id><title>国际版抖音（TikTok)安装教程</title><updated>2020-04-13T16:58:07.849550+00:00</updated><author><name>MIKA</name><email>359911923@qq.com</email><uri>https://www.wangxfei.com</uri></author><content>&lt;p&gt;&lt;a href="https://mika.lanzous.com/ibazlif"&gt;安卓版抖音下载地址&lt;/a&gt;&lt;/p&gt;
+</content><link href="/archives/2020-04-13-01/" rel="alternate"/><published>2020-04-13T00:00:00+08:06</published></entry><entry><id>/archives/2020-04-14-01/</id><title>苹果手机科学上网</title><updated>2020-04-13T16:58:07.849485+00:00</updated><author><name>MIKA</name><email>359911923@qq.com</email><uri>https://www.wangxfei.com</uri></author><content>&lt;blockquote&gt;&lt;p&gt;苹果手机推荐使用Shadowrocket&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;p&gt;因为政策原因，Shadowrocket已经无法在国区进行下载。如果需要下载Shadowrocket，需要使用美区账号下载&lt;/p&gt;
+&lt;p&gt;因为政策原因，&lt;code&gt;Shadowrocket&lt;/code&gt;已经无法在国区进行下载。如果需要下载 &lt;code&gt;Shadowrocket&lt;/code&gt;，需要使用美区账号下载&lt;/p&gt;
 &lt;p&gt;获取美区账号地址&lt;a href="https://app.aneeo.com/id/ihnkog3tngg.php"&gt;请点击链接&lt;/a&gt;
 &lt;figure&gt;&lt;img data-width="993" data-height="524" src="https://cdn.jsdelivr.net/gh/mikamichael/Blog-With-GitHub-Boilerplate@gh-pages/archives/assets/122aca56dab20ea4c6aa988cd6df6544.png" alt=" " /&gt;&lt;figcaption&gt; &lt;/figcaption&gt;&lt;/figure&gt;
 请输入&lt;font color=red&gt;使用后我会退出账号&lt;/font&gt;&lt;/p&gt;
-&lt;p&gt;&lt;figure&gt;&lt;img data-width="-1" data-height="-1" src="./iphone/02.png]" alt=" " /&gt;&lt;figcaption&gt; &lt;/figcaption&gt;&lt;/figure&gt;&lt;/p&gt;
+&lt;p&gt;&lt;figure&gt;&lt;img data-width="1164" data-height="859" src="https://cdn.jsdelivr.net/gh/mikamichael/Blog-With-GitHub-Boilerplate@gh-pages/archives/assets/a996658f9047f8257a3d0e85e888bc23.png" alt=" " /&gt;&lt;figcaption&gt; &lt;/figcaption&gt;&lt;/figure&gt;&lt;/p&gt;
 &lt;p&gt;请注意提示部分。&lt;/p&gt;
-&lt;p&gt;&lt;figure&gt;&lt;img data-width="-1" data-height="-1" src="./iphone/03.png]" alt=" " /&gt;&lt;figcaption&gt; &lt;/figcaption&gt;&lt;/figure&gt;&lt;/p&gt;
+&lt;p&gt;&lt;figure&gt;&lt;img data-width="296" data-height="275" src="https://cdn.jsdelivr.net/gh/mikamichael/Blog-With-GitHub-Boilerplate@gh-pages/archives/assets/a7b109eeee4d6c8919788015bca73bd0.png" alt=" " /&gt;&lt;figcaption&gt; &lt;/figcaption&gt;&lt;/figure&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;操作规范：退出自己的iTunes Store与App Store账号，登录提供的美区账号。然后搜索Shadowrocket，下载安装。安装完毕后，请退出美区账号。重新登录自己的icloud账号。&lt;/strong&gt;&lt;/p&gt;
 &lt;h3&gt;下载方法&lt;/h3&gt;
 &lt;ol&gt;
 &lt;li&gt;打开 设置 &amp;gt; iTunes Store与App Store (注意不是icloud!!!否则后果自负) &amp;gt; 登录上面的账号&lt;/li&gt;
 &lt;/ol&gt;
-&lt;p&gt;&lt;figure&gt;&lt;img data-width="-1" data-height="-1" src="./iphone/04.png]" alt=" " /&gt;&lt;figcaption&gt; &lt;/figcaption&gt;&lt;/figure&gt;&lt;/p&gt;
+&lt;p&gt;&lt;figure&gt;&lt;img data-width="952" data-height="430" src="https://cdn.jsdelivr.net/gh/mikamichael/Blog-With-GitHub-Boilerplate@gh-pages/archives/assets/1f3e20a0de1000fee1da1db264b9e127.png" alt=" " /&gt;&lt;figcaption&gt; &lt;/figcaption&gt;&lt;/figure&gt;)&lt;/p&gt;
 &lt;ol&gt;
-&lt;li&gt;&lt;p&gt;去App Store 搜索下载 shadowrocket&lt;/p&gt;
+&lt;li&gt;&lt;p&gt;去App Store 搜索下载 &lt;code&gt;shadowrocket&lt;/code&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;&lt;p&gt;下载完之后注销账号，就可以登录回自己的账号了&lt;/p&gt;
 &lt;/li&gt;
@@ -1060,13 +1060,13 @@ reclaim numbers that have been ported in to Google Voice or made permanent.&lt;/
 &lt;ol&gt;
 &lt;li&gt;建议购买付费节点，相对来说比较稳定。一般付费节点会有订阅链接，如下图&lt;/li&gt;
 &lt;/ol&gt;
-&lt;p&gt;&lt;figure&gt;&lt;img data-width="-1" data-height="-1" src="./iphone/05.png]" alt=" " /&gt;&lt;figcaption&gt; &lt;/figcaption&gt;&lt;/figure&gt;&lt;/p&gt;
+&lt;p&gt;&lt;figure&gt;&lt;img data-width="651" data-height="110" src="https://cdn.jsdelivr.net/gh/mikamichael/Blog-With-GitHub-Boilerplate@gh-pages/archives/assets/1b20115d8ef8ec7af148bd4627f42838.png" alt=" " /&gt;&lt;figcaption&gt; &lt;/figcaption&gt;&lt;/figure&gt;&lt;/p&gt;
 &lt;p&gt;复制订阅链接&lt;/p&gt;
 &lt;ol&gt;
-&lt;li&gt;打开shadowrocket这个软件，点击右上角的+，然后类型选择Subscribe，填入刚才复制的订阅链接，点完成，更新完后，首页就出现了一些服务器节点，选一个，然后连接就行了。&lt;/li&gt;
+&lt;li&gt;打开 &lt;code&gt;shadowrocket&lt;/code&gt; 这个软件，点击右上角的+，然后类型选择Subscribe，填入刚才复制的订阅链接，点完成，更新完后，首页就出现了一些服务器节点，选一个，然后连接就行了。&lt;/li&gt;
 &lt;/ol&gt;
-&lt;p&gt;&lt;figure&gt;&lt;img data-width="-1" data-height="-1" src="./iphone/06.png]" alt=" " /&gt;&lt;figcaption&gt; &lt;/figcaption&gt;&lt;/figure&gt;&lt;/p&gt;
-&lt;p&gt;&lt;figure&gt;&lt;img data-width="-1" data-height="-1" src="./iphone/07.png]" alt=" " /&gt;&lt;figcaption&gt; &lt;/figcaption&gt;&lt;/figure&gt;&lt;/p&gt;
+&lt;p&gt;&lt;figure&gt;&lt;img data-width="698" data-height="398" src="https://cdn.jsdelivr.net/gh/mikamichael/Blog-With-GitHub-Boilerplate@gh-pages/archives/assets/21378a6db3b0150194292f16cbec1519.png" alt=" " /&gt;&lt;figcaption&gt; &lt;/figcaption&gt;&lt;/figure&gt;&lt;/p&gt;
+&lt;p&gt;&lt;figure&gt;&lt;img data-width="696" data-height="602" src="https://cdn.jsdelivr.net/gh/mikamichael/Blog-With-GitHub-Boilerplate@gh-pages/archives/assets/84b09b304afef61cc9c4f7de41e28b68.png" alt=" " /&gt;&lt;figcaption&gt; &lt;/figcaption&gt;&lt;/figure&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;说明：&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;全局路由：配置和代理的区别&lt;/li&gt;
@@ -1077,5 +1077,5 @@ reclaim numbers that have been ported in to Google Voice or made permanent.&lt;/
 &lt;p&gt;&lt;strong&gt;配置添加规则方法：&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;点击 配置 &amp;gt; 右上角+&lt;/p&gt;
 &lt;p&gt;然后粘贴下面的地址进去，然后下载&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://raw.githubusercontent.com/h2y/Shadowrocket-ADBlock-Rules/master/sr_top500_whitelist_ad.conf"&gt;https://raw.githubusercontent.com/h2y/Shadowrocket-ADBlock-Rules/master/sr_top500_whitelist_ad.conf&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;https://raw.githubusercontent.com/h2y/Shadowrocket-ADBlock-Rules/master/sr_top500_whitelist_ad.conf&lt;/code&gt;&lt;/p&gt;
 </content><link href="/archives/2020-04-14-01/" rel="alternate"/><published>2020-04-14T00:00:00+08:06</published></entry></feed>
