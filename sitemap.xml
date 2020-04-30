@@ -12,6 +12,13 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
+    <loc>/archives/2020-04-30-01/</loc>
+    <lastmod>2020-04-30</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+</url>
+
+<url>
     <loc>/archives/2020-04-14-01/</loc>
     <lastmod>2020-04-14</lastmod>
     <changefreq>always</changefreq>
@@ -82,14 +89,14 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
-    <loc>/archives/2020-02-29-04/</loc>
+    <loc>/archives/2020-02-29-03/</loc>
     <lastmod>2020-02-29</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
 </url>
 
 <url>
-    <loc>/archives/2020-02-29-03/</loc>
+    <loc>/archives/2020-02-29-04/</loc>
     <lastmod>2020-02-29</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
@@ -187,6 +194,13 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
+    <loc>/archives/2020-02-07-05/</loc>
+    <lastmod>2020-02-07</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+</url>
+
+<url>
     <loc>/archives/2020-02-07-04/</loc>
     <lastmod>2020-02-07</lastmod>
     <changefreq>always</changefreq>
@@ -202,13 +216,6 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
     <loc>/archives/2020-02-07-01/</loc>
-    <lastmod>2020-02-07</lastmod>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-</url>
-
-<url>
-    <loc>/archives/2020-02-07-05/</loc>
     <lastmod>2020-02-07</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
