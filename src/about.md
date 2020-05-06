@@ -21,12 +21,11 @@ categories:
 
 ********
 
-
 ## Contact
 
 联系人：MIKA
 
-![添加微信](./images/contact/wechat.jpg)
+<img src="./images/contact/wechat.jpg" alt="添加微信" style="zoom:60%;" />
 
 如果有问题，请添加微信联系MIKA
 
